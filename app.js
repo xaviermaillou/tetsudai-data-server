@@ -2,7 +2,7 @@ const http = require('http')
 const { readJSON, addElement, writeJSON, editElement } = require('./lib/handleData')
 
 const server = http.createServer((req, res) => {
-    console.log("Handling new request from server:", req.method)
+    console.log("Handling new request from server:", req.method, req.url)
     
     if (req.method === "GET") {
         let contentType = 'application/json'
@@ -20,6 +20,7 @@ const server = http.createServer((req, res) => {
             console.error("File not found for", req.url)
             res.writeHead(404)
             res.end("File not found for" + req.url)
+            return
         }
     
         const data = readJSON(req.url)
@@ -47,6 +48,7 @@ const server = http.createServer((req, res) => {
                 console.error("File not found for", req.url)
                 res.writeHead(404)
                 res.end("File not found for" + req.url)
+                return
             }
     
             const data = readJSON(req.url)
@@ -58,6 +60,7 @@ const server = http.createServer((req, res) => {
                 console.error(error)
                 res.writeHead(500)
                 res.end(error)
+                return
             }
 
             res.writeHead(204)
@@ -77,6 +80,7 @@ const server = http.createServer((req, res) => {
                 console.error("File not found for", req.url)
                 res.writeHead(404)
                 res.end("File not found for" + req.url)
+                return
             }
 
 
@@ -92,6 +96,7 @@ const server = http.createServer((req, res) => {
                 console.error(error)
                 res.writeHead(500)
                 res.end(error)
+                return
             }
             
             res.writeHead(204)
