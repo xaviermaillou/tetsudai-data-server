@@ -105,4 +105,6 @@ const server = http.createServer((req, res) => {
     })
 })
 
-server.listen(9002)
+const port = 9002
+
+server.listen(port, () => console.log(`Data server listening to port ${port}`))
