@@ -3,7 +3,7 @@ const kanjiList = require('./dataBackUp/kanji.json')
 const vocabularyList = require('./dataBackUp/vocabulary.json')
 const sentencesList = require('./dataBackUp/sentences.json')
 
-const cleanedKanjiList = kanjiList?.map((kanji) => ({
+/* const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
     kanji: kanji.kanji,
     strokes: Number(kanji.strokes),
@@ -13,9 +13,15 @@ const cleanedKanjiList = kanjiList?.map((kanji) => ({
     collections: kanji.collections || [],
     kanjiVariations: kanji.kanjiVariations || [],
     kanjiParts: kanji.kanjiParts || [],
-    translation: kanji.translation || [],
+    translation: {
+        fr: kanji.translation || [],
+        en: kanji.translation || []
+    },
     romaji: kanji.romaji || [],
-    alternatives: [],
+    alternatives: {
+        fr: kanji.alternatives || [],
+        en: kanji.alternatives || []
+    },
 }))
 
 fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList), (err) => {
@@ -42,9 +48,15 @@ const cleanedVocabularyList = vocabularyList?.map((word) => ({
     originLanguageWord: word.originLanguageWord,
     precisions: word.precisions,
     frequency: Number(word.frequency),
-    romaji: (typeof word.romaji === "string") ? word.romaji.split(', ') : word.romaji || [],
-    translation: word.translation || [],
-    alternatives: word.alternatives || [],
+    romaji: word.romaji || [],
+    translation: {
+        fr: word.translation || [],
+        en: word.translation || []
+    },
+    alternatives: {
+        fr: word.alternatives || [],
+        en: word.alternatives || []
+    },
     grammar: word.grammar,
     verbPrecisions: word.verbPrecisions,
     adjectivePrecisions: word.adjectivePrecisions,
@@ -62,10 +74,71 @@ fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(cleanedVoca
 const cleanedSentencesList = sentencesList.map((sentence) => ({
     id: Number(sentence.id),
     elements: sentence.elements,
-    translation: sentence.translation
+    translation: {
+        fr: sentence.translation,
+        en: sentence.translation
+    }
 }))
 
 fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(cleanedSentencesList), (err) => {
+    if (err) {
+        console.log("An error has occurred ", err)
+        return
+    }
+    console.log("Data written successfully to the file: Sentences JSON")
+})
+*/
+
+const translate = require('google-translate-api');
+
+async function translateToEnglish(frenchText) {
+  try {
+    const { text } = await translate(frenchText, { from: 'fr', to: 'en' })
+    return text
+  } catch (error) {
+    console.error('Translation error :', error)
+    return frenchText
+  }
+}
+
+const kanjiData = kanjiList
+
+kanjiData.forEach(async (kanji) => {
+    const englishTranslation = await translateToEnglish(kanji.translation.fr)
+    kanji.translation.en = englishTranslation
+});
+
+fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(kanjiData), (err) => {
+    if (err) {
+        console.log("An error has occurred ", err)
+        return
+    }
+    console.log("Data written successfully to the file: Sentences JSON")
+})
+
+const vocabularyData = vocabularyList
+
+vocabularyData.forEach(async (word) => {
+    const englishTranslation = await translateToEnglish(word.translation.fr)
+    word.translation.en = englishTranslation
+});
+
+fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(vocabularyData), (err) => {
+    if (err) {
+        console.log("An error has occurred ", err)
+        return
+    }
+    console.log("Data written successfully to the file: Sentences JSON")
+})
+
+const sentencesData = sentencesList
+
+sentencesData.forEach(async (sentence) => {
+    const englishTranslation = await translateToEnglish(sentence.translation.fr)
+    sentence.translation.en = englishTranslation
+});
+
+fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(sentencesData), (err) => {
     if (err) {
         console.log("An error has occurred ", err)
         return
