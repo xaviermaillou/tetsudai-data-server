@@ -1,7 +1,7 @@
 const fs = require('fs')
-const kanjiList = require('./dataBackUp/kanji.json')
-const vocabularyList = require('./dataBackUp/vocabulary.json')
-const sentencesList = require('./dataBackUp/sentences.json')
+const kanjiList = require('./data/kanji.json')
+const vocabularyList = require('./data/vocabulary.json')
+const sentencesList = require('./data/sentences.json')
 
 /* const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
@@ -86,62 +86,78 @@ fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(cleanedSente
         return
     }
     console.log("Data written successfully to the file: Sentences JSON")
-})
-*/
+}) */
 
-const translate = require('google-translate-api');
 
-async function translateToEnglish(frenchText) {
-  try {
-    const { text } = await translate(frenchText, { from: 'fr', to: 'en' })
-    return text
-  } catch (error) {
-    console.error('Translation error :', error)
-    return frenchText
-  }
+const translate = require('node-google-translate-skidz')
+
+const translateToEnglish = async (frenchText) => {
+    return new Promise((resolve, reject) => {
+        if (!!frenchText) {
+            translate({
+                text: frenchText,
+                source: 'fr',
+                target: 'en'
+            }, (result) => {
+                if (result) {
+                    resolve(result.translation)
+                } else {
+                    reject('Translation error.');
+                }
+            })
+        }
+        else resolve('')
+    })
 }
 
-const kanjiData = kanjiList
-
-kanjiData.forEach(async (kanji) => {
-    const englishTranslation = await translateToEnglish(kanji.translation.fr)
-    kanji.translation.en = englishTranslation
-});
-
-fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(kanjiData), (err) => {
-    if (err) {
-        console.log("An error has occurred ", err)
-        return
+const buildTranslation = async (frenchTranslation) => {
+    if (typeof frenchTranslation === 'string') {
+        return await translateToEnglish(frenchTranslation)
     }
-    console.log("Data written successfully to the file: Sentences JSON")
-})
-
-const vocabularyData = vocabularyList
-
-vocabularyData.forEach(async (word) => {
-    const englishTranslation = await translateToEnglish(word.translation.fr)
-    word.translation.en = englishTranslation
-});
-
-fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(vocabularyData), (err) => {
-    if (err) {
-        console.log("An error has occurred ", err)
-        return
+    else {
+        englishTextArray = []
+        for (let i = 0; i < frenchTranslation.length; i++) {
+            englishTextArray.push(await translateToEnglish(frenchTranslation[i]))
+        }
+        return englishTextArray
     }
-    console.log("Data written successfully to the file: Sentences JSON")
-})
+}
 
-const sentencesData = sentencesList
-
-sentencesData.forEach(async (sentence) => {
-    const englishTranslation = await translateToEnglish(sentence.translation.fr)
-    sentence.translation.en = englishTranslation
-});
-
-fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(sentencesData), (err) => {
-    if (err) {
-        console.log("An error has occurred ", err)
-        return
+const translateList = async (list) => {
+    const listCopy = [ ...list ]
+    for (let i = 0; i < listCopy.length; i++) {
+        listCopy[i].translation.en = await buildTranslation(listCopy[i].translation.fr)
     }
-    console.log("Data written successfully to the file: Sentences JSON")
-})
+    return listCopy
+}
+
+/* translateList(kanjiList)
+    .then((translatedKanji) => {
+        fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(translatedKanji), (err) => {
+            if (err) {
+                console.log("An error has occurred ", err)
+                return
+            }
+            console.log("Data written successfully to the file: Kanji JSON")
+        })
+    }) */
+/* translateList(vocabularyList)
+    .then((translatedVocabulary) => {
+        fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(translatedVocabulary), (err) => {
+            if (err) {
+                console.log("An error has occurred ", err)
+                return
+            }
+            console.log("Data written successfully to the file: Vocabulary JSON")
+        })
+    }) */
+/* translateList(sentencesList)
+    .then((translatedSentences) => {
+        fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(translatedSentences), (err) => {
+            if (err) {
+                console.log("An error has occurred ", err)
+                return
+            }
+            console.log("Data written successfully to the file: Sentences JSON")
+        })
+    }) */
