@@ -3,7 +3,9 @@ const kanjiList = require('./data/kanji.json')
 const vocabularyList = require('./data/vocabulary.json')
 const sentencesList = require('./data/sentences.json')
 
-/* const cleanedKanjiList = kanjiList?.map((kanji) => ({
+/*
+
+const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
     kanji: kanji.kanji,
     strokes: Number(kanji.strokes),
@@ -32,6 +34,10 @@ fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList
     console.log("Data written successfully to the file: Kanji JSON")
 })
 
+*/
+
+/*
+
 const cleanedVocabularyList = vocabularyList?.map((word) => ({
     id: Number(word.id),
     elements: word.elements,
@@ -46,17 +52,14 @@ const cleanedVocabularyList = vocabularyList?.map((word) => ({
     level: word.level,
     originLanguage: word.originLanguage,
     originLanguageWord: word.originLanguageWord,
-    precisions: word.precisions,
+    precisions: {
+        fr: word.precisions,
+        en: word.precisions
+    },
     frequency: Number(word.frequency),
     romaji: word.romaji || [],
-    translation: {
-        fr: word.translation || [],
-        en: word.translation || []
-    },
-    alternatives: {
-        fr: word.alternatives || [],
-        en: word.alternatives || []
-    },
+    translation: word.translation,
+    alternatives: word.alternatives,
     grammar: word.grammar,
     verbPrecisions: word.verbPrecisions,
     adjectivePrecisions: word.adjectivePrecisions,
@@ -70,6 +73,10 @@ fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(cleanedVoca
     }
     console.log("Data written successfully to the file: Vocabulary JSON")
 })
+
+*/
+
+/*
 
 const cleanedSentencesList = sentencesList.map((sentence) => ({
     id: Number(sentence.id),
@@ -86,7 +93,9 @@ fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(cleanedSente
         return
     }
     console.log("Data written successfully to the file: Sentences JSON")
-}) */
+})
+
+*/
 
 
 const translate = require('node-google-translate-skidz')
@@ -126,7 +135,7 @@ const buildTranslation = async (frenchTranslation) => {
 const translateList = async (list) => {
     const listCopy = [ ...list ]
     for (let i = 0; i < listCopy.length; i++) {
-        listCopy[i].translation.en = await buildTranslation(listCopy[i].translation.fr)
+        if(!!listCopy[i].precisions?.fr) listCopy[i].precisions.en = await buildTranslation(listCopy[i].precisions.fr)
     }
     return listCopy
 }
@@ -141,7 +150,7 @@ const translateList = async (list) => {
             console.log("Data written successfully to the file: Kanji JSON")
         })
     }) */
-/* translateList(vocabularyList)
+translateList(vocabularyList)
     .then((translatedVocabulary) => {
         fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(translatedVocabulary), (err) => {
             if (err) {
@@ -150,7 +159,7 @@ const translateList = async (list) => {
             }
             console.log("Data written successfully to the file: Vocabulary JSON")
         })
-    }) */
+    })
 /* translateList(sentencesList)
     .then((translatedSentences) => {
         fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(translatedSentences), (err) => {
