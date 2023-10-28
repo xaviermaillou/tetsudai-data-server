@@ -31,11 +31,7 @@ fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList
 
 /* const cleanedVocabularyList = vocabularyList?.map((word) => ({
     id: Number(word.id),
-    elements: word.elements.map((element) => ({
-        kanji: element.kanji,
-        kana: element.kana.replaceAll("二", "ニ"),
-        option: element.option
-    })),
+    elements: word.elements,
     common: !!word.common,
     jukujikun: word.jukujikun,
     jukujikunAsMain: !!word.jukujikunAsMain,
@@ -50,7 +46,10 @@ fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList
     precisions: word.precisions,
     frequency: Number(word.frequency),
     romaji: word.romaji || [],
-    translation: word.translation,
+    translation: {
+        en: word.translation.en || word.translation,
+        fr: word.translation.fr
+    },
     alternatives: word.alternatives,
     grammar: word.grammar,
     verbPrecisions: word.verbPrecisions,
