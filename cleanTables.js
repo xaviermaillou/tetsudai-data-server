@@ -3,27 +3,22 @@ const kanjiList = require('./data/kanji.json')
 const vocabularyList = require('./data/vocabulary.json')
 const sentencesList = require('./data/sentences.json')
 
-/*
-
-const cleanedKanjiList = kanjiList?.map((kanji) => ({
+/* const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
     kanji: kanji.kanji,
     strokes: Number(kanji.strokes),
     level: kanji.level,
     frequency: Number(kanji.frequency),
-    readings: kanji.readings,
+    readings: {
+        kunyomi: kanji.readings.kunyomi,
+        onyomi: kanji.readings.onyomi?.map((yomi) => ({kana: yomi.kana.replaceAll("二", "ニ")}))
+    },
     collections: kanji.collections || [],
     kanjiVariations: kanji.kanjiVariations || [],
     kanjiParts: kanji.kanjiParts || [],
-    translation: {
-        fr: kanji.translation || [],
-        en: kanji.translation || []
-    },
+    translation: kanji.translation,
     romaji: kanji.romaji || [],
-    alternatives: {
-        fr: kanji.alternatives || [],
-        en: kanji.alternatives || []
-    },
+    alternatives: kanji.alternatives,
 }))
 
 fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList), (err) => {
@@ -32,15 +27,15 @@ fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList
         return
     }
     console.log("Data written successfully to the file: Kanji JSON")
-})
+}) */
 
-*/
-
-/*
-
-const cleanedVocabularyList = vocabularyList?.map((word) => ({
+/* const cleanedVocabularyList = vocabularyList?.map((word) => ({
     id: Number(word.id),
-    elements: word.elements,
+    elements: word.elements.map((element) => ({
+        kanji: element.kanji,
+        kana: element.kana.replaceAll("二", "ニ"),
+        option: element.option
+    })),
     common: !!word.common,
     jukujikun: word.jukujikun,
     jukujikunAsMain: !!word.jukujikunAsMain,
@@ -52,10 +47,7 @@ const cleanedVocabularyList = vocabularyList?.map((word) => ({
     level: word.level,
     originLanguage: word.originLanguage,
     originLanguageWord: word.originLanguageWord,
-    precisions: {
-        fr: word.precisions,
-        en: word.precisions
-    },
+    precisions: word.precisions,
     frequency: Number(word.frequency),
     romaji: word.romaji || [],
     translation: word.translation,
@@ -72,9 +64,7 @@ fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(cleanedVoca
         return
     }
     console.log("Data written successfully to the file: Vocabulary JSON")
-})
-
-*/
+}) */
 
 /*
 
