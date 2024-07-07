@@ -3,6 +3,8 @@ const kanjiList = require('./data/kanji.json')
 const vocabularyList = require('./data/vocabulary.json')
 const sentencesList = require('./data/sentences.json')
 
+// Iteration over each list (kanji, vocabulary, sentence) cleaning/transforming each element's attributes
+
 /* const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
     kanji: kanji.kanji,
@@ -19,6 +21,7 @@ const sentencesList = require('./data/sentences.json')
     translation: kanji.translation,
     romaji: kanji.romaji || [],
     alternatives: kanji.alternatives,
+    precisions: kanji.precisions || "",
 }))
 
 fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList), (err) => {
@@ -86,8 +89,9 @@ fs.writeFile(process.cwd() + '/data/sentences.json', JSON.stringify(cleanedSente
 
 */
 
+// Translate each lists' elements' translations
 
-const translate = require('node-google-translate-skidz')
+/* const translate = require('node-google-translate-skidz')
 
 const translateToEnglish = async (frenchText) => {
     return new Promise((resolve, reject) => {
@@ -127,7 +131,7 @@ const translateList = async (list) => {
         listCopy[i].alternatives.en = await buildTranslation(listCopy[i].alternatives.fr)
     }
     return listCopy
-}
+} */
 
 /* translateList(kanjiList)
     .then((translatedKanji) => {
