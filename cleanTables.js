@@ -22,6 +22,11 @@ const sentencesList = require('./data/sentences.json')
     romaji: kanji.romaji || [],
     alternatives: kanji.alternatives,
     precisions: kanji.precisions || "",
+    origin: {
+        sameMeaning: kanji.origin?.sameMeaning || "",
+        otherMeaning: kanji.origin?.otherMeaning || "",
+        pinyin: kanji.origin?.pinyin || ""
+    }
 }))
 
 fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList), (err) => {
