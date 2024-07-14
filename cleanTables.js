@@ -5,7 +5,7 @@ const sentencesList = require('./data/sentences.json')
 
 // Iteration over each list (kanji, vocabulary, sentence) cleaning/transforming each element's attributes
 
-/* const cleanedKanjiList = kanjiList?.map((kanji) => ({
+const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
     kanji: kanji.kanji,
     strokes: Number(kanji.strokes),
@@ -24,7 +24,10 @@ const sentencesList = require('./data/sentences.json')
     precisions: kanji.precisions || "",
     origin: {
         sameMeaning: kanji.origin?.sameMeaning || "",
-        otherMeaning: kanji.origin?.otherMeaning || "",
+        otherMeaning: {
+            fr: !!kanji.origin?.otherMeaning ? kanji.origin?.otherMeaning.fr.split("; ") : [],
+            en: !!kanji.origin?.otherMeaning ? kanji.origin?.otherMeaning.en.split("; ") : []
+        },
         pinyin: kanji.origin?.pinyin || ""
     }
 }))
@@ -35,7 +38,7 @@ fs.writeFile(process.cwd() + '/data/kanji.json', JSON.stringify(cleanedKanjiList
         return
     }
     console.log("Data written successfully to the file: Kanji JSON")
-}) */
+})
 
 /* const cleanedVocabularyList = vocabularyList?.map((word) => ({
     id: Number(word.id),
