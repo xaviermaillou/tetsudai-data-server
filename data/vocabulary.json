@@ -12750,7 +12750,7 @@
         "forceHiragana": false,
         "includesParticle": false,
         "gender": null,
-        "formality": "Kenjougo",
+        "formality": "kjg",
         "collections": [],
         "level": null,
         "originLanguage": null,
@@ -14078,7 +14078,7 @@
         "forceHiragana": false,
         "includesParticle": false,
         "gender": null,
-        "formality": "Teineigo",
+        "formality": "tng",
         "collections": [],
         "level": null,
         "originLanguage": null,
@@ -25249,7 +25249,7 @@
         "forceHiragana": false,
         "includesParticle": false,
         "gender": null,
-        "formality": "Sonkeigo",
+        "formality": "skg",
         "collections": [],
         "level": "N5",
         "originLanguage": null,
@@ -25312,7 +25312,7 @@
         "forceHiragana": false,
         "includesParticle": false,
         "gender": null,
-        "formality": "Sonkeigo",
+        "formality": "skg",
         "collections": [],
         "level": "N5",
         "originLanguage": null,
@@ -32581,11 +32581,13 @@
             "fr": "",
             "en": ""
         },
-        "grammar": [],
+        "grammar": [
+            "vb"
+        ],
         "verbPrecisions": {
             "ending": "",
             "type": "suru",
-            "grammar": "intransitive"
+            "grammar": "transitive"
         },
         "adjectivePrecisions": null,
         "kosoado": false
@@ -36539,8 +36541,7 @@
         ],
         "verbPrecisions": {
             "type": "godan",
-            "ending": "ru",
-            "grammar": ""
+            "ending": "ru"
         },
         "adjectivePrecisions": null,
         "kosoado": false
@@ -38151,8 +38152,8 @@
                 "option": false
             },
             {
-                "kanji": "ぶくろ",
-                "kana": "袋",
+                "kanji": "袋",
+                "kana": "ぶくろ",
                 "option": false
             }
         ],
@@ -39758,7 +39759,7 @@
         "forceHiragana": false,
         "includesParticle": false,
         "gender": null,
-        "formality": "Sonkeigo",
+        "formality": "skg",
         "collections": [],
         "level": "N5",
         "originLanguage": null,
@@ -39827,7 +39828,7 @@
         "forceHiragana": false,
         "includesParticle": false,
         "gender": null,
-        "formality": "Sonkeigo",
+        "formality": "skg",
         "collections": [],
         "level": "N5",
         "originLanguage": null,
@@ -49501,7 +49502,9 @@
             "fr": "",
             "en": ""
         },
-        "grammar": [],
+        "grammar": [
+            "nc"
+        ],
         "verbPrecisions": null,
         "adjectivePrecisions": null,
         "kosoado": false
@@ -57361,7 +57364,7 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": 2,
+        "gender": "m",
         "formality": null,
         "collections": [],
         "level": "N4",
