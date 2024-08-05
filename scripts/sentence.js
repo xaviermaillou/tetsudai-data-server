@@ -1,8 +1,8 @@
-const vocabularyList = require('./data/vocabulary.json')
+const vocabularyList = require('../data/vocabulary.json')
 const axios = require('axios')
 const fs = require('fs')
-const sentencesList = require('./data/sentences.json')
-const sentencesListBackUp = require('./dataBackUp/sentences.json')
+const sentencesList = require('../data/sentences.json')
+const sentencesListBackUp = require('../dataBackUp/sentences.json')
 
 const fetchSentences = async () => {
     const sentencesList = []
