@@ -1,32 +1,47 @@
 const fs = require('fs')
 const vocabularyList = require('../data/vocabulary.json')
 
+const gender = {
+    1: "f",
+    2: "m"
+}
+
 const cleanedVocabularyList = vocabularyList?.map((word) => ({
     id: Number(word.id),
-    elements: word.elements,
+    elements: word.elements.map(element => ({
+        kanji: element.kanji || "",
+        kana: element.kana || "",
+        option: element.option || false
+    })),
     common: !!word.common,
-    jukujikun: word.jukujikun,
+    jukujikun: word.jukujikun || null,
     jukujikunAsMain: !!word.jukujikunAsMain,
     forceHiragana: !!word.forceHiragana,
     includesParticle: !!word.includesParticle,
-    gender: word.gender,
-    formality: word.formality,
-    collections: word.collections,
-    level: word.level,
-    originLanguage: word.originLanguage,
-    originLanguageWord: word.originLanguageWord,
-    precisions: word.precisions,
+    gender: word.gender || null,
+    formality: word.formality || null,
+    collections: word.collections || [],
+    level: word.level || null,
+    originLanguage: word.originLanguage || null,
+    originLanguageWord: word.originLanguageWord || null,
     frequency: Number(word.frequency),
-    romaji: word.romaji || [],
     translation: {
-        en: word.translation.en || word.translation,
-        fr: word.translation.fr
+        fr: word.translation?.fr || [],
+        en: word.translation?.en || []
     },
-    alternatives: word.alternatives,
+    alternatives: {
+        fr: word.alternatives?.fr || [],
+        en: word.alternatives?.en || []
+    },
+    romaji: word.romaji || [],
+    precisions: {
+        fr: word.precisions?.fr || "",
+        en: word.precisions?.en || ""
+    },
     grammar: word.grammar,
-    verbPrecisions: word.verbPrecisions,
-    adjectivePrecisions: word.adjectivePrecisions,
-    kosoado: word.kosoado,
+    verbPrecisions: word.verbPrecisions || null,
+    adjectivePrecisions: word.adjectivePrecisions || null,
+    kosoado: word.kosoado || false,
 }))
 
 fs.writeFile(process.cwd() + '/data/vocabulary.json', JSON.stringify(cleanedVocabularyList), (err) => {

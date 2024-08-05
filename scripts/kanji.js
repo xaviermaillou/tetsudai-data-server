@@ -5,7 +5,7 @@ const cleanedKanjiList = kanjiList?.map((kanji) => ({
     id: Number(kanji.id),
     kanji: kanji.kanji,
     strokes: Number(kanji.strokes),
-    level: kanji.level,
+    level: kanji.level || null,
     frequency: Number(kanji.frequency),
     readings: {
         kunyomi: kanji.readings.kunyomi || [],
@@ -14,12 +14,22 @@ const cleanedKanjiList = kanjiList?.map((kanji) => ({
     collections: kanji.collections || [],
     kanjiVariations: kanji.kanjiVariations || [],
     kanjiParts: kanji.kanjiParts || [],
-    translation: kanji.translation || [],
-    alternatives: kanji.alternatives || [],
+    translation: {
+        fr: kanji.translation?.fr || [],
+        en: kanji.translation?.en || []
+    },
+    alternatives: {
+        fr: kanji.alternatives?.fr || [],
+        en: kanji.alternatives?.en || []
+    },
     romaji: kanji.romaji || [],
-    precisions: kanji.precisions || "",
+    precisions: {
+        fr: kanji.precisions?.fr || "",
+        en: kanji.precisions?.en || ""
+    },
     origin: {
-        sameMeaning: kanji.origin?.sameMeaning || "",
+        sameMeaning: kanji.origin?.sameMeaning || false,
+        sinogram: kanji.origin?.sinogram || "",
         otherMeaning: {
             fr: kanji.origin?.otherMeaning.fr || [],
             en: kanji.origin?.otherMeaning.en || []
