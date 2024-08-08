@@ -12146,20 +12146,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N1",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "ki"
-        ],
         "translation": {
             "fr": [
                 "pur",
@@ -12178,11 +12171,18 @@
                 "raw"
             ]
         },
+        "romaji": [
+            "ki"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -12199,20 +12199,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N3",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "nama"
-        ],
         "translation": {
             "fr": [
                 "cru, frais",
@@ -12235,11 +12228,18 @@
                 "insufficient, incomplete"
             ]
         },
+        "romaji": [
+            "nama"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -12647,20 +12647,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": null,
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "ji"
-        ],
         "translation": {
             "fr": [
                 "heure",
@@ -12675,11 +12668,18 @@
             "fr": [],
             "en": []
         },
+        "romaji": [
+            "ji"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "suf"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -18079,20 +18079,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N4",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "to"
-        ],
         "translation": {
             "fr": [
                 "métropole, préfecture",
@@ -18111,11 +18104,18 @@
                 ""
             ]
         },
+        "romaji": [
+            "to"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -19555,16 +19555,9 @@
         "formality": "Kenjougo",
         "collections": [],
         "level": null,
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "sei"
-        ],
         "translation": {
             "fr": [
                 "vie, style de vie",
@@ -19585,12 +19578,19 @@
                 ""
             ]
         },
+        "romaji": [
+            "sei"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc",
             "suf"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -37498,20 +37498,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
+        "gender": null,
         "formality": "Kenjougo",
         "collections": [],
         "level": "N4",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "itasu"
-        ],
         "translation": {
             "fr": [
                 "faire"
@@ -37528,6 +37521,13 @@
                 ""
             ]
         },
+        "romaji": [
+            "itasu"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "vb"
         ],
@@ -37536,7 +37536,7 @@
             "ending": "su",
             "grammar": "transitive"
         },
-        "adjectivePrecisions": false,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -38156,20 +38156,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N3",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "shiro"
-        ],
         "translation": {
             "fr": [
                 "château"
@@ -38186,11 +38179,18 @@
                 "fort"
             ]
         },
+        "romaji": [
+            "shiro"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -50655,20 +50655,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N3",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 1223,
-        "romaji": [
-            "miyako"
-        ],
         "translation": {
             "fr": [
                 "capitale"
@@ -50685,11 +50678,18 @@
                 "center"
             ]
         },
+        "romaji": [
+            "miyako"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -56167,20 +56167,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N4",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 3048,
-        "romaji": [
-            "kimi"
-        ],
         "translation": {
             "fr": [
                 "tu, toi",
@@ -56199,11 +56192,18 @@
                 "mate, buddy, pal"
             ]
         },
+        "romaji": [
+            "kimi"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "pn"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -56806,7 +56806,8 @@
         "elements": [
             {
                 "kanji": "君",
-                "kana": "クン"
+                "kana": "クン",
+                "option": false
             }
         ],
         "common": true,
@@ -56814,17 +56815,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N4",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {},
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 3048,
-        "romaji": [
-            "kun"
-        ],
         "translation": {
             "fr": [
                 "M. (junior)"
@@ -56845,11 +56842,18 @@
                 "young"
             ]
         },
+        "romaji": [
+            "kun"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "suf"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -62159,20 +62163,13 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [],
         "level": "N4",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 10000,
-        "romaji": [
-            "nokoru"
-        ],
         "translation": {
             "fr": [
                 "rester, demeurer, subsister"
@@ -62189,6 +62186,13 @@
                 ""
             ]
         },
+        "romaji": [
+            "nokoru"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "vb"
         ],
@@ -62197,7 +62201,7 @@
             "ending": "ru",
             "grammar": "intransitive"
         },
-        "adjectivePrecisions": false,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
@@ -65141,22 +65145,15 @@
         "jukujikunAsMain": false,
         "forceHiragana": false,
         "includesParticle": false,
-        "gender": false,
-        "formality": false,
+        "gender": null,
+        "formality": null,
         "collections": [
             "jfs"
         ],
         "level": "N3",
-        "originLanguage": false,
-        "originLanguageWord": "",
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
+        "originLanguage": null,
+        "originLanguageWord": null,
         "frequency": 54,
-        "romaji": [
-            "toki"
-        ],
         "translation": {
             "fr": [
                 "temps, moment",
@@ -65177,11 +65174,18 @@
                 "instant"
             ]
         },
+        "romaji": [
+            "toki"
+        ],
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "grammar": [
             "nc"
         ],
-        "verbPrecisions": false,
-        "adjectivePrecisions": false,
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
         "kosoado": false
     },
     {
