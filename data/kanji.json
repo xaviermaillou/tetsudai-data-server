@@ -21,7 +21,6 @@
             ]
         },
         "collections": [],
-        "kanjiAlternatives": [],
         "kanjiVariations": [],
         "kanjiParts": [
             "土",
@@ -35,11 +34,6 @@
                 "castle"
             ]
         },
-        "romaji": [
-            "shiro",
-            "jou",
-            "sei"
-        ],
         "alternatives": {
             "fr": [
                 "fort"
@@ -48,13 +42,18 @@
                 "fort"
             ]
         },
+        "romaji": [
+            "shiro",
+            "jou",
+            "sei"
+        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
             "sameMeaning": false,
-            "sinogram": null,
+            "sinogram": "",
             "otherMeaning": {
                 "fr": [
                     "mur d'enceinte, rempart, muraille",
