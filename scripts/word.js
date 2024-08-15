@@ -1,17 +1,17 @@
 const fs = require('fs')
 const vocabularyList = require('../data/vocabulary.json')
 
-const gender = {
-    1: "f",
-    2: "m"
-}
-
 const cleanedVocabularyList = vocabularyList?.map((word) => ({
     id: Number(word.id),
     elements: word.elements.map(element => ({
         kanji: element.kanji || "",
         kana: element.kana || "",
-        option: element.option || false
+        options: {
+            rareKanji: element.option === "rareKanji",
+            politeElement: element.option === "politeElement",
+            ateji: false,
+            irregular: false
+        }
     })),
     common: !!word.common,
     jukujikun: word.jukujikun || null,
