@@ -14849,7 +14849,7 @@
         "elements": [
             {
                 "kanji": "都",
-                "kana": "と",
+                "kana": "ト",
                 "options": {
                     "rareKanji": false,
                     "politeElement": false,
@@ -14859,7 +14859,7 @@
             },
             {
                 "kanji": "市",
-                "kana": "し",
+                "kana": "シ",
                 "options": {
                     "rareKanji": false,
                     "politeElement": false,
@@ -14878,8 +14878,15 @@
         "collections": [],
         "level": "N3",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "toshi"
+        ],
         "translation": {
             "fr": [
                 "ville"
@@ -14895,13 +14902,6 @@
             "en": [
                 "town, municipal"
             ]
-        },
-        "romaji": [
-            "toshi"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -20818,7 +20818,7 @@
         "elements": [
             {
                 "kanji": "市",
-                "kana": "し",
+                "kana": "シ",
                 "options": {
                     "rareKanji": false,
                     "politeElement": false,
@@ -20837,8 +20837,15 @@
         "collections": [],
         "level": "N4",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "shi"
+        ],
         "translation": {
             "fr": [
                 "ville"
@@ -20854,13 +20861,6 @@
             "en": [
                 "cities"
             ]
-        },
-        "romaji": [
-            "shi"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc",
@@ -43915,7 +43915,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             }
         ],
@@ -43932,7 +43932,14 @@
         "level": "N5",
         "originLanguage": "FR",
         "originLanguageWord": "gramme",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "guramu"
+        ],
         "translation": {
             "fr": [
                 "gramme"
@@ -43951,13 +43958,6 @@
                 "gr"
             ]
         },
-        "romaji": [
-            "guramu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -43975,7 +43975,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             }
         ],
@@ -43992,7 +43992,14 @@
         "level": "N5",
         "originLanguage": "FR",
         "originLanguageWord": "kilogramme",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "kiroguramu"
+        ],
         "translation": {
             "fr": [
                 "kilogramme"
@@ -44014,13 +44021,6 @@
                 "kilos",
                 "kg"
             ]
-        },
-        "romaji": [
-            "kiroguramu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -60691,7 +60691,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -60709,8 +60709,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1503,
+        "romaji": [
+            "tai"
+        ],
         "translation": {
             "fr": [
                 "Thaïlande"
@@ -60731,13 +60738,6 @@
                 "Thai"
             ]
         },
-        "romaji": [
-            "tai"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -60754,7 +60754,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -60764,7 +60764,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -60782,8 +60782,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 930,
+        "romaji": [
+            "indo"
+        ],
         "translation": {
             "fr": [
                 "Inde"
@@ -60806,13 +60813,6 @@
                 "Indian"
             ]
         },
-        "romaji": [
-            "indo"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -60829,7 +60829,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -60839,7 +60839,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -60850,7 +60850,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             }
         ],
@@ -60867,8 +60867,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 3814,
+        "romaji": [
+            "shingapouru"
+        ],
         "translation": {
             "fr": [
                 "Singapour"
@@ -60891,13 +60898,6 @@
                 "Singaporean"
             ]
         },
-        "romaji": [
-            "shingapouru"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -60915,7 +60915,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -60925,7 +60926,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -60934,7 +60936,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -60953,7 +60955,14 @@
         "level": null,
         "originLanguage": "EN",
         "originLanguageWord": "New-Zealand",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 3548,
+        "romaji": [
+            "nyuujiirando"
+        ],
         "translation": {
             "fr": [
                 "Nouvelle-Zélande"
@@ -60976,13 +60985,6 @@
                 "Zeelandic"
             ]
         },
-        "romaji": [
-            "nyuujiirando"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61000,7 +61002,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61010,7 +61012,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61019,8 +61021,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -61038,7 +61041,14 @@
         "level": null,
         "originLanguage": "EN",
         "originLanguageWord": "Austria",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1436,
+        "romaji": [
+            "ousutoria"
+        ],
         "translation": {
             "fr": [
                 "Autriche"
@@ -61061,13 +61071,6 @@
                 "Austrian"
             ]
         },
-        "romaji": [
-            "ousutoria"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61085,7 +61088,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61095,7 +61098,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61105,7 +61108,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61114,7 +61117,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -61133,7 +61136,14 @@
         "level": null,
         "originLanguage": "EN",
         "originLanguageWord": "Australia",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1142,
+        "romaji": [
+            "ousutoraria"
+        ],
         "translation": {
             "fr": [
                 "Australie"
@@ -61156,13 +61166,6 @@
                 "Australian"
             ]
         },
-        "romaji": [
-            "ousutoraria"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61179,8 +61182,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61189,8 +61193,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -61207,8 +61212,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 4767,
+        "romaji": [
+            "chiri"
+        ],
         "translation": {
             "fr": [
                 "Chili"
@@ -61231,13 +61243,6 @@
                 "Chilean"
             ]
         },
-        "romaji": [
-            "chiri"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61255,7 +61260,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61265,7 +61270,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61275,7 +61280,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61285,7 +61291,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             }
         ],
@@ -61303,7 +61309,14 @@
         "level": null,
         "originLanguage": "PT",
         "originLanguageWord": "Brasil",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1569,
+        "romaji": [
+            "burajiru"
+        ],
         "translation": {
             "fr": [
                 "Brésil"
@@ -61326,13 +61339,6 @@
                 "brazilian"
             ]
         },
-        "romaji": [
-            "burajiru"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61350,7 +61356,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61360,7 +61367,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61369,8 +61377,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -61388,7 +61397,14 @@
         "level": null,
         "originLanguage": "ES",
         "originLanguageWord": "México",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1854,
+        "romaji": [
+            "mekishiko"
+        ],
         "translation": {
             "fr": [
                 "Mexique"
@@ -61411,13 +61427,6 @@
                 "Mexican"
             ]
         },
-        "romaji": [
-            "mekishiko"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61434,7 +61443,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -61444,7 +61453,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -61454,7 +61463,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -61464,7 +61473,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -61483,7 +61492,14 @@
         "level": "N4",
         "originLanguage": "EN",
         "originLanguageWord": "America",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 83,
+        "romaji": [
+            "amerika"
+        ],
         "translation": {
             "fr": [
                 "Etats-Unis d'Amérique"
@@ -61515,13 +61531,6 @@
                 "American",
                 "American"
             ]
-        },
-        "romaji": [
-            "amerika"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "np"
@@ -61604,7 +61613,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -61614,7 +61623,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -61624,7 +61633,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -61642,8 +61651,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1029,
+        "romaji": [
+            "kanada"
+        ],
         "translation": {
             "fr": [
                 "Canada"
@@ -61666,13 +61682,6 @@
                 "Canadian"
             ]
         },
-        "romaji": [
-            "kanada"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61689,7 +61698,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -61700,7 +61709,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61709,7 +61718,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -61728,7 +61737,14 @@
         "level": null,
         "originLanguage": "RU",
         "originLanguageWord": "Россия (Rossiya)",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 331,
+        "romaji": [
+            "roshia"
+        ],
         "translation": {
             "fr": [
                 "Russie"
@@ -61747,13 +61763,6 @@
                 "Russian"
             ]
         },
-        "romaji": [
-            "roshia"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61771,7 +61780,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61781,7 +61791,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61791,7 +61802,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -61809,7 +61821,14 @@
         "level": null,
         "originLanguage": "PT",
         "originLanguageWord": "Portugal",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 2000,
+        "romaji": [
+            "porutogaru"
+        ],
         "translation": {
             "fr": [
                 "Portugal"
@@ -61830,13 +61849,6 @@
                 "Portuguese"
             ]
         },
-        "romaji": [
-            "porutogaru"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61854,7 +61866,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -61864,7 +61877,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -61882,7 +61896,14 @@
         "level": null,
         "originLanguage": "PT",
         "originLanguageWord": "Grécia",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1856,
+        "romaji": [
+            "girisha"
+        ],
         "translation": {
             "fr": [
                 "Grèce"
@@ -61913,13 +61934,6 @@
                 "Hellenic"
             ]
         },
-        "romaji": [
-            "girisha"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -61937,7 +61951,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61947,7 +61961,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -61956,7 +61970,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -61975,7 +61989,14 @@
         "level": null,
         "originLanguage": "PT",
         "originLanguageWord": "Inglês",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 172,
+        "romaji": [
+            "igirisu"
+        ],
         "translation": {
             "fr": [
                 "Royaume-Uni"
@@ -62007,13 +62028,6 @@
                 "English",
                 "English"
             ]
-        },
-        "romaji": [
-            "igirisu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "np"
@@ -66933,7 +66947,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -66943,7 +66957,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -66953,7 +66967,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -66963,7 +66977,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -66990,8 +67004,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "boribiajin"
+        ],
         "translation": {
             "fr": [
                 "Bolivien (personne)"
@@ -67014,13 +67035,6 @@
                 "Bolivian"
             ]
         },
-        "romaji": [
-            "boribiajin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -67037,7 +67051,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67047,7 +67061,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67057,7 +67071,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67067,7 +67081,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -67084,8 +67098,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "boribia"
+        ],
         "translation": {
             "fr": [
                 "Bolivie"
@@ -67108,13 +67129,6 @@
                 "Bolivian"
             ]
         },
-        "romaji": [
-            "boribia"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -67131,7 +67145,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67142,7 +67156,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -67151,7 +67165,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67161,7 +67175,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67188,8 +67202,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "aruzenchinjin"
+        ],
         "translation": {
             "fr": [
                 "Argentin (personne)"
@@ -67212,13 +67233,6 @@
                 "Argentinians"
             ]
         },
-        "romaji": [
-            "aruzenchinjin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -67236,7 +67250,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -67246,7 +67261,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -67256,7 +67272,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -67282,8 +67299,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "supeinjin"
+        ],
         "translation": {
             "fr": [
                 "Espagnol (personne)"
@@ -67305,13 +67329,6 @@
                 "Spanish",
                 "Spanish"
             ]
-        },
-        "romaji": [
-            "supeinjin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -67399,8 +67416,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -67410,7 +67428,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -67436,8 +67454,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "suisujin"
+        ],
         "translation": {
             "fr": [
                 "Suisse (personne)"
@@ -67458,13 +67483,6 @@
                 "Swiss"
             ]
         },
-        "romaji": [
-            "suisujin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -67481,7 +67499,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67492,7 +67510,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -67501,7 +67519,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -67528,8 +67546,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "berugijin"
+        ],
         "translation": {
             "fr": [
                 "Belge (personne)"
@@ -67547,13 +67572,6 @@
                 "Belgian",
                 "Belgian"
             ]
-        },
-        "romaji": [
-            "berugijin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -67921,8 +67939,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -67932,7 +67951,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             }
         ],
@@ -67950,7 +67969,14 @@
         "level": null,
         "originLanguage": "FR",
         "originLanguageWord": "Suisse",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 2063,
+        "romaji": [
+            "suisu"
+        ],
         "translation": {
             "fr": [
                 "Suisse"
@@ -67969,13 +67995,6 @@
                 ""
             ]
         },
-        "romaji": [
-            "suisu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -67992,7 +68011,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -68002,7 +68021,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -68012,7 +68031,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -68030,7 +68049,14 @@
         "level": null,
         "originLanguage": "PT",
         "originLanguageWord": "Holanda",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 1081,
+        "romaji": [
+            "oranda"
+        ],
         "translation": {
             "fr": [
                 "Pays-Bas, Hollande"
@@ -68057,13 +68083,6 @@
                 "Dutch"
             ]
         },
-        "romaji": [
-            "oranda"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -68080,7 +68099,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -68091,7 +68110,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -68100,7 +68119,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -68119,7 +68138,14 @@
         "level": null,
         "originLanguage": "NL",
         "originLanguageWord": "België",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 2650,
+        "romaji": [
+            "berugi"
+        ],
         "translation": {
             "fr": [
                 "Belgique"
@@ -68154,13 +68180,6 @@
                 "Flemish"
             ]
         },
-        "romaji": [
-            "berugi"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -68177,7 +68196,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -68187,7 +68206,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -68206,7 +68225,14 @@
         "level": null,
         "originLanguage": "NL",
         "originLanguageWord": "Duits",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 119,
+        "romaji": [
+            "doitsu"
+        ],
         "translation": {
             "fr": [
                 "Allemagne"
@@ -68228,13 +68254,6 @@
                 "German",
                 "German"
             ]
-        },
-        "romaji": [
-            "doitsu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "np"
@@ -68517,7 +68536,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68527,7 +68547,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68537,7 +68558,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68573,8 +68595,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "supeingoken"
+        ],
         "translation": {
             "fr": [
                 "monde hispanophone"
@@ -68595,13 +68624,6 @@
                 "Spanish speakers"
             ]
         },
-        "romaji": [
-            "supeingoken"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -68619,7 +68641,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68629,7 +68652,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68639,7 +68663,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68665,8 +68690,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "supeingo"
+        ],
         "translation": {
             "fr": [
                 "langue espagnole"
@@ -68687,13 +68719,6 @@
                 "Spanish speakers"
             ]
         },
-        "romaji": [
-            "supeingo"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -68711,7 +68736,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68721,7 +68747,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -68731,7 +68758,8 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -68749,7 +68777,14 @@
         "level": null,
         "originLanguage": "EN",
         "originLanguageWord": "Spain",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 625,
+        "romaji": [
+            "supein"
+        ],
         "translation": {
             "fr": [
                 "Espagne"
@@ -68772,13 +68807,6 @@
                 "Spanish"
             ]
         },
-        "romaji": [
-            "supein"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -68795,7 +68823,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -68806,7 +68834,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -68815,7 +68843,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -68825,7 +68853,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             }
@@ -68842,8 +68870,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 3014,
+        "romaji": [
+            "aruzenchin"
+        ],
         "translation": {
             "fr": [
                 "Argentine"
@@ -68863,13 +68898,6 @@
                 "Argentinians",
                 "Argentinians"
             ]
-        },
-        "romaji": [
-            "aruzenchin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "np"
@@ -68972,9 +69000,16 @@
             "jfs"
         ],
         "level": null,
-        "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguage": "DE",
+        "originLanguageWord": "Luxemburg",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 7868,
+        "romaji": [
+            "rukusenburuku"
+        ],
         "translation": {
             "fr": [
                 "Luxembourg"
@@ -68995,13 +69030,6 @@
                 "Luxembourgish"
             ]
         },
-        "romaji": [
-            "rukusenburuku"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "np"
         ],
@@ -69018,7 +69046,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -69028,7 +69056,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -69038,8 +69066,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -69065,8 +69094,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "itariajin"
+        ],
         "translation": {
             "fr": [
                 "Italien (personne)"
@@ -69089,13 +69125,6 @@
                 "Italian"
             ]
         },
-        "romaji": [
-            "itariajin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
             "nc"
         ],
@@ -69112,7 +69141,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -69122,7 +69151,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -69132,8 +69161,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             },
             {
@@ -69159,8 +69189,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "itariago"
+        ],
         "translation": {
             "fr": [
                 "langue italienne"
@@ -69180,13 +69217,6 @@
                 "Italian-speaking",
                 "Italian speakers"
             ]
-        },
-        "romaji": [
-            "itariago"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -71709,7 +71739,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -71719,8 +71749,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": false
                 }
             },
             {
@@ -71729,8 +71760,9 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
-                    "irregular": false
+                    "ateji": true,
+                    "irregular": false,
+                    "chineseLegacy": true
                 }
             }
         ],
@@ -71748,7 +71780,14 @@
         "level": null,
         "originLanguage": "IT",
         "originLanguageWord": "Italia",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 347,
+        "romaji": [
+            "itaria"
+        ],
         "translation": {
             "fr": [
                 "Italie"
@@ -71770,13 +71809,6 @@
                 "Italian",
                 "Italian"
             ]
-        },
-        "romaji": [
-            "itaria"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "np"
@@ -73924,7 +73956,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -73934,7 +73966,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -73945,7 +73977,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             }
         ],
@@ -73963,7 +73995,14 @@
         "level": null,
         "originLanguage": "FR",
         "originLanguageWord": "France",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 142,
+        "romaji": [
+            "furansu"
+        ],
         "translation": {
             "fr": [
                 "France"
@@ -73974,22 +74013,11 @@
         },
         "alternatives": {
             "fr": [
-                "français",
-                "française",
-                "françaises"
+                ""
             ],
             "en": [
-                "French",
-                "French",
-                "French"
+                ""
             ]
-        },
-        "romaji": [
-            "furansu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "np"
@@ -74007,7 +74035,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -74017,7 +74045,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -74028,7 +74056,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -74054,8 +74082,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "furansujin"
+        ],
         "translation": {
             "fr": [
                 "Français (personne)"
@@ -74075,13 +74110,6 @@
                 "French",
                 "French"
             ]
-        },
-        "romaji": [
-            "furansujin"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -93464,7 +93492,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -93474,7 +93502,7 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": false,
+                    "ateji": true,
                     "irregular": false
                 }
             },
@@ -93485,7 +93513,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false
+                    "irregular": true
                 }
             },
             {
@@ -93511,8 +93539,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "furansugo"
+        ],
         "translation": {
             "fr": [
                 "langue française"
@@ -93528,13 +93563,6 @@
             "en": [
                 ""
             ]
-        },
-        "romaji": [
-            "furansugo"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -94376,7 +94404,7 @@
             },
             {
                 "kanji": "二",
-                "kana": "に",
+                "kana": "ニ",
                 "options": {
                     "rareKanji": false,
                     "politeElement": false,
@@ -94405,8 +94433,15 @@
         "collections": [],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "juunigatsu"
+        ],
         "translation": {
             "fr": [
                 "décembre"
@@ -94422,13 +94457,6 @@
             "en": [
                 ""
             ]
-        },
-        "romaji": [
-            "juunigatsu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
@@ -95046,7 +95074,7 @@
         "elements": [
             {
                 "kanji": "二",
-                "kana": "に",
+                "kana": "ニ",
                 "options": {
                     "rareKanji": false,
                     "politeElement": false,
@@ -95075,8 +95103,15 @@
         "collections": [],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "nigatsu"
+        ],
         "translation": {
             "fr": [
                 "février"
@@ -95092,13 +95127,6 @@
             "en": [
                 ""
             ]
-        },
-        "romaji": [
-            "nigatsu"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "nc"
