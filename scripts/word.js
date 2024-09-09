@@ -7,10 +7,11 @@ const cleanedVocabularyList = vocabularyList?.map((word) => ({
         kanji: element.kanji || "",
         kana: element.kana || "",
         options: {
-            rareKanji: element.option === "rareKanji",
-            politeElement: element.option === "politeElement",
-            ateji: false,
-            irregular: false
+            rareKanji: element.options.rareKanji || false,
+            politeElement: element.options.politeElement || false,
+            ateji: element.options.ateji || false,
+            irregular: element.options.irregular || false,
+            chineseLegacy: element.options.chineseLegacy || false,
         }
     })),
     common: !!word.common,
