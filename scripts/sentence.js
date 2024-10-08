@@ -6,7 +6,7 @@ const sentencesList = require('../data/sentences.json')
 const fetchSentences = async () => {
     const newSentencesList = [ ...sentencesList ]
 
-    for (let i = 0; i < 500; i++) {
+    for (let i = 0; i < 600; i++) {
         const fullWord = await axios.get(`http://localhost:9001/word/${vocabularyList[i].id}`)
 
         const baseWord = fullWord.data.word.primaryWord
@@ -121,6 +121,6 @@ const detectMissingParts = async () => {
     console.log(incompleteSentences.length, "incomplete sentences:", Math.round((incompleteSentences.length / sentencesList.length) * 100), "% of total")
 }
 
-// fetchSentences()
+fetchSentences()
 // cleanSentencesList()
 // detectMissingParts()
