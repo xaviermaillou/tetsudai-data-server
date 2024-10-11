@@ -46568,19 +46568,3235 @@
         "id": 5820
     },
     {
-        "sentence": "彼は公務員として働いています。",
-        "translation": {
-            "fr": "Il travaille en tant que fonctionnaire.",
-            "en": "He works as a public servant."
-        },
-        "id": 5821
-    },
-    {
         "sentence": "彼の仕事は国のために役立つことができる。",
         "translation": {
             "fr": "Son travail peut être utile pour le pays.",
             "en": "His work can be useful for the country."
         },
+        "id": 5821
+    },
+    {
+        "sentence": "仕事が安定しているので安心です。",
+        "translation": {
+            "fr": "Le travail est stable donc je suis rassuré.",
+            "en": "I feel at ease because my job is stable."
+        },
         "id": 5822
+    },
+    {
+        "sentence": "駅の隣に交番。",
+        "translation": {
+            "fr": "A côté de la gare, il y a un poste de police.",
+            "en": "There is a police box next to the station."
+        },
+        "id": 5823
+    },
+    {
+        "sentence": "日本の公務員試験は難しいと聞きます。",
+        "translation": {
+            "fr": "J'ai entendu dire que les examens de fonction publique au Japon sont difficiles.",
+            "en": "I hear that the Japanese civil service exam is difficult."
+        },
+        "id": 5824
+    },
+    {
+        "sentence": "しかし、ストレスも多いと言われています。",
+        "translation": {
+            "fr": "Cependant, il est dit qu'il y a aussi beaucoup de stress.",
+            "en": "However, it is said that there is also a lot of stress."
+        },
+        "id": 5825
+    },
+    {
+        "sentence": "昨日、友達と一緒に交番に行きました。",
+        "translation": {
+            "fr": "Hier, je suis allé au poste de police avec des amis.",
+            "en": "Yesterday, I went to the police box with my friends."
+        },
+        "id": 5826
+    },
+    {
+        "sentence": "その後、近くのコンビニでお菓子を買いました。",
+        "translation": {
+            "fr": "Ensuite, j'ai acheté des bonbons dans une supérette à proximité.",
+            "en": "After that, I bought some snacks at the nearby convenience store."
+        },
+        "id": 5827
+    },
+    {
+        "sentence": "犬が庭に走っていくとき、緑の芝生が美しいです。",
+        "translation": {
+            "fr": "Quand le chien court dans le jardin, la pelouse verte est magnifique.",
+            "en": "When the dog runs into the yard, the green grass is beautiful."
+        },
+        "id": 5828
+    },
+    {
+        "sentence": "彼は木の下で緑茶を飲んでいます。",
+        "translation": {
+            "fr": "Il boit du thé vert sous l'arbre.",
+            "en": "He is drinking green tea under the tree."
+        },
+        "id": 5829
+    },
+    {
+        "sentence": "緑の山々はとても静かで、リラックスできます。",
+        "translation": {
+            "fr": "Les montagnes verdoyantes sont très calmes et relaxantes.",
+            "en": "The green mountains are very quiet, and you can relax."
+        },
+        "id": 5830
+    },
+    {
+        "sentence": "彼女は玄関で靴を脱いだ。",
+        "translation": {
+            "fr": "Elle a enlevé ses chaussures à l'entrée.",
+            "en": "She took off her shoes at the entrance."
+        },
+        "id": 5831
+    },
+    {
+        "sentence": "私たちは玄関に花を飾った。",
+        "translation": {
+            "fr": "Nous avons décoré l'entrée avec des fleurs.",
+            "en": "We decorated the entrance with flowers."
+        },
+        "id": 5832
+    },
+    {
+        "sentence": "玄関の前に犬が座っていた。",
+        "translation": {
+            "fr": "Un chien était assis devant la porte d'entrée.",
+            "en": "A dog was sitting in front of the entrance."
+        },
+        "id": 5833
+    },
+    {
+        "sentence": "新しい家には広い玄関がある。",
+        "translation": {
+            "fr": "La nouvelle maison a une grande entrée.",
+            "en": "The new house has a spacious entrance."
+        },
+        "id": 5834
+    },
+    {
+        "sentence": "彼は玄関のドアを開けた。",
+        "translation": {
+            "fr": "Il a ouvert la porte d'entrée.",
+            "en": "He opened the front door."
+        },
+        "id": 5835
+    },
+    {
+        "sentence": "彼らは玄関をリフォームする予定だ。",
+        "translation": {
+            "fr": "Ils prévoient de rénover l'entrée.",
+            "en": "They plan to remodel the entrance."
+        },
+        "id": 5836
+    },
+    {
+        "sentence": "彼は古代の侍のような格好をしていた。",
+        "translation": {
+            "fr": "Il était habillé comme un samouraï de l'ancien temps.",
+            "en": "He was dressed like an ancient samurai."
+        },
+        "id": 5837
+    },
+    {
+        "sentence": "彼女は侍のような忠誠心を持っている。",
+        "translation": {
+            "fr": "Elle a une loyauté semblable à celle d'un samouraï.",
+            "en": "She has the loyalty of a samurai."
+        },
+        "id": 5838
+    },
+    {
+        "sentence": "侍は武士の一つの種類です。",
+        "translation": {
+            "fr": "Le samouraï est une sorte de guerrier.",
+            "en": "Samurai are one type of warrior."
+        },
+        "id": 5839
+    },
+    {
+        "sentence": "侍の武士が優雅な振る舞いをするのはよく知られています。",
+        "translation": {
+            "fr": "Le comportement gracieux des samouraïs est bien connu.",
+            "en": "It is well known that samurai warriors exhibit elegant behavior."
+        },
+        "id": 5840
+    },
+    {
+        "sentence": "浪人は日本の伝統的な文化の一つです。",
+        "translation": {
+            "fr": "Le ronin est l'une des cultures traditionnelles du Japon.",
+            "en": "Rōnin is one of Japan's traditional cultures."
+        },
+        "id": 5841
+    },
+    {
+        "sentence": "彼らは主に武士や侍として知られています。",
+        "translation": {
+            "fr": "Ils sont principalement connus en tant que guerriers et samouraïs.",
+            "en": "They are mainly known as warriors and samurais."
+        },
+        "id": 5842
+    },
+    {
+        "sentence": "私は日本の巻き寿司が大好きです。",
+        "translation": {
+            "fr": "J'adore les sushis enroulés japonais.",
+            "en": "I love Japanese sushi rolls."
+        },
+        "id": 5843
+    },
+    {
+        "sentence": "それはとても美味しいです。",
+        "translation": {
+            "fr": "C'est très délicieux.",
+            "en": "It is very delicious."
+        },
+        "id": 5844
+    },
+    {
+        "sentence": "情報収集が大切だと思っています。",
+        "translation": {
+            "fr": "Je pense que la collecte d'informations est importante.",
+            "en": "I think information gathering is important."
+        },
+        "id": 5845
+    },
+    {
+        "sentence": "彼女の髪型がとても似合っています。",
+        "translation": {
+            "fr": "Sa coiffure lui va très bien.",
+            "en": "Her hairstyle really suits her."
+        },
+        "id": 5846
+    },
+    {
+        "sentence": "私の友達は日本人である。",
+        "translation": {
+            "fr": "Mon ami est japonais.",
+            "en": "My friend is Japanese."
+        },
+        "id": 5847
+    },
+    {
+        "sentence": "彼はとても親切です。",
+        "translation": {
+            "fr": "Il est très gentil.",
+            "en": "He is very kind."
+        },
+        "id": 5848
+    },
+    {
+        "sentence": "日本語を勉強している学生である。",
+        "translation": {
+            "fr": "Je suis un étudiant qui étudie le japonais.",
+            "en": "The student is studying Japanese."
+        },
+        "id": 5849
+    },
+    {
+        "sentence": "毎日宿題をします。",
+        "translation": {
+            "fr": "Je fais mes devoirs tous les jours.",
+            "en": "I do my homework every day."
+        },
+        "id": 5850
+    },
+    {
+        "sentence": "お母さんは先生である。",
+        "translation": {
+            "fr": "La mère est enseignante.",
+            "en": "My mother is a teacher."
+        },
+        "id": 5851
+    },
+    {
+        "sentence": "子供たちを教えています。",
+        "translation": {
+            "fr": "J'enseigne aux enfants.",
+            "en": "I am teaching the children."
+        },
+        "id": 5852
+    },
+    {
+        "sentence": "彼女は猫が好きである。",
+        "translation": {
+            "fr": "Elle aime les chats.",
+            "en": "She likes cats."
+        },
+        "id": 5853
+    },
+    {
+        "sentence": "毎日猫と遊んでいます。",
+        "translation": {
+            "fr": "Je joue avec mon chat tous les jours.",
+            "en": "I play with my cat every day."
+        },
+        "id": 5854
+    },
+    {
+        "sentence": "彼は詳細に気を配りました。",
+        "translation": {
+            "fr": "Il a fait attention aux détails.",
+            "en": "He paid close attention to details."
+        },
+        "id": 5855
+    },
+    {
+        "sentence": "彼女の演技は完璧でした。",
+        "translation": {
+            "fr": "Sa performance était parfaite.",
+            "en": "Her performance was perfect."
+        },
+        "id": 5856
+    },
+    {
+        "sentence": "彼はぬるいお茶を飲むのが好きです。",
+        "translation": {
+            "fr": "Il aime boire du thé tiède.",
+            "en": "He likes to drink lukewarm tea."
+        },
+        "id": 5857
+    },
+    {
+        "sentence": "それは彼の習慣です。",
+        "translation": {
+            "fr": "C'est une habitude chez lui.",
+            "en": "It is his habit."
+        },
+        "id": 5858
+    },
+    {
+        "sentence": "彼は映画のフィルムを観るのが好きです。",
+        "translation": {
+            "fr": "Il aime regarder des pellicules de films.",
+            "en": "He likes watching movies on film."
+        },
+        "id": 5859
+    },
+    {
+        "sentence": "そして、映画館でよく映画を見ます。",
+        "translation": {
+            "fr": "Et je vais souvent au cinéma pour regarder des films.",
+            "en": "And I often watch movies at the movie theater."
+        },
+        "id": 5860
+    },
+    {
+        "sentence": "今度の日曜日、フィルムカメラで写真を撮りに行こうと思っています。",
+        "translation": {
+            "fr": "Ce dimanche, j'ai l'intention d'aller prendre des photos avec un appareil photo argentique.",
+            "en": "I'm thinking of going to take photos with a film camera this Sunday."
+        },
+        "id": 5861
+    },
+    {
+        "sentence": "あちらに行く前に、地図を確認しましょう。",
+        "translation": {
+            "fr": "Avant de partir là-bas, vérifions la carte.",
+            "en": "Before going there, let's check the map."
+        },
+        "id": 5862
+    },
+    {
+        "sentence": "あちらのレストランは美味しいです。",
+        "translation": {
+            "fr": "Ce restaurant est délicieux.",
+            "en": "That restaurant over there is delicious."
+        },
+        "id": 5863
+    },
+    {
+        "sentence": "明後日は休みです。",
+        "translation": {
+            "fr": "Après-demain, c'est le jour de repos.",
+            "en": "The day after tomorrow is a holiday."
+        },
+        "id": 5864
+    },
+    {
+        "sentence": "私は友達と映画を見に行く予定です。",
+        "translation": {
+            "fr": "Je prévois d'aller voir un film avec des amis.",
+            "en": "I plan to go see a movie with my friends."
+        },
+        "id": 5865
+    },
+    {
+        "sentence": "彼女は明後日のパーティーに参加することを楽しみにしています。",
+        "translation": {
+            "fr": "Elle est impatiente de participer à la fête après-demain.",
+            "en": "She is looking forward to attending the party the day after tomorrow."
+        },
+        "id": 5866
+    },
+    {
+        "sentence": "明後日の天気予報は晴れです。",
+        "translation": {
+            "fr": "La météo de la journée après-demain est ensoleillée.",
+            "en": "The weather forecast for the day after tomorrow is sunny."
+        },
+        "id": 5867
+    },
+    {
+        "sentence": "それでは、明日の試験のために勉強しましょう。",
+        "translation": {
+            "fr": "Alors, étudions pour l'examen de demain.",
+            "en": "Let's study for tomorrow's exam."
+        },
+        "id": 5868
+    },
+    {
+        "sentence": "私はN3の試験を受ける前に、ボタンを締め直した。",
+        "translation": {
+            "fr": "Avant de passer l'examen N3, j'ai remis en place le bouton.",
+            "en": "Before taking the N3 exam, I buttoned up again."
+        },
+        "id": 5869
+    },
+    {
+        "sentence": "彼女はN4のレベルで日本語を勉強している。",
+        "translation": {
+            "fr": "Elle étudie le japonais au niveau N4.",
+            "en": "She is studying Japanese at the N4 level."
+        },
+        "id": 5870
+    },
+    {
+        "sentence": "子供たちはN5の単語を覚えるのが楽しいと言っていた。",
+        "translation": {
+            "fr": "Les enfants disaient qu'ils trouvaient amusant d'apprendre les mots du niveau N5.",
+            "en": "The children were saying that learning N5 vocabulary was fun."
+        },
+        "id": 5871
+    },
+    {
+        "sentence": "どうもありがとう。",
+        "translation": {
+            "fr": "Merci beaucoup.",
+            "en": "Thank you very much."
+        },
+        "id": 5872
+    },
+    {
+        "sentence": "どうもおすすめします。",
+        "translation": {
+            "fr": "Je vous le recommande vivement.",
+            "en": "Thank you for the recommendation."
+        },
+        "id": 5873
+    },
+    {
+        "sentence": "あなたのアドバイスは本当に役に立ちました。",
+        "translation": {
+            "fr": "Votre conseil m'a vraiment été utile.",
+            "en": "Your advice was really helpful."
+        },
+        "id": 5874
+    },
+    {
+        "sentence": "どうも感謝しています。",
+        "translation": {
+            "fr": "Merci beaucoup.",
+            "en": "Thank you very much."
+        },
+        "id": 5875
+    },
+    {
+        "sentence": "彼女はとてもかわいいです。",
+        "translation": {
+            "fr": "Elle est très mignonne.",
+            "en": "She is very cute."
+        },
+        "id": 5876
+    },
+    {
+        "sentence": "どうも好きです。",
+        "translation": {
+            "fr": "Je l'aime beaucoup.",
+            "en": "I like it very much."
+        },
+        "id": 5877
+    },
+    {
+        "sentence": "コップを落として割ってしまった。",
+        "translation": {
+            "fr": "J'ai laissé tomber et cassé le verre.",
+            "en": "I dropped and broke the cup."
+        },
+        "id": 5878
+    },
+    {
+        "sentence": "水をコップに注いでください。",
+        "translation": {
+            "fr": "S'il vous plaît, versez de l'eau dans un verre.",
+            "en": "Please pour water into the cup."
+        },
+        "id": 5879
+    },
+    {
+        "sentence": "コップを洗ってください。",
+        "translation": {
+            "fr": "Veuillez laver le verre.",
+            "en": "Please wash the cup."
+        },
+        "id": 5880
+    },
+    {
+        "sentence": "コップがいくつか必要ですか。",
+        "translation": {
+            "fr": "Combien de verres avez-vous besoin?",
+            "en": "How many cups do you need?"
+        },
+        "id": 5881
+    },
+    {
+        "sentence": "彼女は一日に２００グラムのチョコレートを食べる。",
+        "translation": {
+            "fr": "Elle mange 200 grammes de chocolat par jour.",
+            "en": "She eats 200 grams of chocolate a day."
+        },
+        "id": 5882
+    },
+    {
+        "sentence": "私は毎朝、コーヒーに５グラムの砂糖を入れる。",
+        "translation": {
+            "fr": "Je mets cinq grammes de sucre dans mon café chaque matin.",
+            "en": "I put 5 grams of sugar in my coffee every morning."
+        },
+        "id": 5883
+    },
+    {
+        "sentence": "レシピにはバター１００グラムが必要です。",
+        "translation": {
+            "fr": "La recette nécessite 100 grammes de beurre.",
+            "en": "100 grams of butter is needed for the recipe."
+        },
+        "id": 5884
+    },
+    {
+        "sentence": "私の荷物は１０キログラムです。",
+        "translation": {
+            "fr": "Mes bagages pèsent 10 kilogrammes.",
+            "en": "My luggage is 10 kilograms."
+        },
+        "id": 5885
+    },
+    {
+        "sentence": "重いですね。",
+        "translation": {
+            "fr": "C'est lourd.",
+            "en": "It's heavy."
+        },
+        "id": 5886
+    },
+    {
+        "sentence": "健康的な方法ですね。",
+        "translation": {
+            "fr": "C'est une méthode saine.",
+            "en": "It's a healthy way, isn't it."
+        },
+        "id": 5887
+    },
+    {
+        "sentence": "買いたいです。",
+        "translation": {
+            "fr": "Je voudrais acheter.",
+            "en": "I want to buy."
+        },
+        "id": 5888
+    },
+    {
+        "sentence": "彼は毎日一生懸命働いており、いつも最善を尽くしていたす。",
+        "translation": {
+            "fr": "Il travaille dur tous les jours et donne toujours le meilleur de lui-même.",
+            "en": "He works hard every day and always does his best."
+        },
+        "id": 5889
+    },
+    {
+        "sentence": "彼女はお客様に親切に対応し、いつも笑顔でサービスを提供していたす。",
+        "translation": {
+            "fr": "Elle traitait gentiment les clients et fournissait toujours un service avec le sourire.",
+            "en": "She always provided service with a smile and treated customers kindly."
+        },
+        "id": 5890
+    },
+    {
+        "sentence": "は、漢字の意味や読み方を調べるための辞書です。",
+        "translation": {
+            "fr": "C'est un dictionnaire pour rechercher la signification et la lecture des kanji.",
+            "en": "This is a dictionary for looking up the meanings and readings of kanji."
+        },
+        "id": 5891
+    },
+    {
+        "sentence": "日本語の勉強をするときに、漢字引がとても便利です。",
+        "translation": {
+            "fr": "Lorsque vous étudiez le japonais, le dictionnaire de kanji est très pratique.",
+            "en": "When studying Japanese, kanji dictionary is very useful."
+        },
+        "id": 5892
+    },
+    {
+        "sentence": "私は毎日、漢字引を使って新しい漢字を覚えています。",
+        "translation": {
+            "fr": "Je me souviens de nouveaux caractères chinois tous les jours en utilisant des cartes de caractères chinois.",
+            "en": "I am using a kanji dictionary every day to learn new kanji."
+        },
+        "id": 5893
+    },
+    {
+        "sentence": "それを作るのは簡単です。",
+        "translation": {
+            "fr": "C'est facile de le faire.",
+            "en": "It is easy to make it."
+        },
+        "id": 5894
+    },
+    {
+        "sentence": "カレーにはスパイスがたくさん使われます。",
+        "translation": {
+            "fr": "Le curry est souvent préparé avec beaucoup d'épices.",
+            "en": "Curry uses a lot of spices."
+        },
+        "id": 5895
+    },
+    {
+        "sentence": "カレーは日本でも人気の料理です。",
+        "translation": {
+            "fr": "Le curry est aussi un plat populaire au Japon.",
+            "en": "Curry is also a popular dish in Japan."
+        },
+        "id": 5896
+    },
+    {
+        "sentence": "カレーを食べると元気が出る気がします。",
+        "translation": {
+            "fr": "Manger du curry me donne de l'énergie.",
+            "en": "I feel like I get energized when I eat curry."
+        },
+        "id": 5897
+    },
+    {
+        "sentence": "読み物は日本語を勉強する上でとても役立つ。",
+        "translation": {
+            "fr": "Les lectures sont très utiles pour apprendre le japonais.",
+            "en": "Reading materials are very useful for studying Japanese."
+        },
+        "id": 5898
+    },
+    {
+        "sentence": "毎日少しずつ読書をすることで、漢字や語彙が増えていく。",
+        "translation": {
+            "fr": "Chaque jour, en lisant un peu plus, on enrichit son vocabulaire en kanji et en vocabulaire.",
+            "en": "By reading a little bit every day, your knowledge of kanji and vocabulary will increase."
+        },
+        "id": 5899
+    },
+    {
+        "sentence": "私は寒い日にスカーフをして外出します。",
+        "translation": {
+            "fr": "Je porte une écharpe quand il fait froid pour sortir.",
+            "en": "I wear a scarf when going out on cold days."
+        },
+        "id": 5900
+    },
+    {
+        "sentence": "スカーフを買うためにはお金が必要です。",
+        "translation": {
+            "fr": "Il faut de l'argent pour acheter une écharpe.",
+            "en": "You need money to buy a scarf."
+        },
+        "id": 5901
+    },
+    {
+        "sentence": "彼女は毎日香水をつける。",
+        "translation": {
+            "fr": "Elle met du parfum tous les jours.",
+            "en": "She wears perfume every day."
+        },
+        "id": 5902
+    },
+    {
+        "sentence": "私は香水の匂いが好きです。",
+        "translation": {
+            "fr": "J'aime l'odeur du parfum.",
+            "en": "I like the smell of perfume."
+        },
+        "id": 5903
+    },
+    {
+        "sentence": "日本の香水は高品質だと言われています。",
+        "translation": {
+            "fr": "Les parfums japonais sont considérés comme de haute qualité.",
+            "en": "Japanese perfumes are said to be of high quality."
+        },
+        "id": 5904
+    },
+    {
+        "sentence": "私の父は毎日仕事でネクタイを着ています。",
+        "translation": {
+            "fr": "Mon père porte une cravate tous les jours pour le travail.",
+            "en": "My father wears a tie to work every day."
+        },
+        "id": 5905
+    },
+    {
+        "sentence": "どこで買ったのですか？彼はネクタイを締めるのが上手です。",
+        "translation": {
+            "fr": "Où l'avez-vous acheté ? Il est doué pour nouer une cravate.",
+            "en": "Where did you buy it? He is good at tying neckties."
+        },
+        "id": 5906
+    },
+    {
+        "sentence": "私も練習しなければ。",
+        "translation": {
+            "fr": "Je dois aussi m'entraîner.",
+            "en": "I also need to practice."
+        },
+        "id": 5907
+    },
+    {
+        "sentence": "寒い日にはセーターが必要です。",
+        "translation": {
+            "fr": "Les jours froids nécessitent un pull.",
+            "en": "You need a sweater on cold days."
+        },
+        "id": 5908
+    },
+    {
+        "sentence": "セーターを買いたいですが、お金が足りません。",
+        "translation": {
+            "fr": "Je veux acheter un pull mais je n'ai pas assez d'argent.",
+            "en": "I want to buy a sweater, but I don't have enough money."
+        },
+        "id": 5909
+    },
+    {
+        "sentence": "彼はセーターを脱いでTシャツを着ました。",
+        "translation": {
+            "fr": "Il a enlevé son pull et mis un t-shirt.",
+            "en": "He took off his sweater and put on a T-shirt."
+        },
+        "id": 5910
+    },
+    {
+        "sentence": "セーターは洗濯機で洗えますか。",
+        "translation": {
+            "fr": "Le pull peut-il être lavé en machine ?",
+            "en": "Can the sweater be washed in the washing machine?"
+        },
+        "id": 5911
+    },
+    {
+        "sentence": "私は今日スカートを買いました。",
+        "translation": {
+            "fr": "J'ai acheté une jupe aujourd'hui.",
+            "en": "I bought a skirt today."
+        },
+        "id": 5912
+    },
+    {
+        "sentence": "明日友達と一緒にスカートを着る予定です。",
+        "translation": {
+            "fr": "Demain, je prévois de porter une jupe avec mes amis.",
+            "en": "I plan to wear a skirt with my friends tomorrow."
+        },
+        "id": 5913
+    },
+    {
+        "sentence": "スカートを履くと女性らしさが引き立つ。",
+        "translation": {
+            "fr": "Porter une jupe met en valeur la féminité.",
+            "en": "Wearing a skirt accentuates femininity."
+        },
+        "id": 5914
+    },
+    {
+        "sentence": "スカートの色選びに悩んでいます。",
+        "translation": {
+            "fr": "Je suis indécis quant à la couleur de la jupe.",
+            "en": "I am having trouble choosing the color of the skirt."
+        },
+        "id": 5915
+    },
+    {
+        "sentence": "浪人は一年間の勉強の後、大学に入学した。",
+        "translation": {
+            "fr": "Le ronin a été admis à l'université après une année d'études.",
+            "en": "After studying for one year, the ronin entered university."
+        },
+        "id": 5916
+    },
+    {
+        "sentence": "彼は浪人生活を楽しんでいなかった。",
+        "translation": {
+            "fr": "Il n'appréciait pas sa vie de rōnin.",
+            "en": "He did not enjoy the life of a ronin."
+        },
+        "id": 5917
+    },
+    {
+        "sentence": "彼はN3の試験に合格した。",
+        "translation": {
+            "fr": "Il a réussi l'examen N3.",
+            "en": "He passed the N3 exam."
+        },
+        "id": 5918
+    },
+    {
+        "sentence": "彼の態度はぬるい。",
+        "translation": {
+            "fr": "Son attitude est tiède.",
+            "en": "His attitude is lukewarm."
+        },
+        "id": 5919
+    },
+    {
+        "sentence": "彼はN4レベルの日本語を話す。",
+        "translation": {
+            "fr": "Il parle japonais au niveau N4.",
+            "en": "He speaks Japanese at an N4 level."
+        },
+        "id": 5920
+    },
+    {
+        "sentence": "フィルムを使って写真を撮りました。",
+        "translation": {
+            "fr": "J'ai pris des photos avec un film.",
+            "en": "I took a picture using film."
+        },
+        "id": 5921
+    },
+    {
+        "sentence": "カメラが必要です。",
+        "translation": {
+            "fr": "J'ai besoin d'un appareil photo.",
+            "en": "A camera is necessary."
+        },
+        "id": 5922
+    },
+    {
+        "sentence": "安いですか？。",
+        "translation": {
+            "fr": "Est-ce bon marché ?",
+            "en": "Is it cheap?"
+        },
+        "id": 5923
+    },
+    {
+        "sentence": "それでは、上手になると思います。",
+        "translation": {
+            "fr": "Alors, je pense que vous allez vous améliorer.",
+            "en": "Then, I think you will become better."
+        },
+        "id": 5924
+    },
+    {
+        "sentence": "彼女はとても親切で、どうもありがとう。",
+        "translation": {
+            "fr": "Elle est très gentille, merci beaucoup.",
+            "en": "She is very kind, thank you very much."
+        },
+        "id": 5925
+    },
+    {
+        "sentence": "この問題は難しいですが、どうも頑張ります。",
+        "translation": {
+            "fr": "Ce problème est difficile mais je vais faire de mon mieux.",
+            "en": "This problem is difficult but I will try my best."
+        },
+        "id": 5926
+    },
+    {
+        "sentence": "日本の文化はとても興味深いです、どうも勉強したいです。",
+        "translation": {
+            "fr": "La culture japonaise est très intéressante, j'aimerais beaucoup l'étudier.",
+            "en": "Japanese culture is very interesting, I really want to study it."
+        },
+        "id": 5927
+    },
+    {
+        "sentence": "今日はとても暑いですね、どうも水分補給を忘れないようにしましょう。",
+        "translation": {
+            "fr": "Aujourd'hui il fait très chaud, n'oublions pas de bien nous hydrater.",
+            "en": "Today is very hot, so let's make sure not to forget to stay hydrated."
+        },
+        "id": 5928
+    },
+    {
+        "sentence": "この本はとても面白いです、どうもおすすめです。",
+        "translation": {
+            "fr": "Ce livre est très intéressant, je le recommande vivement.",
+            "en": "This book is very interesting, I highly recommend it."
+        },
+        "id": 5929
+    },
+    {
+        "sentence": "彼は一日に２キログラムのリンゴを食べます。",
+        "translation": {
+            "fr": "Il mange deux kilogrammes de pommes par jour.",
+            "en": "He eats 2 kilograms of apples a day."
+        },
+        "id": 5930
+    },
+    {
+        "sentence": "私の犬は体重が２０キログラムあります。",
+        "translation": {
+            "fr": "Mon chien pèse vingt kilogrammes.",
+            "en": "My dog weighs 20 kilograms."
+        },
+        "id": 5931
+    },
+    {
+        "sentence": "あの人は５０キログラムの荷物を持っています。",
+        "translation": {
+            "fr": "Cette personne transporte un bagage de 50 kilogrammes.",
+            "en": "That person is carrying a 50-kilogram package."
+        },
+        "id": 5932
+    },
+    {
+        "sentence": "彼は毎日一生懸命働いており、いつもベストを尽くしている。",
+        "translation": {
+            "fr": "Il travaille dur tous les jours et donne toujours le meilleur de lui-même.",
+            "en": "He works hard every day and always does his best."
+        },
+        "id": 5933
+    },
+    {
+        "sentence": "彼女はいつも笑顔でお客さんを迎えて、おもてなしをいたす。",
+        "translation": {
+            "fr": "Elle accueille toujours les clients avec un sourire et les reçoit avec hospitalité.",
+            "en": "She always greets customers with a smile and provides hospitality."
+        },
+        "id": 5934
+    },
+    {
+        "sentence": "彼女は毎日新聞を読み物として楽しんでいる。",
+        "translation": {
+            "fr": "Elle apprécie lire le journal tous les jours.",
+            "en": "She enjoys reading the newspaper as a pastime every day."
+        },
+        "id": 5935
+    },
+    {
+        "sentence": "読み物は日本語の勉強に役立つ。",
+        "translation": {
+            "fr": "Les lectures sont utiles pour étudier le japonais.",
+            "en": "Reading material is useful for studying Japanese."
+        },
+        "id": 5936
+    },
+    {
+        "sentence": "彼は新しいネクタイを買いました。",
+        "translation": {
+            "fr": "Il a acheté une nouvelle cravate.",
+            "en": "He bought a new tie."
+        },
+        "id": 5937
+    },
+    {
+        "sentence": "彼の誕生日に妻からもらったからです。",
+        "translation": {
+            "fr": "C'est parce que je l'ai reçu de ma femme pour mon anniversaire.",
+            "en": "I got it from my wife on his birthday."
+        },
+        "id": 5938
+    },
+    {
+        "sentence": "漢文は日本の古典文学の一部です。",
+        "translation": {
+            "fr": "Le chinois classique fait partie de la littérature classique japonaise.",
+            "en": "Chinese literature is part of Japan's classical literature."
+        },
+        "id": 5939
+    },
+    {
+        "sentence": "日本語を勉強するときに役立ちます。",
+        "translation": {
+            "fr": "Cela aide lorsque vous étudiez le japonais.",
+            "en": "It is useful when studying Japanese."
+        },
+        "id": 5940
+    },
+    {
+        "sentence": "漢文を読むのは難しいですが、面白いです。",
+        "translation": {
+            "fr": "Il est difficile de lire du chinois classique, mais c'est intéressant.",
+            "en": "Reading classical Chinese texts is difficult but interesting."
+        },
+        "id": 5941
+    },
+    {
+        "sentence": "私の日本語の能力はまだN3レベルです。",
+        "translation": {
+            "fr": "Mon niveau de japonais est encore N3.",
+            "en": "My Japanese language proficiency is still at N3 level."
+        },
+        "id": 5942
+    },
+    {
+        "sentence": "だから、完璧な文章を書くのは難しいです。",
+        "translation": {
+            "fr": "C'est pourquoi il est difficile d'écrire un texte parfait.",
+            "en": "Therefore, writing a perfect sentence is difficult."
+        },
+        "id": 5943
+    },
+    {
+        "sentence": "彼はぬるいお湯を使って手を洗いました。",
+        "translation": {
+            "fr": "Il s'est lavé les mains avec de l'eau tiède.",
+            "en": "He washed his hands with lukewarm water."
+        },
+        "id": 5944
+    },
+    {
+        "sentence": "彼女はぬるい飲み物を注文しました。",
+        "translation": {
+            "fr": "Elle a commandé une boisson tiède.",
+            "en": "She ordered a lukewarm drink."
+        },
+        "id": 5945
+    },
+    {
+        "sentence": "私は日本語の勉強を頑張っています。",
+        "translation": {
+            "fr": "Je travaille dur pour étudier le japonais.",
+            "en": "I am working hard at studying Japanese."
+        },
+        "id": 5946
+    },
+    {
+        "sentence": "それでは、よろしくお願いします。",
+        "translation": {
+            "fr": "Alors, je vous prie de bien vouloir.",
+            "en": "Well then, thank you in advance."
+        },
+        "id": 5947
+    },
+    {
+        "sentence": "彼は仕事を真面目にいたす。",
+        "translation": {
+            "fr": "Il prend son travail au sérieux.",
+            "en": "He works diligently."
+        },
+        "id": 5948
+    },
+    {
+        "sentence": "私たちは一緒に勉強をいたす。",
+        "translation": {
+            "fr": "Nous étudions ensemble.",
+            "en": "We study together."
+        },
+        "id": 5949
+    },
+    {
+        "sentence": "彼女は家事を手伝っていたす。",
+        "translation": {
+            "fr": "Elle aidait aux tâches ménagères.",
+            "en": "She was helping with the housework."
+        },
+        "id": 5950
+    },
+    {
+        "sentence": "彼女は毎日新聞を読んでいます。",
+        "translation": {
+            "fr": "Elle lit le journal tous les jours.",
+            "en": "She reads the newspaper every day."
+        },
+        "id": 5951
+    },
+    {
+        "sentence": "読み物は彼女の好きな趣味です。",
+        "translation": {
+            "fr": "La lecture est son passe-temps préféré.",
+            "en": "Reading is her favorite hobby."
+        },
+        "id": 5952
+    },
+    {
+        "sentence": "私は小説が好きですが、漫画も面白い読み物だと思います。",
+        "translation": {
+            "fr": "J'aime les romans mais je pense que les mangas sont aussi des lectures intéressantes.",
+            "en": "I like novels, but I also think manga is interesting to read."
+        },
+        "id": 5953
+    },
+    {
+        "sentence": "彼女の料理は完璧だ。",
+        "translation": {
+            "fr": "Sa cuisine est parfaite.",
+            "en": "Her cooking is perfect."
+        },
+        "id": 5954
+    },
+    {
+        "sentence": "彼女は日本料理を作るのが上手です。",
+        "translation": {
+            "fr": "Elle est douée pour cuisiner de la cuisine japonaise.",
+            "en": "She is good at cooking Japanese food."
+        },
+        "id": 5955
+    },
+    {
+        "sentence": "私は彼女の手料理が大好きです。",
+        "translation": {
+            "fr": "J'adore la cuisine maison de ma petite amie.",
+            "en": "I love her homemade cooking."
+        },
+        "id": 5956
+    },
+    {
+        "sentence": "彼女の笑顔も完璧だ。",
+        "translation": {
+            "fr": "Son sourire est aussi parfait.",
+            "en": "Her smile is also perfect."
+        },
+        "id": 5957
+    },
+    {
+        "sentence": "それでは、今日の予定を教えてください。",
+        "translation": {
+            "fr": "Alors, veuillez me dire quel est le programme d'aujourd'hui.",
+            "en": "Please tell me today's schedule."
+        },
+        "id": 5958
+    },
+    {
+        "sentence": "それから、お昼ご飯は何を食べる予定ですか。",
+        "translation": {
+            "fr": "Ensuite, que prévoyez-vous de manger pour le déjeuner ?",
+            "en": "What are you planning to eat for lunch?"
+        },
+        "id": 5959
+    },
+    {
+        "sentence": "それから、夕食は何を食べるつもりですか。",
+        "translation": {
+            "fr": "Ensuite, que prévoyez-vous de manger pour le dîner?",
+            "en": "What are you planning to eat for dinner?"
+        },
+        "id": 5960
+    },
+    {
+        "sentence": "もうすぐ春がやってくる。",
+        "translation": {
+            "fr": "Le printemps arrive bientôt.",
+            "en": "Spring is almost here."
+        },
+        "id": 5961
+    },
+    {
+        "sentence": "桜が咲くときが近づいている。",
+        "translation": {
+            "fr": "Les cerisiers sont sur le point de fleurir.",
+            "en": "Cherry blossoms are beginning to bloom."
+        },
+        "id": 5962
+    },
+    {
+        "sentence": "今週末はもうすぐ友達と遊ぶ予定だ。",
+        "translation": {
+            "fr": "Ce week-end, je prévois de sortir avec mes amis.",
+            "en": "I'm going to hang out with my friends this weekend."
+        },
+        "id": 5963
+    },
+    {
+        "sentence": "もうすぐ新しい仕事を始めることになった。",
+        "translation": {
+            "fr": "Je vais bientôt commencer un nouveau travail.",
+            "en": "I'm about to start a new job soon."
+        },
+        "id": 5964
+    },
+    {
+        "sentence": "夏休みがもうすぐ終わる。",
+        "translation": {
+            "fr": "Les vacances d'été se terminent bientôt.",
+            "en": "Summer vacation is almost over."
+        },
+        "id": 5965
+    },
+    {
+        "sentence": "まず、私は日本語の勉強を始めました。",
+        "translation": {
+            "fr": "Tout d'abord, j'ai commencé à étudier le japonais.",
+            "en": "First, I started studying Japanese."
+        },
+        "id": 5966
+    },
+    {
+        "sentence": "次に、日本へ留学することを決めました。",
+        "translation": {
+            "fr": "Ensuite, j'ai décidé d'étudier au Japon.",
+            "en": "Next, I decided to study abroad in Japan."
+        },
+        "id": 5967
+    },
+    {
+        "sentence": "留学するために、お金を貯める必要があります。",
+        "translation": {
+            "fr": "Il est nécessaire d'économiser de l'argent pour étudier à l'étranger.",
+            "en": "You need to save money in order to study abroad."
+        },
+        "id": 5968
+    },
+    {
+        "sentence": "お金を貯めるために、アルバイトを始めました。",
+        "translation": {
+            "fr": "J'ai commencé un travail à temps partiel pour économiser de l'argent.",
+            "en": "I started a part-time job to save money."
+        },
+        "id": 5969
+    },
+    {
+        "sentence": "アルバイトを始める前に、履歴書を書かなければなりません。",
+        "translation": {
+            "fr": "Avant de commencer à travailler à temps partiel, vous devez rédiger un CV.",
+            "en": "Before starting a part-time job, you must write a resume."
+        },
+        "id": 5970
+    },
+    {
+        "sentence": "私は昨日、自動販売機でお茶を買いました。",
+        "translation": {
+            "fr": "Hier's a translation: Hier, j'ai acheté du thé dans une machine automatique.",
+            "en": "I bought tea from a vending machine yesterday."
+        },
+        "id": 5971
+    },
+    {
+        "sentence": "自動販売機は便利ですね。",
+        "translation": {
+            "fr": "Les distributeurs automatiques sont pratiques, n'est-ce pas?",
+            "en": "Vending machines are convenient, aren't they?"
+        },
+        "id": 5972
+    },
+    {
+        "sentence": "彼はN3の試験に合格したので、彼女にN4の日本語の教科書をプレゼントしました。",
+        "translation": {
+            "fr": "Il a réussi l'examen N3, donc il lui a offert un manuel de japonais N4.",
+            "en": "He passed the N3 exam, so he gave her a N4 Japanese textbook as a present."
+        },
+        "id": 5973
+    },
+    {
+        "sentence": "彼女はN5レベルの日本語を勉強しているので、腕時計の説明書を読むのに苦労しています。",
+        "translation": {
+            "fr": "Elle a du mal à lire le mode d'emploi de la montre car elle étudie le japonais de niveau N5.",
+            "en": "She is studying Japanese at N5 level, so she is struggling to read the watch manual."
+        },
+        "id": 5974
+    },
+    {
+        "sentence": "友達がN3の日本語能力試験を受けるので、彼に腕時計をプレゼントしたいと考えています。",
+        "translation": {
+            "fr": "Mon ami passe le test de compétence en japonais N3, donc je veux lui offrir une montre.",
+            "en": "I am thinking of giving a watch to my friend who is taking the N3 Japanese language proficiency test."
+        },
+        "id": 5975
+    },
+    {
+        "sentence": "彼女はきっと試験に合格するだろう。",
+        "translation": {
+            "fr": "Elle réussira sûrement à l'examen.",
+            "en": "She will surely pass the exam."
+        },
+        "id": 5976
+    },
+    {
+        "sentence": "彼はきっと君を助けてくれる。",
+        "translation": {
+            "fr": "Il va sûrement t'aider.",
+            "en": "He will surely help you."
+        },
+        "id": 5977
+    },
+    {
+        "sentence": "きっと明日は晴れるでしょう。",
+        "translation": {
+            "fr": "Il fera certainement beau demain.",
+            "en": "Surely it will be sunny tomorrow."
+        },
+        "id": 5978
+    },
+    {
+        "sentence": "私は新しいかばんを買いたいです。",
+        "translation": {
+            "fr": "Je veux acheter un nouveau sac.",
+            "en": "I want to buy a new bag."
+        },
+        "id": 5979
+    },
+    {
+        "sentence": "それは青い色です。",
+        "translation": {
+            "fr": "C'est une couleur bleue.",
+            "en": "It is a color blue."
+        },
+        "id": 5980
+    },
+    {
+        "sentence": "私のかばんはとても重いです。",
+        "translation": {
+            "fr": "Mon sac est très lourd.",
+            "en": "My bag is very heavy."
+        },
+        "id": 5981
+    },
+    {
+        "sentence": "昨日は強い風が吹いていました。",
+        "translation": {
+            "fr": "Hier, il y avait un vent fort.",
+            "en": "Yesterday, a strong wind was blowing."
+        },
+        "id": 5982
+    },
+    {
+        "sentence": "部屋の中で風を吹かないでください。",
+        "translation": {
+            "fr": "S'il vous plaît, ne faites pas souffler le vent dans la pièce.",
+            "en": "Please do not blow air in the room."
+        },
+        "id": 5983
+    },
+    {
+        "sentence": "彼は家庭で料理をするのが上手です。",
+        "translation": {
+            "fr": "Il est bon en cuisine à la maison.",
+            "en": "He is good at cooking at home."
+        },
+        "id": 5984
+    },
+    {
+        "sentence": "私の家庭はとても賑やかです。",
+        "translation": {
+            "fr": "Ma famille est très animée.",
+            "en": "My family is very lively."
+        },
+        "id": 5985
+    },
+    {
+        "sentence": "家庭内の問題を解決するのは難しいことがあります。",
+        "translation": {
+            "fr": "Il peut être difficile de résoudre les problèmes familiaux.",
+            "en": "It can be difficult to resolve issues within the family."
+        },
+        "id": 5986
+    },
+    {
+        "sentence": "家庭教師を雇って勉強を手伝ってもらっています。",
+        "translation": {
+            "fr": "Je fais appel à un professeur particulier pour m'aider à étudier.",
+            "en": "I have hired a private tutor to help with my studies."
+        },
+        "id": 5987
+    },
+    {
+        "sentence": "家庭料理を食べることが一番幸せな時間だと思います。",
+        "translation": {
+            "fr": "Je pense que le moment le plus heureux est de manger un repas fait maison.",
+            "en": "I think that eating home-cooked meals is the happiest time."
+        },
+        "id": 5988
+    },
+    {
+        "sentence": "お父さんは日曜日にゴルフをします。",
+        "translation": {
+            "fr": "Papa joue au golf le dimanche.",
+            "en": "My father plays golf on Sundays."
+        },
+        "id": 5989
+    },
+    {
+        "sentence": "彼はとても上手です。",
+        "translation": {
+            "fr": "Il est très doué.",
+            "en": "He is very skilled."
+        },
+        "id": 5990
+    },
+    {
+        "sentence": "お父さんは毎晩遅くまで仕事をしています。",
+        "translation": {
+            "fr": "Mon père travaille tard tous les soirs.",
+            "en": "My father works late every night."
+        },
+        "id": 5991
+    },
+    {
+        "sentence": "家族全員でお父さんの誕生日を祝いました。",
+        "translation": {
+            "fr": "Nous avons célébré l'anniversaire de notre père en famille.",
+            "en": "The whole family celebrated father's birthday together."
+        },
+        "id": 5992
+    },
+    {
+        "sentence": "私は昨日、日本語の作文を書いた。",
+        "translation": {
+            "fr": "J'ai écrit une composition en japonais hier.",
+            "en": "I wrote a Japanese composition yesterday."
+        },
+        "id": 5993
+    },
+    {
+        "sentence": "明日は英語の作文を書かなければならない。",
+        "translation": {
+            "fr": "Demain, je dois écrire une composition en anglais.",
+            "en": "I have to write an English composition tomorrow."
+        },
+        "id": 5994
+    },
+    {
+        "sentence": "彼は台所で料理をするのが得意です。",
+        "translation": {
+            "fr": "Il est doué pour la cuisine dans la cuisine.",
+            "en": "He is good at cooking in the kitchen."
+        },
+        "id": 5995
+    },
+    {
+        "sentence": "彼のお母さんはいつも綺麗な台所を保つことができます。",
+        "translation": {
+            "fr": "Sa mère parvient toujours à garder une cuisine propre.",
+            "en": "His mother can always keep a beautiful kitchen."
+        },
+        "id": 5996
+    },
+    {
+        "sentence": "台所には新しい冷蔵庫が必要です。",
+        "translation": {
+            "fr": "Nous avons besoin d'un nouveau réfrigérateur dans la cuisine.",
+            "en": "We need a new refrigerator in the kitchen."
+        },
+        "id": 5997
+    },
+    {
+        "sentence": "私は昨日切手を買いました。",
+        "translation": {
+            "fr": "J'ai acheté des timbres hier.",
+            "en": "I bought stamps yesterday."
+        },
+        "id": 5998
+    },
+    {
+        "sentence": "郵便局で切手を売っています。",
+        "translation": {
+            "fr": "Le bureau de poste vend des timbres.",
+            "en": "They sell stamps at the post office."
+        },
+        "id": 5999
+    },
+    {
+        "sentence": "彼は昨日、郵便局で手紙を出した。",
+        "translation": {
+            "fr": "Il a posté une lettre au bureau de poste hier.",
+            "en": "He sent a letter at the post office yesterday."
+        },
+        "id": 6000
+    },
+    {
+        "sentence": "郵便局は午前9時から午後5時まで営業しています。",
+        "translation": {
+            "fr": "La poste est ouverte de 9h à 17h.",
+            "en": "The post office is open from 9 am to 5 pm."
+        },
+        "id": 6001
+    },
+    {
+        "sentence": "郵便局の前にはたくさんの自転車が止めてあります。",
+        "translation": {
+            "fr": "Devant le bureau de poste, il y a beaucoup de vélos garés.",
+            "en": "There are many bicycles parked in front of the post office."
+        },
+        "id": 6002
+    },
+    {
+        "sentence": "郵便局には切手や封筒も売っています。",
+        "translation": {
+            "fr": "Au bureau de poste, ils vendent aussi des timbres et des enveloppes.",
+            "en": "The post office also sells stamps and envelopes."
+        },
+        "id": 6003
+    },
+    {
+        "sentence": "彼は料理に塩を加えるのを忘れた。",
+        "translation": {
+            "fr": "Il a oublié d'ajouter du sel à la cuisine.",
+            "en": "He forgot to add salt to the dish."
+        },
+        "id": 6004
+    },
+    {
+        "sentence": "だから料理はあまりおいしくなかった。",
+        "translation": {
+            "fr": "C'est pourquoi la cuisine n'était pas très bonne.",
+            "en": "Therefore, the food was not very delicious."
+        },
+        "id": 6005
+    },
+    {
+        "sentence": "塩を買いにスーパーに行かなければなりません。",
+        "translation": {
+            "fr": "Il faut aller au supermarché pour acheter du sel.",
+            "en": "I need to go to the supermarket to buy salt."
+        },
+        "id": 6006
+    },
+    {
+        "sentence": "塩分を取り過ぎると体に悪い影響があります。",
+        "translation": {
+            "fr": "Un excès de sel peut avoir des effets néfastes sur le corps.",
+            "en": "Excessive salt intake can have negative effects on the body."
+        },
+        "id": 6007
+    },
+    {
+        "sentence": "私は鉛筆を買いに行きます。",
+        "translation": {
+            "fr": "Je vais acheter un crayon.",
+            "en": "I will go buy a pencil."
+        },
+        "id": 6008
+    },
+    {
+        "sentence": "彼女は鉛筆を使って手紙を書きます。",
+        "translation": {
+            "fr": "Elle écrit une lettre avec un crayon.",
+            "en": "She writes letters using a pencil."
+        },
+        "id": 6009
+    },
+    {
+        "sentence": "私は日本語の雑誌を読むのが好きです。",
+        "translation": {
+            "fr": "J'aime lire des magazines en japonais.",
+            "en": "I like reading Japanese magazines."
+        },
+        "id": 6010
+    },
+    {
+        "sentence": "それから新しい単語を学びます。",
+        "translation": {
+            "fr": "Ensuite, j'apprends de nouveaux mots.",
+            "en": "Then I will learn new words."
+        },
+        "id": 6011
+    },
+    {
+        "sentence": "でも欲しいものが見つからなかった。",
+        "translation": {
+            "fr": "Mais je n'ai pas trouvé ce que je voulais.",
+            "en": "But I couldn't find what I wanted."
+        },
+        "id": 6012
+    },
+    {
+        "sentence": "とても興味深いです。",
+        "translation": {
+            "fr": "C'est très intéressant.",
+            "en": "It is very interesting."
+        },
+        "id": 6013
+    },
+    {
+        "sentence": "私はレストランで勘定を払うとき、いつもクレジットカードを使います。",
+        "translation": {
+            "fr": "Je paie toujours l'addition au restaurant avec ma carte de crédit.",
+            "en": "When I pay the bill at a restaurant, I always use my credit card."
+        },
+        "id": 6014
+    },
+    {
+        "sentence": "お金を持っていないからです。",
+        "translation": {
+            "fr": "C'est parce que je n'ai pas d'argent.",
+            "en": "It's because I don't have any money."
+        },
+        "id": 6015
+    },
+    {
+        "sentence": "それが一番公平だと思いました。",
+        "translation": {
+            "fr": "J'ai pensé que c'était le plus juste.",
+            "en": "I thought that was the fairest."
+        },
+        "id": 6016
+    },
+    {
+        "sentence": "彼女はN3レベルの試験に合格したので、彼氏から腕時計をプレゼントされました。",
+        "translation": {
+            "fr": "Elle a réussi l'examen de niveau N3, donc son petit ami lui a offert une montre.",
+            "en": "Since she passed the N3 level exam, she received a watch as a gift from her boyfriend."
+        },
+        "id": 6017
+    },
+    {
+        "sentence": "私はN4レベルの日本語能力試験に合格した時、自分へのご褒美として腕時計を買いました。",
+        "translation": {
+            "fr": "Quand j'ai réussi l'examen de japonais de niveau N4, je me suis acheté une montre en récompense.",
+            "en": "When I passed the N4 level Japanese proficiency test, I bought a watch as a reward for myself."
+        },
+        "id": 6018
+    },
+    {
+        "sentence": "彼はN5レベルの単語しか知らないが、腕時計を見ると時間がわかる。",
+        "translation": {
+            "fr": "Il ne connaît que des mots de niveau N5, mais il peut lire l'heure en regardant sa montre.",
+            "en": "He only knows N5 level words but can tell the time by looking at a watch."
+        },
+        "id": 6019
+    },
+    {
+        "sentence": "彼はきっと合格するだろう。",
+        "translation": {
+            "fr": "Il réussira sûrement.",
+            "en": "He will surely pass."
+        },
+        "id": 6020
+    },
+    {
+        "sentence": "試験をよく勉強しているから。",
+        "translation": {
+            "fr": "Je étudie beaucoup pour l'examen.",
+            "en": "I study hard for the exam."
+        },
+        "id": 6021
+    },
+    {
+        "sentence": "たくさんの人が並んでいるから。",
+        "translation": {
+            "fr": "Il y a beaucoup de gens en ligne.",
+            "en": "There are a lot of people in line."
+        },
+        "id": 6022
+    },
+    {
+        "sentence": "仕事がたくさんあるから。",
+        "translation": {
+            "fr": "Il y a beaucoup de travail.",
+            "en": "There is a lot of work."
+        },
+        "id": 6023
+    },
+    {
+        "sentence": "天気予報がそう言っていたから。",
+        "translation": {
+            "fr": "Parce que c'est ce que la météo avait prédit.",
+            "en": "Because the weather forecast said so."
+        },
+        "id": 6024
+    },
+    {
+        "sentence": "彼はとても頑張っています。",
+        "translation": {
+            "fr": "Il travaille très dur.",
+            "en": "He is working very hard."
+        },
+        "id": 6025
+    },
+    {
+        "sentence": "開発元は日本の会社です。",
+        "translation": {
+            "fr": "L'entreprise de développement est une société japonaise.",
+            "en": "The developer is a Japanese company."
+        },
+        "id": 6026
+    },
+    {
+        "sentence": "このゲームはとても人気があります。",
+        "translation": {
+            "fr": "Ce jeu est très populaire.",
+            "en": "This game is very popular."
+        },
+        "id": 6027
+    },
+    {
+        "sentence": "彼のウェブサイトはとても見やすいです。",
+        "translation": {
+            "fr": "Son site web est très facile à lire.",
+            "en": "His website is very easy to read."
+        },
+        "id": 6028
+    },
+    {
+        "sentence": "私は彼のブログを読むのが好きです。",
+        "translation": {
+            "fr": "J'aime lire son blog.",
+            "en": "I like reading his blog."
+        },
+        "id": 6029
+    },
+    {
+        "sentence": "彼はこれから日本語の勉強を始める予定です。",
+        "translation": {
+            "fr": "Il prévoit de commencer à étudier le japonais à partir de maintenant.",
+            "en": "He plans to start studying Japanese from now on."
+        },
+        "id": 6030
+    },
+    {
+        "sentence": "来年の日本旅行のために準備しています。",
+        "translation": {
+            "fr": "Je me prépare pour mon voyage au Japon l'année prochaine.",
+            "en": "I am preparing for next year's trip to Japan."
+        },
+        "id": 6031
+    },
+    {
+        "sentence": "健康のために頑張ります。",
+        "translation": {
+            "fr": "Je vais faire de mon mieux pour ma santé.",
+            "en": "I will do my best for my health."
+        },
+        "id": 6032
+    },
+    {
+        "sentence": "彼女は日本語を勉強しているので、だいぶ上手になった。",
+        "translation": {
+            "fr": "Elle a beaucoup progressé en japonais car elle l'étudie.",
+            "en": "She has become quite good at Japanese because she is studying it."
+        },
+        "id": 6033
+    },
+    {
+        "sentence": "この本は読みやすいから、私の日本語能力はだいぶアップした。",
+        "translation": {
+            "fr": "Ce livre est facile à lire, donc mes compétences en japonais ont considérablement progressé.",
+            "en": "Because this book is easy to read, my Japanese language ability has improved a lot."
+        },
+        "id": 6034
+    },
+    {
+        "sentence": "彼はだいぶ前に日本に行ったことがある。",
+        "translation": {
+            "fr": "Il est allé au Japon il y a longtemps.",
+            "en": "He has been to Japan a long time ago."
+        },
+        "id": 6035
+    },
+    {
+        "sentence": "彼は平凡な生活を送っている。",
+        "translation": {
+            "fr": "Il mène une vie ordinaire.",
+            "en": "He is leading an ordinary life."
+        },
+        "id": 6036
+    },
+    {
+        "sentence": "彼は毎日同じことを繰り返す。",
+        "translation": {
+            "fr": "Il fait la même chose tous les jours.",
+            "en": "He does the same thing every day."
+        },
+        "id": 6037
+    },
+    {
+        "sentence": "平凡な仕事をしているが、とても満足している。",
+        "translation": {
+            "fr": "Je fais un travail ordinaire, mais je suis très satisfait.",
+            "en": "I am doing ordinary work, but I am very satisfied."
+        },
+        "id": 6038
+    },
+    {
+        "sentence": "彼女は平凡な外見だが、心はとても美しい。",
+        "translation": {
+            "fr": "Elle a une apparence ordinaire mais un cœur très beau.",
+            "en": "She has a plain appearance, but her heart is very beautiful."
+        },
+        "id": 6039
+    },
+    {
+        "sentence": "平凡な日常の中にも、幸せがある。",
+        "translation": {
+            "fr": "Même dans la banalité du quotidien, il y a du bonheur.",
+            "en": "Even in ordinary everyday life, there is happiness."
+        },
+        "id": 6040
+    },
+    {
+        "sentence": "彼の説明はとても複雑で、理解しにくかった。",
+        "translation": {
+            "fr": "Sa explication était très complexe et difficile à comprendre.",
+            "en": "His explanation was very complicated and difficult to understand."
+        },
+        "id": 6041
+    },
+    {
+        "sentence": "私は彼の言葉がN3レベルの語彙を使っていることに気づいた。",
+        "translation": {
+            "fr": "J'ai remarqué qu'il utilise un vocabulaire de niveau N3.",
+            "en": "I noticed that his words are using N3 level vocabulary."
+        },
+        "id": 6042
+    },
+    {
+        "sentence": "彼の話はつまらないです。",
+        "translation": {
+            "fr": "Sa conversation est ennuyeuse.",
+            "en": "His story is boring."
+        },
+        "id": 6043
+    },
+    {
+        "sentence": "彼はいつも同じことを話します。",
+        "translation": {
+            "fr": "Il dit toujours la même chose.",
+            "en": "He always says the same thing."
+        },
+        "id": 6044
+    },
+    {
+        "sentence": "乗り物を運転するのは楽しいです。",
+        "translation": {
+            "fr": "Conduire un véhicule est amusant.",
+            "en": "Driving vehicles is fun."
+        },
+        "id": 6045
+    },
+    {
+        "sentence": "電車や自転車も乗り物です。",
+        "translation": {
+            "fr": "Le train et le vélo sont aussi des moyens de transport.",
+            "en": "Trains and bicycles are also vehicles."
+        },
+        "id": 6046
+    },
+    {
+        "sentence": "乗り物を使って旅行するのが好きです。",
+        "translation": {
+            "fr": "J'aime voyager en utilisant les moyens de transport.",
+            "en": "I like to travel using vehicles."
+        },
+        "id": 6047
+    },
+    {
+        "sentence": "昨日の雨で外出するのが少し不便でした。",
+        "translation": {
+            "fr": "La pluie d'hier rendait un peu difficile de sortir.",
+            "en": "Yesterday's rain made it a little inconvenient to go outside."
+        },
+        "id": 6048
+    },
+    {
+        "sentence": "でも、家でゆっくり過ごすのも悪くないですね。",
+        "translation": {
+            "fr": "Mais passer du temps tranquillement à la maison n'est pas si mal non plus.",
+            "en": "But, staying home and relaxing is not a bad idea."
+        },
+        "id": 6049
+    },
+    {
+        "sentence": "今日は久しぶりに友達と会って、楽しい時間を過ごしました。",
+        "translation": {
+            "fr": "Aujourd'hui, j'ai passé un bon moment avec mes amis que je n'avais pas vu depuis longtemps.",
+            "en": "Today, I met up with my friends after a long time and had a great time."
+        },
+        "id": 6050
+    },
+    {
+        "sentence": "久しぶりの日本旅行はとても楽しかったです。",
+        "translation": {
+            "fr": "Le voyage au Japon après une longue période a été très amusant.",
+            "en": "The long-awaited trip to Japan was very enjoyable."
+        },
+        "id": 6051
+    },
+    {
+        "sentence": "彼女に久しぶりに会って、驚いた顔をしました。",
+        "translation": {
+            "fr": "Je l'ai vue pour la première fois depuis longtemps et elle avait l'air surprise.",
+            "en": "I met her after a long time and was surprised."
+        },
+        "id": 6052
+    },
+    {
+        "sentence": "私はゲームの開発元を調べています。",
+        "translation": {
+            "fr": "Je recherche l'éditeur du jeu.",
+            "en": "I am researching the developer of the game."
+        },
+        "id": 6053
+    },
+    {
+        "sentence": "それは有名な会社です。",
+        "translation": {
+            "fr": "C'est une entreprise célèbre.",
+            "en": "It is a famous company."
+        },
+        "id": 6054
+    },
+    {
+        "sentence": "彼らは新しい技術を使っています。",
+        "translation": {
+            "fr": "Ils utilisent une nouvelle technologie.",
+            "en": "They are using new technology."
+        },
+        "id": 6055
+    },
+    {
+        "sentence": "彼らは信頼できると評判が良いです。",
+        "translation": {
+            "fr": "Ils ont une bonne réputation de fiabilité.",
+            "en": "They have a good reputation for being reliable."
+        },
+        "id": 6056
+    },
+    {
+        "sentence": "私はウェブサイトを作成するのが上手です。",
+        "translation": {
+            "fr": "Je suis doué pour créer des sites web.",
+            "en": "I am good at creating websites."
+        },
+        "id": 6057
+    },
+    {
+        "sentence": "インターネットでウェブサイトを検索するのは便利です。",
+        "translation": {
+            "fr": "Rechercher des sites Web sur Internet est pratique.",
+            "en": "Searching for websites on the internet is convenient."
+        },
+        "id": 6058
+    },
+    {
+        "sentence": "ウェブサイトを訪問するときには、情報の信憑性を確認することが重要です。",
+        "translation": {
+            "fr": "Il est important de vérifier la crédibilité des informations lorsque vous visitez un site web.",
+            "en": "When visiting a website, it is important to verify the credibility of the information."
+        },
+        "id": 6059
+    },
+    {
+        "sentence": "ウェブサイトのデザインが見やすいと、利用者にとって使いやすいです。",
+        "translation": {
+            "fr": "Le design du site web est facile à lire et facile à utiliser pour les utilisateurs.",
+            "en": "The website design is easy to read and user-friendly for users."
+        },
+        "id": 6060
+    },
+    {
+        "sentence": "私の日本語の能力は、だいぶ上達したと思います。",
+        "translation": {
+            "fr": "Je pense que mes compétences en japonais se sont considérablement améliorées.",
+            "en": "I think my Japanese language skills have improved quite a lot."
+        },
+        "id": 6061
+    },
+    {
+        "sentence": "でもまだN3のレベルには達していません。",
+        "translation": {
+            "fr": "Mais je n'ai pas encore atteint le niveau N3.",
+            "en": "But I have not yet reached N3 level."
+        },
+        "id": 6062
+    },
+    {
+        "sentence": "毎日勉強しているので、だいぶ理解力がついてきたと感じます。",
+        "translation": {
+            "fr": "Je sens que ma capacité de compréhension s'est considérablement améliorée car j'étudie tous les jours.",
+            "en": "I feel like my understanding has improved quite a bit because I study every day."
+        },
+        "id": 6063
+    },
+    {
+        "sentence": "彼の説明は複雑すぎて、理解できない。",
+        "translation": {
+            "fr": "Sa explication est trop compliquée pour être comprise.",
+            "en": "His explanation is too complicated to understand."
+        },
+        "id": 6064
+    },
+    {
+        "sentence": "私は複雑な問題を解決するのが得意です。",
+        "translation": {
+            "fr": "Je suis doué pour résoudre des problèmes complexes.",
+            "en": "I am good at solving complex problems."
+        },
+        "id": 6065
+    },
+    {
+        "sentence": "彼女は複雑な計画を練っている。",
+        "translation": {
+            "fr": "Elle concocte un plan complexe.",
+            "en": "She is devising a complicated plan."
+        },
+        "id": 6066
+    },
+    {
+        "sentence": "彼女はつまらない本を読んでいた。",
+        "translation": {
+            "fr": "Elle lisait un livre ennuyeux.",
+            "en": "She was reading a boring book."
+        },
+        "id": 6067
+    },
+    {
+        "sentence": "彼女は本を変えて、面白い話を読み始めた。",
+        "translation": {
+            "fr": "Elle a changé de livre et a commencé à lire une histoire intéressante.",
+            "en": "She changed books and began reading an interesting story."
+        },
+        "id": 6068
+    },
+    {
+        "sentence": "つまらない映画を見てしまった。",
+        "translation": {
+            "fr": "J'ai regardé un film ennuyeux.",
+            "en": "I ended up watching a boring movie."
+        },
+        "id": 6069
+    },
+    {
+        "sentence": "私は車や自転車などさまざまな乗り物を使います。",
+        "translation": {
+            "fr": "Je utilise différents moyens de transport tels que les voitures et les vélos.",
+            "en": "I use various vehicles such as cars and bicycles."
+        },
+        "id": 6070
+    },
+    {
+        "sentence": "電車やバスなどの公共交通機関も便利です。",
+        "translation": {
+            "fr": "Les transports en commun tels que les trains et les bus sont également pratiques.",
+            "en": "Public transportation such as trains and buses is also convenient."
+        },
+        "id": 6071
+    },
+    {
+        "sentence": "昔は馬車が主な乗り物でしたが、今は自動車が主流です。",
+        "translation": {
+            "fr": "Autrefois, les calèches étaient le principal moyen de transport, mais aujourd'hui, les voitures sont prédominantes.",
+            "en": "In the past, carriages were the main mode of transportation, but now automobiles are mainstream."
+        },
+        "id": 6072
+    },
+    {
+        "sentence": "申し訳ございませんが、トイレが近くにないので不便です。",
+        "translation": {
+            "fr": "Je suis désolé, mais il est gênant de ne pas avoir de toilettes à proximité.",
+            "en": "I'm sorry, but it's inconvenient because there is no toilet nearby."
+        },
+        "id": 6073
+    },
+    {
+        "sentence": "お金がないと日常生活が不便になります。",
+        "translation": {
+            "fr": "L'absence d'argent rend la vie quotidienne difficile.",
+            "en": "If you don't have money, your daily life will become inconvenient."
+        },
+        "id": 6074
+    },
+    {
+        "sentence": "駅から遠い場所に住んでいるので、通勤が不便です。",
+        "translation": {
+            "fr": "Je vis dans un endroit éloigné de la gare, donc le trajet est peu pratique.",
+            "en": "I live far from the station, so my commute is inconvenient."
+        },
+        "id": 6075
+    },
+    {
+        "sentence": "昨日友達と会って、久しぶりに楽しい時間を過ごした。",
+        "translation": {
+            "fr": "Hier, j'ai passé un bon moment avec des amis que je n'avais pas vus depuis longtemps.",
+            "en": "Yesterday I met with friends and had a fun time after a long time."
+        },
+        "id": 6076
+    },
+    {
+        "sentence": "私は久しぶりに映画を見て、とても楽しかった。",
+        "translation": {
+            "fr": "J'ai regardé un film pour la première fois depuis longtemps et j'ai passé un très bon moment.",
+            "en": "I watched a movie for the first time in a while and it was a lot of fun."
+        },
+        "id": 6077
+    },
+    {
+        "sentence": "彼女はつまらない本を読んでいる。",
+        "translation": {
+            "fr": "Elle lit un livre ennuyeux.",
+            "en": "She is reading a boring book."
+        },
+        "id": 6078
+    },
+    {
+        "sentence": "私の趣味は映画を見ることです。",
+        "translation": {
+            "fr": "Mon passe-temps est de regarder des films.",
+            "en": "My hobby is watching movies."
+        },
+        "id": 6079
+    },
+    {
+        "sentence": "彼の話はとても面白いです。",
+        "translation": {
+            "fr": "Sa conversation est très intéressante.",
+            "en": "His story is very interesting."
+        },
+        "id": 6080
+    },
+    {
+        "sentence": "紅茶は甘いです。",
+        "translation": {
+            "fr": "Le thé noir est sucré.",
+            "en": "Black tea is sweet."
+        },
+        "id": 6081
+    },
+    {
+        "sentence": "私は毎朝紅茶を飲みます。",
+        "translation": {
+            "fr": "Je bois du thé noir tous les matins.",
+            "en": "I drink black tea every morning."
+        },
+        "id": 6082
+    },
+    {
+        "sentence": "紅茶を飲むとリラックスできます。",
+        "translation": {
+            "fr": "Quand je bois du thé noir, je me sens détendu.",
+            "en": "Drinking black tea relaxes me."
+        },
+        "id": 6083
+    },
+    {
+        "sentence": "お父さんは毎日仕事に行っています。",
+        "translation": {
+            "fr": "Son père va travailler tous les jours.",
+            "en": "My father goes to work every day."
+        },
+        "id": 6084
+    },
+    {
+        "sentence": "彼は机の上に鉛筆を置いた。",
+        "translation": {
+            "fr": "Il a posé un crayon sur la table.",
+            "en": "He placed the pencil on top of the desk."
+        },
+        "id": 6085
+    },
+    {
+        "sentence": "私は鉛筆を買いに本屋に行った。",
+        "translation": {
+            "fr": "Je suis allé(e) à la librairie pour acheter un crayon.",
+            "en": "I went to the bookstore to buy a pencil."
+        },
+        "id": 6086
+    },
+    {
+        "sentence": "彼女は鉛筆を落としてしまった。",
+        "translation": {
+            "fr": "Elle a laissé tomber son crayon.",
+            "en": "She dropped the pencil."
+        },
+        "id": 6087
+    },
+    {
+        "sentence": "彼の好みは甘いものだ。",
+        "translation": {
+            "fr": "Ses préférences sont sucrées.",
+            "en": "His preference is for sweet things."
+        },
+        "id": 6088
+    },
+    {
+        "sentence": "私の好みは辛い食べ物だ。",
+        "translation": {
+            "fr": "Mes préférences sont les aliments épicés.",
+            "en": "My preference is spicy food."
+        },
+        "id": 6089
+    },
+    {
+        "sentence": "彼女の好みは洋服を買うことだ。",
+        "translation": {
+            "fr": "Son préférence est d'acheter des vêtements.",
+            "en": "Her preference is buying clothes."
+        },
+        "id": 6090
+    },
+    {
+        "sentence": "彼の好みは音楽を聞くことだ。",
+        "translation": {
+            "fr": "Son passe-temps est d'écouter de la musique.",
+            "en": "His preference is listening to music."
+        },
+        "id": 6091
+    },
+    {
+        "sentence": "彼は甘いものを好むが、健康のために控えるべきだ。",
+        "translation": {
+            "fr": "Il aime les sucreries mais il devrait s'en abstenir pour sa santé.",
+            "en": "He prefers sweet foods but should refrain for the sake of his health."
+        },
+        "id": 6092
+    },
+    {
+        "sentence": "彼女は冬のスポーツを好むので、スキーに行くことが多い。",
+        "translation": {
+            "fr": "Elle aime les sports d'hiver, donc elle va souvent skier.",
+            "en": "She likes winter sports, so she often goes skiing."
+        },
+        "id": 6093
+    },
+    {
+        "sentence": "僕は静かな環境を好むので、図書館で勉強することが多い。",
+        "translation": {
+            "fr": "J'aime étudier à la bibliothèque car j'apprécie l'environnement calme.",
+            "en": "I prefer a quiet environment, so I often study at the library."
+        },
+        "id": 6094
+    },
+    {
+        "sentence": "彼女はいかがですか。",
+        "translation": {
+            "fr": "Comment est-elle?",
+            "en": "How about her?"
+        },
+        "id": 6095
+    },
+    {
+        "sentence": "明日は晴れるかもしれません。",
+        "translation": {
+            "fr": "Demain il pourrait faire beau.",
+            "en": "It may be sunny tomorrow."
+        },
+        "id": 6096
+    },
+    {
+        "sentence": "この本はとても面白いですよ。",
+        "translation": {
+            "fr": "Ce livre est très intéressant.",
+            "en": "This book is very interesting."
+        },
+        "id": 6097
+    },
+    {
+        "sentence": "彼はいつも宿題をしっかりやります。",
+        "translation": {
+            "fr": "Il fait toujours ses devoirs correctement.",
+            "en": "He always does his homework thoroughly."
+        },
+        "id": 6098
+    },
+    {
+        "sentence": "彼女は真面目な仕事をしています。",
+        "translation": {
+            "fr": "Elle fait un travail sérieux.",
+            "en": "She is doing serious work."
+        },
+        "id": 6099
+    },
+    {
+        "sentence": "彼は真面目に日本語を勉強しています。",
+        "translation": {
+            "fr": "Il étudie sérieusement le japonais.",
+            "en": "He is studying Japanese seriously."
+        },
+        "id": 6100
+    },
+    {
+        "sentence": "こちらは私の友達です。",
+        "translation": {
+            "fr": "Voici mon ami.",
+            "en": "This is my friend."
+        },
+        "id": 6101
+    },
+    {
+        "sentence": "彼の料理はまずい。",
+        "translation": {
+            "fr": "Sa cuisine est mauvaise.",
+            "en": "His cooking is bad."
+        },
+        "id": 6102
+    },
+    {
+        "sentence": "でも彼はとても優しい人です。",
+        "translation": {
+            "fr": "Mais il est une personne très gentille.",
+            "en": "But he is a very kind person."
+        },
+        "id": 6103
+    },
+    {
+        "sentence": "私はまずいことを言ってしまったので、謝りました。",
+        "translation": {
+            "fr": "J'ai dit quelque chose de mal, donc je me suis excusé.",
+            "en": "I apologized because I said something bad."
+        },
+        "id": 6104
+    },
+    {
+        "sentence": "この問題は難しすぎて、まずいです。",
+        "translation": {
+            "fr": "Ce problème est trop difficile et embêtant.",
+            "en": "This problem is too difficult and not good."
+        },
+        "id": 6105
+    },
+    {
+        "sentence": "彼女の絵はまずいが、努力は認められる。",
+        "translation": {
+            "fr": "Ses peintures sont mauvaises, mais ses efforts sont reconnus.",
+            "en": "Her painting is bad, but her effort is recognized."
+        },
+        "id": 6106
+    },
+    {
+        "sentence": "いちご狩りに行きたいです。",
+        "translation": {
+            "fr": "J'aimerais aller cueillir des fraises.",
+            "en": "I want to go strawberry picking."
+        },
+        "id": 6107
+    },
+    {
+        "sentence": "私の同僚はとても親切です。",
+        "translation": {
+            "fr": "Mon collègue est très gentil.",
+            "en": "My colleague is very kind."
+        },
+        "id": 6108
+    },
+    {
+        "sentence": "彼女はいつも助けてくれます。",
+        "translation": {
+            "fr": "Elle m'aide toujours.",
+            "en": "She always helps me."
+        },
+        "id": 6109
+    },
+    {
+        "sentence": "彼は丸い顔をしている。",
+        "translation": {
+            "fr": "Il a un visage rond.",
+            "en": "He has a round face."
+        },
+        "id": 6110
+    },
+    {
+        "sentence": "彼女は大きな瞳を持っている。",
+        "translation": {
+            "fr": "Elle a de grands yeux.",
+            "en": "She has big eyes."
+        },
+        "id": 6111
+    },
+    {
+        "sentence": "明日、友達と映画を見に行く予定です。",
+        "translation": {
+            "fr": "Demain, je prévois d'aller voir un film avec des amis.",
+            "en": "I plan to go see a movie with my friends tomorrow."
+        },
+        "id": 6112
+    },
+    {
+        "sentence": "今週末、運動をして体を鍛えるつもりです。",
+        "translation": {
+            "fr": "Ce week-end, j'ai l'intention de faire de l'exercice pour renforcer mon corps.",
+            "en": "I plan to exercise and strengthen my body this weekend."
+        },
+        "id": 6113
+    },
+    {
+        "sentence": "この本はこちらから借りられます。",
+        "translation": {
+            "fr": "Ce livre peut être emprunté d'ici.",
+            "en": "This book can be borrowed from here."
+        },
+        "id": 6114
+    },
+    {
+        "sentence": "こちらのレストランは美味しい料理がたくさんあります。",
+        "translation": {
+            "fr": "Ce restaurant propose de nombreux plats délicieux.",
+            "en": "This restaurant has a lot of delicious dishes."
+        },
+        "id": 6115
+    },
+    {
+        "sentence": "こちらへお越しいただきありがとうございます。",
+        "translation": {
+            "fr": "Merci d'être venu ici.",
+            "en": "Thank you for coming here."
+        },
+        "id": 6116
+    },
+    {
+        "sentence": "彼は同僚と一緒にプロジェクトを進めています。",
+        "translation": {
+            "fr": "Il travaille sur le projet avec ses collègues.",
+            "en": "He is progressing with the project with his colleagues."
+        },
+        "id": 6117
+    },
+    {
+        "sentence": "彼らはとても協力的です。",
+        "translation": {
+            "fr": "Ils sont très coopératifs.",
+            "en": "They are very cooperative."
+        },
+        "id": 6118
+    },
+    {
+        "sentence": "彼の日本語能力はN3レベルだと思います。",
+        "translation": {
+            "fr": "Je pense que son niveau de japonais est de N3.",
+            "en": "I think his Japanese language ability is at N3 level."
+        },
+        "id": 6119
+    },
+    {
+        "sentence": "彼女と一緒に働くのが楽しみです。",
+        "translation": {
+            "fr": "J'ai hâte de travailler avec elle.",
+            "en": "I'm looking forward to working with her."
+        },
+        "id": 6120
+    },
+    {
+        "sentence": "彼の丸い顔はとてもかわいいです。",
+        "translation": {
+            "fr": "Son visage rond est très mignon.",
+            "en": "His round face is very cute."
+        },
+        "id": 6121
+    },
+    {
+        "sentence": "彼女は赤い丸いリンゴを食べました。",
+        "translation": {
+            "fr": "Elle a mangé une pomme rouge et ronde.",
+            "en": "She ate a red round apple."
+        },
+        "id": 6122
+    },
+    {
+        "sentence": "机の上に丸いコップが置かれています。",
+        "translation": {
+            "fr": "Il y a un verre rond sur la table.",
+            "en": "A round glass is placed on the desk."
+        },
+        "id": 6123
+    },
+    {
+        "sentence": "明日、天気がいかがだろうか。",
+        "translation": {
+            "fr": "Demain, quel temps fera-t-il ?",
+            "en": "What will the weather be like tomorrow?"
+        },
+        "id": 6124
+    },
+    {
+        "sentence": "この本はとても面白いですね。",
+        "translation": {
+            "fr": "Ce livre est très intéressant, n'est-ce pas?",
+            "en": "This book is very interesting, isn't it?"
+        },
+        "id": 6125
+    },
+    {
+        "sentence": "昨日、一緒にランチを食べました。",
+        "translation": {
+            "fr": "Hier, nous avons déjeuné ensemble.",
+            "en": "I had lunch together yesterday."
+        },
+        "id": 6126
+    },
+    {
+        "sentence": "同僚全員が尊敬しています。",
+        "translation": {
+            "fr": "Tous ses collègues le respectent.",
+            "en": "All colleagues respect him."
+        },
+        "id": 6127
+    },
+    {
+        "sentence": "明日のデートの計画はいかがですか。",
+        "translation": {
+            "fr": "Que pensez-vous du plan de rendez-vous pour demain ?",
+            "en": "How about the plan for tomorrow's date?"
+        },
+        "id": 6128
+    },
+    {
+        "sentence": "映画を見たり、美味しい食事を楽しんだりできます。",
+        "translation": {
+            "fr": "Vous pouvez regarder des films et profiter de délicieux repas.",
+            "en": "You can watch movies and enjoy delicious meals."
+        },
+        "id": 6129
+    },
+    {
+        "sentence": "彼女は新しいめがねを買いました。",
+        "translation": {
+            "fr": "Elle a acheté de nouvelles lunettes.",
+            "en": "She bought new glasses."
+        },
+        "id": 6130
+    },
+    {
+        "sentence": "リモートワークをすることは便利です。",
+        "translation": {
+            "fr": "Travailler à distance est pratique.",
+            "en": "Working remotely is convenient."
+        },
+        "id": 6131
+    },
+    {
+        "sentence": "しかし、社会とのつながりが少なくなるかもしれません。",
+        "translation": {
+            "fr": "Cependant, les liens avec la société pourraient se réduire.",
+            "en": "However, you may become less connected to society."
+        },
+        "id": 6132
+    },
+    {
+        "sentence": "それでも、リモートワークは時間の節約になります。",
+        "translation": {
+            "fr": "Cependant, le travail à distance permet d'économiser du temps.",
+            "en": "Still, remote work saves time."
+        },
+        "id": 6133
+    },
+    {
+        "sentence": "私は銀行に行ってお金を引き出しました。",
+        "translation": {
+            "fr": "Je suis allé à la banque et j'ai retiré de l'argent.",
+            "en": "I went to the bank and withdrew money."
+        },
+        "id": 6134
+    },
+    {
+        "sentence": "明日は銀行に行かなければなりません。",
+        "translation": {
+            "fr": "Demain, je dois aller à la banque.",
+            "en": "I have to go to the bank tomorrow."
+        },
+        "id": 6135
+    },
+    {
+        "sentence": "彼らの会社は新しいオフィスに移転しました。",
+        "translation": {
+            "fr": "Leur entreprise a déménagé dans de nouveaux bureaux.",
+            "en": "Their company relocated to a new office."
+        },
+        "id": 6136
+    },
+    {
+        "sentence": "彼らは広いスペースを求めていました。",
+        "translation": {
+            "fr": "Ils cherchaient un grand espace.",
+            "en": "They were looking for a large space."
+        },
+        "id": 6137
+    },
+    {
+        "sentence": "新しい生活を始めるのが楽しみです。",
+        "translation": {
+            "fr": "Je suis excité de commencer une nouvelle vie.",
+            "en": "I am looking forward to starting a new life."
+        },
+        "id": 6138
+    },
+    {
+        "sentence": "彼女に会いに行きたいと思います。",
+        "translation": {
+            "fr": "Je veux aller la voir.",
+            "en": "I want to go see her."
+        },
+        "id": 6139
+    },
+    {
+        "sentence": "彼の家は新しい場所に移る予定です。",
+        "translation": {
+            "fr": "Sa maison est prévue de déménager dans un nouvel endroit.",
+            "en": "His house is scheduled to move to a new location."
+        },
+        "id": 6140
+    },
+    {
+        "sentence": "私たちは来月新しいアパートに引っ越すことになりました。",
+        "translation": {
+            "fr": "Nous allons déménager dans un nouvel appartement le mois prochain.",
+            "en": "We have decided to move to a new apartment next month."
+        },
+        "id": 6141
+    },
+    {
+        "sentence": "電車が突然停止して、乗客は別の車両に移らなければなりませんでした。",
+        "translation": {
+            "fr": "Le train s'est soudainement arrêté et les passagers ont dû se déplacer vers un autre véhicule.",
+            "en": "The train suddenly stopped, and the passengers had to move to another car."
+        },
+        "id": 6142
+    },
+    {
+        "sentence": "先月、友達と映画を見に行きました。",
+        "translation": {
+            "fr": "Le mois dernier, je suis allé voir un film avec des amis.",
+            "en": "Last month, I went to see a movie with my friends."
+        },
+        "id": 6143
+    },
+    {
+        "sentence": "その映画はとても面白かったです。",
+        "translation": {
+            "fr": "Ce film était très intéressant.",
+            "en": "That movie was very interesting."
+        },
+        "id": 6144
+    },
+    {
+        "sentence": "もっと頑張らないといけません。",
+        "translation": {
+            "fr": "Il faut travailler plus dur.",
+            "en": "I have to work harder."
+        },
+        "id": 6145
+    },
+    {
+        "sentence": "もっと休む時間を取らないといけませんね。",
+        "translation": {
+            "fr": "Il faut prendre plus de temps pour se reposer.",
+            "en": "You need to take more rest time."
+        },
+        "id": 6146
+    },
+    {
+        "sentence": "彼の話はなんだか面白い。",
+        "translation": {
+            "fr": "Ses histoires sont plutôt intéressantes.",
+            "en": "His story is somehow interesting."
+        },
+        "id": 6147
+    },
+    {
+        "sentence": "でも、ちょっと信じられない。",
+        "translation": {
+            "fr": "Mais je trouve cela un peu difficile à croire.",
+            "en": "But, I can't believe it."
+        },
+        "id": 6148
+    },
+    {
+        "sentence": "昨日の出来事はなんだか夢の中で起きたような気がする。",
+        "translation": {
+            "fr": "Les événements d'hier me semblent s'être déroulés comme dans un rêve.",
+            "en": "The events of yesterday feel like they happened in a dream."
+        },
+        "id": 6149
+    },
+    {
+        "sentence": "この問題はなんだか難しいな。",
+        "translation": {
+            "fr": "Ce problème semble un peu difficile.",
+            "en": "This problem seems somewhat difficult."
+        },
+        "id": 6150
+    },
+    {
+        "sentence": "新しい仕事を始めるとき、なんだか不安になる。",
+        "translation": {
+            "fr": "Quand je commence un nouveau travail, je me sens un peu anxieux.",
+            "en": "When starting a new job, I feel somewhat anxious."
+        },
+        "id": 6151
+    },
+    {
+        "sentence": "利口犬非常聪明。",
+        "translation": {
+            "fr": "Le chien intelligent est très intelligent.",
+            "en": "Smart dogs are very intelligent."
+        },
+        "id": 6152
+    },
+    {
+        "sentence": "这只狗听得懂很多指令。",
+        "translation": {
+            "fr": "Ce chien comprend beaucoup de commandes.",
+            "en": "This dog understands many commands."
+        },
+        "id": 6153
+    },
+    {
+        "sentence": "它们很适合在城市生活。",
+        "translation": {
+            "fr": "Ils conviennent très bien à la vie en ville.",
+            "en": "They are very suitable for city living."
+        },
+        "id": 6154
+    },
+    {
+        "sentence": "它的毛色很漂亮。",
+        "translation": {
+            "fr": "Sa couleur de pelage est très jolie.",
+            "en": "Its fur color is very beautiful."
+        },
+        "id": 6155
+    },
+    {
+        "sentence": "私の友達は犬のタイプが好きです。",
+        "translation": {
+            "fr": "Mon ami aime le type de chien.",
+            "en": "My friend likes the type of dogs."
+        },
+        "id": 6156
+    },
+    {
+        "sentence": "彼女は可愛い犬が好きです。",
+        "translation": {
+            "fr": "Elle aime les chiens mignons.",
+            "en": "She likes cute dogs."
+        },
+        "id": 6157
+    },
+    {
+        "sentence": "タイプは人それぞれです。",
+        "translation": {
+            "fr": "Les goûts sont propres à chacun.",
+            "en": "Tastes vary from person to person."
+        },
+        "id": 6158
+    },
+    {
+        "sentence": "彼のタイプはスポーツ選手です。",
+        "translation": {
+            "fr": "Son type est un athlète.",
+            "en": "His type is a sports player."
+        },
+        "id": 6159
+    },
+    {
+        "sentence": "映画はとても面白かった。",
+        "translation": {
+            "fr": "Le film était très intéressant.",
+            "en": "The movie was very interesting."
+        },
+        "id": 6160
+    },
+    {
+        "sentence": "でも今週は涼しい。",
+        "translation": {
+            "fr": "Mais cette semaine, il fait frais.",
+            "en": "But this week is cool."
+        },
+        "id": 6161
+    },
+    {
+        "sentence": "私たちは日本で様々な文化に触れることができ、それらはとても興味深いです。",
+        "translation": {
+            "fr": "Nous pouvons découvrir différentes cultures au Japon et elles sont très intéressantes.",
+            "en": "We can experience various cultures in Japan, and they are very interesting."
+        },
+        "id": 6162
+    },
+    {
+        "sentence": "その中には神社やお寺も含まれています。",
+        "translation": {
+            "fr": "Il comprend également des sanctuaires et des temples.",
+            "en": "Among them are shrines and temples."
+        },
+        "id": 6163
+    },
+    {
+        "sentence": "それらの建物はとても美しいです。",
+        "translation": {
+            "fr": "Ces bâtiments sont très beaux.",
+            "en": "Those buildings are very beautiful."
+        },
+        "id": 6164
+    },
+    {
+        "sentence": "私はフェレットを飼っています。",
+        "translation": {
+            "fr": "Je possède un furet.",
+            "en": "I have a pet ferret."
+        },
+        "id": 6165
+    },
+    {
+        "sentence": "フェレットは小さい動物ですが、元気があります。",
+        "translation": {
+            "fr": "Le furet est un petit animal mais il est plein d'énergie.",
+            "en": "Ferrets are small animals, but they are energetic."
+        },
+        "id": 6166
+    },
+    {
+        "sentence": "ハムスターは可愛いです。",
+        "translation": {
+            "fr": "Le hamster est mignon.",
+            "en": "Hamsters are cute."
+        },
+        "id": 6167
+    },
+    {
+        "sentence": "一緒に遊ぶのが楽しいです。",
+        "translation": {
+            "fr": "C'est amusant de jouer ensemble.",
+            "en": "It is fun to play together."
+        },
+        "id": 6168
+    },
+    {
+        "sentence": "私はハムスターを飼っています。",
+        "translation": {
+            "fr": "Je possède un hamster.",
+            "en": "I have a hamster."
+        },
+        "id": 6169
+    },
+    {
+        "sentence": "針鼠は小さな哺乳動物です。",
+        "translation": {
+            "fr": "Le hérisson est un petit mammifère.",
+            "en": "The hedgehog is a small mammal."
+        },
+        "id": 6170
+    },
+    {
+        "sentence": "針鼠は背中に針のような毛を持っています。",
+        "translation": {
+            "fr": "Le hérisson a des poils pointus sur le dos.",
+            "en": "Hedgehogs have needle-like hairs on their backs."
+        },
+        "id": 6171
+    },
+    {
+        "sentence": "りすは木の上に登っています。",
+        "translation": {
+            "fr": "L'écureuil grimpe sur l'arbre.",
+            "en": "The squirrel is climbing up the tree."
+        },
+        "id": 6172
+    },
+    {
+        "sentence": "私はりすを見つけるのが難しいです。",
+        "translation": {
+            "fr": "Il est difficile de trouver des écureuils.",
+            "en": "It is difficult for me to find squirrels."
+        },
+        "id": 6173
+    },
+    {
+        "sentence": "りすがかわいいですね。",
+        "translation": {
+            "fr": "Les écureuils sont mignons, n'est-ce pas?",
+            "en": "Squirrels are cute, aren't they?"
+        },
+        "id": 6174
+    },
+    {
+        "sentence": "りすは日本の森に住んでいます。",
+        "translation": {
+            "fr": "L'écureuil vit dans les forêts du Japon.",
+            "en": "The squirrel lives in the forest in Japan."
+        },
+        "id": 6175
+    },
+    {
+        "sentence": "私の家には、鼠が住んでいます。",
+        "translation": {
+            "fr": "Il y a des souris qui habitent dans ma maison.",
+            "en": "There is a mouse living in my house."
+        },
+        "id": 6176
+    },
+    {
+        "sentence": "家族は猫を飼っています。",
+        "translation": {
+            "fr": "La famille a un chat.",
+            "en": "The family has a cat."
+        },
+        "id": 6177
+    },
+    {
+        "sentence": "鼠は夜に出てくることが多いです。",
+        "translation": {
+            "fr": "Les souris sortent souvent la nuit.",
+            "en": "Mice often come out at night."
+        },
+        "id": 6178
+    },
+    {
+        "sentence": "鶏は卵を産みます。",
+        "translation": {
+            "fr": "Les poules pondent des œufs.",
+            "en": "Chickens lay eggs."
+        },
+        "id": 6179
+    },
+    {
+        "sentence": "私たちは鶏を飼っています。",
+        "translation": {
+            "fr": "Nous élevons des poules.",
+            "en": "We are raising chickens."
+        },
+        "id": 6180
+    },
+    {
+        "sentence": "鶏の鳴き声が聞こえる。",
+        "translation": {
+            "fr": "On entend le chant du coq.",
+            "en": "I can hear the crowing of a chicken."
+        },
+        "id": 6181
+    },
+    {
+        "sentence": "彼は砂漠でらくだに乗って旅をしています。",
+        "translation": {
+            "fr": "Il voyage à dos de chameau dans le désert.",
+            "en": "He is traveling on a camel in the desert."
+        },
+        "id": 6182
+    },
+    {
+        "sentence": "らくだは砂漠に適応した動物です。",
+        "translation": {
+            "fr": "Le chameau est un animal adapté au désert.",
+            "en": "Camels are animals adapted to the desert."
+        },
+        "id": 6183
+    },
+    {
+        "sentence": "らくだの毛並みは厚いですが、柔らかくて触り心地が良いです。",
+        "translation": {
+            "fr": "Le pelage du chameau est épais, mais doux et agréable au toucher.",
+            "en": "The camel's fur is thick, but soft and pleasant to the touch."
+        },
+        "id": 6184
+    },
+    {
+        "sentence": "らくだの背中には荷物を積むための荷台があります。",
+        "translation": {
+            "fr": "Il y a une plate-forme pour charger des bagages sur le dos du chameau.",
+            "en": "There is a luggage rack on the back of the camel for loading luggage."
+        },
+        "id": 6185
+    },
+    {
+        "sentence": "彼はメガネをかけている。",
+        "translation": {
+            "fr": "Il porte des lunettes.",
+            "en": "He is wearing glasses."
+        },
+        "id": 6186
+    },
+    {
+        "sentence": "私もメガネをかけていますが、度が強いです。",
+        "translation": {
+            "fr": "Je porte aussi des lunettes, mais ma vue est forte.",
+            "en": "I also wear glasses, but my prescription is strong."
+        },
+        "id": 6187
+    },
+    {
+        "sentence": "彼は新しい会社に移転しました。",
+        "translation": {
+            "fr": "Il a déménagé dans une nouvelle entreprise.",
+            "en": "He moved to a new company."
+        },
+        "id": 6188
+    },
+    {
+        "sentence": "今の家から遠いので、新しい家を探しています。",
+        "translation": {
+            "fr": "Je cherche une nouvelle maison car celle-ci est trop loin de mon travail.",
+            "en": "I am looking for a new house because the current one is far away."
+        },
+        "id": 6189
+    },
+    {
+        "sentence": "移転する時は荷物をまとめるのが大変です。",
+        "translation": {
+            "fr": "Il est difficile de préparer ses affaires lors d'un déménagement.",
+            "en": "It's difficult to pack up when moving."
+        },
+        "id": 6190
+    },
+    {
+        "sentence": "彼は部屋を出て、外に移った。",
+        "translation": {
+            "fr": "Il sortit de la pièce et sortit à l'extérieur.",
+            "en": "He left the room and went outside."
+        },
+        "id": 6191
+    },
+    {
+        "sentence": "彼の新しいアパートメントは駅から近い。",
+        "translation": {
+            "fr": "Son nouvel appartement est proche de la gare.",
+            "en": "His new apartment is close to the station."
+        },
+        "id": 6192
+    },
+    {
+        "sentence": "私たちが新しい町に引っ越す時、友達が手伝ってくれた。",
+        "translation": {
+            "fr": "Lorsque nous avons déménagé dans la nouvelle ville, des amis nous ont aidés.",
+            "en": "When we moved to a new town, our friends helped us."
+        },
+        "id": 6193
+    },
+    {
+        "sentence": "地震の影響で、建物の位置が少しずつ移っている。",
+        "translation": {
+            "fr": "L'impact du tremblement de terre a fait déplacer lentement la position des bâtiments.",
+            "en": "Due to the earthquake, the building's position is gradually shifting."
+        },
+        "id": 6194
+    },
+    {
+        "sentence": "駅から近くて便利です。",
+        "translation": {
+            "fr": "C'est proche de la gare et pratique.",
+            "en": "It is close to the station and convenient."
+        },
+        "id": 6195
+    },
+    {
+        "sentence": "結果はまだわかりません。",
+        "translation": {
+            "fr": "Les résultats ne sont pas encore connus.",
+            "en": "The results are still unknown."
+        },
+        "id": 6196
+    },
+    {
+        "sentence": "利口的狗很聪明。",
+        "translation": {
+            "fr": "Le chien intelligent est intelligent.",
+            "en": "Smart dogs are clever."
+        },
+        "id": 6197
+    },
+    {
+        "sentence": "我的朋友是个利口的人。",
+        "translation": {
+            "fr": "Mon ami est une personne bavarde.",
+            "en": "My friend is a clever person."
+        },
+        "id": 6198
+    },
+    {
+        "sentence": "这个问题很利口。",
+        "translation": {
+            "fr": "Cette question est très délicate.",
+            "en": "This problem is very complicated."
+        },
+        "id": 6199
+    },
+    {
+        "sentence": "彼は日本語の勉強を楽しんでおり、それらの本をよく読んでいます。",
+        "translation": {
+            "fr": "Il aime étudier le japonais et lit souvent ces livres.",
+            "en": "He enjoys studying Japanese and often reads those books."
+        },
+        "id": 6200
+    },
+    {
+        "sentence": "それらの本は彼の語彙を豊かにしています。",
+        "translation": {
+            "fr": "Ces livres enrichissent son vocabulaire.",
+            "en": "Those books are enriching his vocabulary."
+        },
+        "id": 6201
+    },
+    {
+        "sentence": "針鼠は野生動物です。",
+        "translation": {
+            "fr": "Le hérisson est un animal sauvage.",
+            "en": "Hedgehogs are wild animals."
+        },
+        "id": 6202
+    },
+    {
+        "sentence": "針鼠はかわいいけど、触ると痛いです。",
+        "translation": {
+            "fr": "Les hérissons sont mignons, mais ça fait mal quand on le touche.",
+            "en": "Hedgehogs are cute but they hurt when you touch them."
+        },
+        "id": 6203
+    },
+    {
+        "sentence": "らくだは砂漠で生きる動物です。",
+        "translation": {
+            "fr": "Les chameaux sont des animaux vivant dans le désert.",
+            "en": "Camels are animals that live in the desert."
+        },
+        "id": 6204
+    },
+    {
+        "sentence": "砂漠にはらくだがいます。",
+        "translation": {
+            "fr": "Il y a des chameaux dans le désert.",
+            "en": "There are camels in the desert."
+        },
+        "id": 6205
+    },
+    {
+        "sentence": "メガネをかけて本を読みます。",
+        "translation": {
+            "fr": "Je lis un livre en portant des lunettes.",
+            "en": "I will put on my glasses and read a book."
+        },
+        "id": 6206
+    },
+    {
+        "sentence": "彼女はメガネをかけてとても頭がいいです。",
+        "translation": {
+            "fr": "Elle est très intelligente et porte des lunettes.",
+            "en": "She is very smart and wears glasses."
+        },
+        "id": 6207
+    },
+    {
+        "sentence": "メガネを壊してしまいましたが、新しいのを買いました。",
+        "translation": {
+            "fr": "J'ai cassé mes lunettes, mais j'en ai acheté de nouvelles.",
+            "en": "I broke my glasses, but I bought a new pair."
+        },
+        "id": 6208
+    },
+    {
+        "sentence": "メガネをかけると視界がクリアになります。",
+        "translation": {
+            "fr": "Porter des lunettes rend la vision plus claire.",
+            "en": "Wearing glasses makes your vision clearer."
+        },
+        "id": 6209
+    },
+    {
+        "sentence": "メガネをかけている人が多いですね。",
+        "translation": {
+            "fr": "Il y a beaucoup de gens qui portent des lunettes, n'est-ce pas?",
+            "en": "There are many people wearing glasses, aren't there?"
+        },
+        "id": 6210
+    },
+    {
+        "sentence": "彼の家は新しい家に移った。",
+        "translation": {
+            "fr": "Sa famille a déménagé dans une nouvelle maison.",
+            "en": "His family moved to a new house."
+        },
+        "id": 6211
+    },
+    {
+        "sentence": "家族全員が手伝った。",
+        "translation": {
+            "fr": "Toute la famille a aidé.",
+            "en": "The entire family helped."
+        },
+        "id": 6212
+    },
+    {
+        "sentence": "私たちの会社は都心に本社が移る予定だ。",
+        "translation": {
+            "fr": "Notre entreprise prévoit de transférer son siège social dans le centre-ville.",
+            "en": "Our company is planning to move its headquarters to the city center."
+        },
+        "id": 6213
+    },
+    {
+        "sentence": "彼女が部屋の中を移動しながら話していた。",
+        "translation": {
+            "fr": "Elle parlait en se déplaçant dans la pièce.",
+            "en": "She was talking while moving around the room."
+        },
+        "id": 6214
+    },
+    {
+        "sentence": "昨日は友達と先週の出来事を話した。",
+        "translation": {
+            "fr": "Hier, j'ai parlé des événements de la semaine dernière avec mes amis.",
+            "en": "Yesterday, I talked about last week's events with my friends."
+        },
+        "id": 6215
+    },
+    {
+        "sentence": "先週、日本の新しいレストランに行った。",
+        "translation": {
+            "fr": "La semaine dernière, je suis allé dans un nouveau restaurant japonais.",
+            "en": "Last week, I went to a new restaurant in Japan."
+        },
+        "id": 6216
+    },
+    {
+        "sentence": "先週の宿題を忘れてしまった。",
+        "translation": {
+            "fr": "J'ai oublié mes devoirs de la semaine dernière.",
+            "en": "I forgot last week's homework."
+        },
+        "id": 6217
+    },
+    {
+        "sentence": "彼女は先月、新しいアパートに引っ越しました。",
+        "translation": {
+            "fr": "Elle a déménagé dans un nouvel appartement le mois dernier.",
+            "en": "She moved to a new apartment last month."
+        },
+        "id": 6218
+    },
+    {
+        "sentence": "先月の給料はとても少なかった。",
+        "translation": {
+            "fr": "Le salaire du mois dernier était très bas.",
+            "en": "Last month's salary was very small."
+        },
+        "id": 6219
+    },
+    {
+        "sentence": "先月の天気はとても暑かった。",
+        "translation": {
+            "fr": "Le temps le mois dernier était très chaud.",
+            "en": "Last month's weather was very hot."
+        },
+        "id": 6220
+    },
+    {
+        "sentence": "先月の旅行は楽しかったです。",
+        "translation": {
+            "fr": "Le voyage du mois dernier était amusant.",
+            "en": "Last month's trip was fun."
+        },
+        "id": 6221
+    },
+    {
+        "sentence": "フェレットは小さな動物です。",
+        "translation": {
+            "fr": "Le furet est un petit animal.",
+            "en": "Ferrets are small animals."
+        },
+        "id": 6222
+    },
+    {
+        "sentence": "彼らはかわいいです。",
+        "translation": {
+            "fr": "Ils sont mignons.",
+            "en": "They are cute."
+        },
+        "id": 6223
+    },
+    {
+        "sentence": "私はフェレットの世話をするのが好きです。",
+        "translation": {
+            "fr": "J'aime m'occuper des furets.",
+            "en": "I like taking care of ferrets."
+        },
+        "id": 6224
     }
 ]

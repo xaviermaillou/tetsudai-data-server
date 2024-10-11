@@ -6,7 +6,7 @@ const sentencesList = require('../data/sentences.json')
 const fetchSentences = async () => {
     const newSentencesList = [ ...sentencesList ]
 
-    for (let i = 0; i < 600; i++) {
+    for (let i = 0; i < 900; i++) {
         const fullWord = await axios.get(`http://localhost:9001/word/${vocabularyList[i].id}`)
 
         const baseWord = fullWord.data.word.primaryWord
