@@ -49798,5 +49798,989 @@
             "en": "I like taking care of ferrets."
         },
         "id": 6224
+    },
+    {
+        "sentence": "彼はろばを飼っています。",
+        "translation": {
+            "fr": "Il possède un âne.",
+            "en": "He is raising a donkey."
+        },
+        "id": 6225
+    },
+    {
+        "sentence": "私は彼がばかだと思うけど、彼はいい人だ。",
+        "translation": {
+            "fr": "Je pense qu'il est stupide, mais il est une bonne personne.",
+            "en": "I think he's stupid, but he's a good person."
+        },
+        "id": 6226
+    },
+    {
+        "sentence": "彼はN3の単語をたくさん知っている。",
+        "translation": {
+            "fr": "Il connaît beaucoup de mots de niveau N3.",
+            "en": "He knows a lot of N3 level words."
+        },
+        "id": 6227
+    },
+    {
+        "sentence": "私の友達は山羊を飼っています。",
+        "translation": {
+            "fr": "Mon ami possède des chèvres.",
+            "en": "My friend has a goat."
+        },
+        "id": 6228
+    },
+    {
+        "sentence": "山羊は四つ脚の動物です。",
+        "translation": {
+            "fr": "Les chèvres sont des animaux à quatre pattes.",
+            "en": "Goats are four-legged animals."
+        },
+        "id": 6229
+    },
+    {
+        "sentence": "狸は日本の伝説や民話によく登場します。",
+        "translation": {
+            "fr": "Le tanuki apparaît souvent dans les légendes et les contes populaires japonais.",
+            "en": "The tanuki often appears in Japanese legends and folktales."
+        },
+        "id": 6230
+    },
+    {
+        "sentence": "私は狸のキツネのような尾が好きです。",
+        "translation": {
+            "fr": "J'aime les queues de tanuki comme celle des renards.",
+            "en": "I like tails like a fox's tail."
+        },
+        "id": 6231
+    },
+    {
+        "sentence": "狸はしばしば悪戯好きな動物として描かれます。",
+        "translation": {
+            "fr": "Le tanuki est souvent représenté comme un animal espiègle.",
+            "en": "The tanuki is often portrayed as a mischievous animal."
+        },
+        "id": 6232
+    },
+    {
+        "sentence": "彼女は農場でろばと一緒に働いています。",
+        "translation": {
+            "fr": "Elle travaille avec des ânes dans une ferme.",
+            "en": "She works on a farm with a donkey."
+        },
+        "id": 6233
+    },
+    {
+        "sentence": "彼はろばを乗り物に使って町を訪れます。",
+        "translation": {
+            "fr": "Il visite la ville en utilisant un âne comme moyen de transport.",
+            "en": "He visits the town using a donkey as transportation."
+        },
+        "id": 6234
+    },
+    {
+        "sentence": "彼は私の友達ですが、時々ばかなことを言います。",
+        "translation": {
+            "fr": "Il est mon ami mais il dit parfois des choses stupides.",
+            "en": "He is my friend, but he sometimes says silly things."
+        },
+        "id": 6235
+    },
+    {
+        "sentence": "日本語の勉強をしているときに、ばかな間違いをよくします。",
+        "translation": {
+            "fr": "Pendant que j'étudie le japonais, je fais souvent des erreurs stupides.",
+            "en": "When studying Japanese, I often make silly mistakes."
+        },
+        "id": 6236
+    },
+    {
+        "sentence": "彼女の家にはろばがいます。",
+        "translation": {
+            "fr": "Il y a un âne dans sa maison.",
+            "en": "She has a donkey at her house."
+        },
+        "id": 6237
+    },
+    {
+        "sentence": "彼女はろばを大切にしています。",
+        "translation": {
+            "fr": "Elle prend soin de son âne.",
+            "en": "She takes good care of her donkey."
+        },
+        "id": 6238
+    },
+    {
+        "sentence": "ろばはとても可愛いです。",
+        "translation": {
+            "fr": "L'âne est très mignon.",
+            "en": "The donkey is very cute."
+        },
+        "id": 6239
+    },
+    {
+        "sentence": "ベトナムに行ったことがありますか。",
+        "translation": {
+            "fr": "Êtes-vous déjà allé au Vietnam ?",
+            "en": "Have you ever been to Vietnam?"
+        },
+        "id": 6240
+    },
+    {
+        "sentence": "私はハノイとホーチミンを訪れました。",
+        "translation": {
+            "fr": "J'ai visité Hanoï et Hô-Chi-Minh.",
+            "en": "I visited Hanoi and Ho Chi Minh City."
+        },
+        "id": 6241
+    },
+    {
+        "sentence": "越南是一个美丽的国家。",
+        "translation": {
+            "fr": "Le Vietnam est un beau pays.",
+            "en": "Vietnam is a beautiful country."
+        },
+        "id": 6242
+    },
+    {
+        "sentence": "我想学习越南语。",
+        "translation": {
+            "fr": "Je veux apprendre le vietnamien.",
+            "en": "I want to learn Vietnamese."
+        },
+        "id": 6243
+    },
+    {
+        "sentence": "我计划明年去越南旅行。",
+        "translation": {
+            "fr": "Je prévois de voyager au Vietnam l'année prochaine.",
+            "en": "I plan to travel to Vietnam next year."
+        },
+        "id": 6244
+    },
+    {
+        "sentence": "インドはアジアの国です。",
+        "translation": {
+            "fr": "L'Inde est un pays asiatique.",
+            "en": "India is a country in Asia."
+        },
+        "id": 6245
+    },
+    {
+        "sentence": "たくさんの人々がインドに旅行します。",
+        "translation": {
+            "fr": "Beaucoup de gens voyagent en Inde.",
+            "en": "Many people travel to India."
+        },
+        "id": 6246
+    },
+    {
+        "sentence": "インド料理はとてもおいしいです。",
+        "translation": {
+            "fr": "La cuisine indienne est très délicieuse.",
+            "en": "Indian food is very delicious."
+        },
+        "id": 6247
+    },
+    {
+        "sentence": "インドの文化に興味があります。",
+        "translation": {
+            "fr": "Je m'intéresse à la culture indienne.",
+            "en": "I am interested in Indian culture."
+        },
+        "id": 6248
+    },
+    {
+        "sentence": "シンガポールはN3レベルの言葉です。",
+        "translation": {
+            "fr": "Singapour est au niveau N3 de la langue.",
+            "en": "Singapore is a level N3 language."
+        },
+        "id": 6249
+    },
+    {
+        "sentence": "この都市は観光地として人気があります。",
+        "translation": {
+            "fr": "Cette ville est populaire en tant que destination touristique.",
+            "en": "This city is popular as a tourist destination."
+        },
+        "id": 6250
+    },
+    {
+        "sentence": "そこで美味しい羊肉料理を食べました。",
+        "translation": {
+            "fr": "J'ai mangé un délicieux plat d'agneau là-bas.",
+            "en": "I ate delicious lamb dish there."
+        },
+        "id": 6251
+    },
+    {
+        "sentence": "オーストラリアに行きたいです。",
+        "translation": {
+            "fr": "Je veux aller en Australie.",
+            "en": "I want to go to Australia."
+        },
+        "id": 6252
+    },
+    {
+        "sentence": "日本から飛行機で行きます。",
+        "translation": {
+            "fr": "Je vais en avion du Japon.",
+            "en": "I will go by airplane from Japan."
+        },
+        "id": 6253
+    },
+    {
+        "sentence": "オーストラリアは動物がたくさんいます。",
+        "translation": {
+            "fr": "L'Australie a beaucoup d'animaux.",
+            "en": "Australia has a lot of animals."
+        },
+        "id": 6254
+    },
+    {
+        "sentence": "オーストラリアは夏の時期に行くのがおすすめです。",
+        "translation": {
+            "fr": "L'Australie est recommandée pour être visitée pendant l'été.",
+            "en": "Australia is recommended to visit during the summer season."
+        },
+        "id": 6255
+    },
+    {
+        "sentence": "ベトナムは東南アジアにある国です。",
+        "translation": {
+            "fr": "Le Viêt Nam est un pays situé en Asie du Sud-Est.",
+            "en": "Vietnam is a country located in Southeast Asia."
+        },
+        "id": 6256
+    },
+    {
+        "sentence": "私はベトナム料理が大好きです。",
+        "translation": {
+            "fr": "J'adore la cuisine vietnamienne.",
+            "en": "I love Vietnamese food."
+        },
+        "id": 6257
+    },
+    {
+        "sentence": "シンガポールは日本からの直行便が多いです。",
+        "translation": {
+            "fr": "Singapour a de nombreux vols directs en provenance du Japon.",
+            "en": "Singapore has many direct flights from Japan."
+        },
+        "id": 6258
+    },
+    {
+        "sentence": "今度の旅行はシンガポールに行きたいです。",
+        "translation": {
+            "fr": "Je veux aller à Singapour lors de mon prochain voyage.",
+            "en": "I want to go to Singapore on my next trip."
+        },
+        "id": 6259
+    },
+    {
+        "sentence": "そこで美しい景色を見ることができました。",
+        "translation": {
+            "fr": "J'ai pu voir un beau paysage là-bas.",
+            "en": "I was able to see beautiful scenery there."
+        },
+        "id": 6260
+    },
+    {
+        "sentence": "大学院生がオーストリアに留学することが人気です。",
+        "translation": {
+            "fr": "Les étudiants des cycles supérieurs étudier en Autriche est populaire.",
+            "en": "It is popular for graduate students to study abroad in Austria."
+        },
+        "id": 6261
+    },
+    {
+        "sentence": "ニュージーランドは南半球に位置しています。",
+        "translation": {
+            "fr": "La Nouvelle-Zélande se trouve dans l'hémisphère sud.",
+            "en": "New Zealand is located in the southern hemisphere."
+        },
+        "id": 6262
+    },
+    {
+        "sentence": "私はオーストリアの首都、ウィーンを訪れたことがあります。",
+        "translation": {
+            "fr": "J'ai déjà visité la capitale autrichienne, Vienne.",
+            "en": "I have visited the capital of Austria, Vienna."
+        },
+        "id": 6263
+    },
+    {
+        "sentence": "ワニはニュージーランドにはいない。",
+        "translation": {
+            "fr": "Les crocodiles ne sont pas présents en Nouvelle-Zélande.",
+            "en": "Crocodiles are not found in New Zealand."
+        },
+        "id": 6264
+    },
+    {
+        "sentence": "でも、カンガルーはいます。",
+        "translation": {
+            "fr": "Mais, il y a des kangourous.",
+            "en": "But there are kangaroos."
+        },
+        "id": 6265
+    },
+    {
+        "sentence": "ニュージーランドの自然はとても美しいです。",
+        "translation": {
+            "fr": "La nature de la Nouvelle-Zélande est très belle.",
+            "en": "The nature of New Zealand is very beautiful."
+        },
+        "id": 6266
+    },
+    {
+        "sentence": "ニュージーランドの言語は英語です。",
+        "translation": {
+            "fr": "La langue de la Nouvelle-Zélande est l'anglais.",
+            "en": "The language of New Zealand is English."
+        },
+        "id": 6267
+    },
+    {
+        "sentence": "日本の友達と一緒に越南に旅行したいです。",
+        "translation": {
+            "fr": "Je veux voyager au Vietnam avec mes amis japonais.",
+            "en": "I want to travel to Vietnam with my Japanese friends."
+        },
+        "id": 6268
+    },
+    {
+        "sentence": "日本語を勉強しながら、外国の文化を体験したいです。",
+        "translation": {
+            "fr": "Je veux étudier le japonais tout en découvrant la culture étrangère.",
+            "en": "I want to experience foreign cultures while studying Japanese."
+        },
+        "id": 6269
+    },
+    {
+        "sentence": "豊かな自然と美味しい食べ物がたくさんある越南は魅力的です。",
+        "translation": {
+            "fr": "Le Vietnam, avec sa nature abondante et sa délicieuse cuisine, est charmant.",
+            "en": "Vietnam, with its abundant nature and delicious food, is charming."
+        },
+        "id": 6270
+    },
+    {
+        "sentence": "チリは暑い国です。",
+        "translation": {
+            "fr": "Le Chili est un pays chaud.",
+            "en": "Chile is a hot country."
+        },
+        "id": 6271
+    },
+    {
+        "sentence": "夏は特に暑いです。",
+        "translation": {
+            "fr": "L'été est particulièrement chaud.",
+            "en": "Summer is particularly hot."
+        },
+        "id": 6272
+    },
+    {
+        "sentence": "チリソースが有名です。",
+        "translation": {
+            "fr": "La sauce chili est célèbre.",
+            "en": "Chili sauce is famous."
+        },
+        "id": 6273
+    },
+    {
+        "sentence": "アンデス山脈が見られます。",
+        "translation": {
+            "fr": "Les montagnes des Andes sont visibles.",
+            "en": "You can see the Andes Mountains."
+        },
+        "id": 6274
+    },
+    {
+        "sentence": "大都市です。",
+        "translation": {
+            "fr": "C'est une grande ville.",
+            "en": "It is a metropolis."
+        },
+        "id": 6275
+    },
+    {
+        "sentence": "ブラジルは南アメリカに位置しています。",
+        "translation": {
+            "fr": "Le Brésil est situé en Amérique du Sud.",
+            "en": "Brazil is located in South America."
+        },
+        "id": 6276
+    },
+    {
+        "sentence": "日本からブラジルまでの航空便はたくさんあります。",
+        "translation": {
+            "fr": "Il y a beaucoup de vols entre le Japon et le Brésil.",
+            "en": "There are many flights from Japan to Brazil."
+        },
+        "id": 6277
+    },
+    {
+        "sentence": "ブラジルには美しいビーチがたくさんあります。",
+        "translation": {
+            "fr": "Il y a beaucoup de belles plages au Brésil.",
+            "en": "Brazil has many beautiful beaches."
+        },
+        "id": 6278
+    },
+    {
+        "sentence": "メキシコは南アメリカにある国です。",
+        "translation": {
+            "fr": "Le Mexique est un pays situé en Amérique du Sud.",
+            "en": "Mexico is a country located in South America."
+        },
+        "id": 6279
+    },
+    {
+        "sentence": "ケベックはカナダの都市です。",
+        "translation": {
+            "fr": "Québec est une ville du Canada.",
+            "en": "Quebec is a city in Canada."
+        },
+        "id": 6280
+    },
+    {
+        "sentence": "日本語を勉強している人にとっては、ケベックに行くと楽しい経験になるかもしれません。",
+        "translation": {
+            "fr": "Pour les personnes qui étudient le japonais, aller au Québec pourrait être une expérience amusante.",
+            "en": "For those studying Japanese, going to Quebec could be a fun experience."
+        },
+        "id": 6281
+    },
+    {
+        "sentence": "カナダは北米にある国です。",
+        "translation": {
+            "fr": "Le Canada est un pays en Amérique du Nord.",
+            "en": "Canada is a country located in North America."
+        },
+        "id": 6282
+    },
+    {
+        "sentence": "私はカナダに行ったことがあります。",
+        "translation": {
+            "fr": "Je suis allé au Canada.",
+            "en": "I have been to Canada."
+        },
+        "id": 6283
+    },
+    {
+        "sentence": "ロシアは東ヨーロッパに位置しています。",
+        "translation": {
+            "fr": "La Russie est située en Europe de l'Est.",
+            "en": "Russia is located in Eastern Europe."
+        },
+        "id": 6284
+    },
+    {
+        "sentence": "私はロシアの文化に興味があります。",
+        "translation": {
+            "fr": "Je m'intéresse à la culture russe.",
+            "en": "I am interested in Russian culture."
+        },
+        "id": 6285
+    },
+    {
+        "sentence": "ロシア語を勉強するのは難しいですが、面白いです。",
+        "translation": {
+            "fr": "Apprendre le russe est difficile mais intéressant.",
+            "en": "Studying Russian is difficult but interesting."
+        },
+        "id": 6286
+    },
+    {
+        "sentence": "ポルトガルはヨーロッパの国です。",
+        "translation": {
+            "fr": "Le Portugal est un pays européen.",
+            "en": "Portugal is a country in Europe."
+        },
+        "id": 6287
+    },
+    {
+        "sentence": "リスボンはポルトガルの首都です。",
+        "translation": {
+            "fr": "Lisbonne est la capitale du Portugal.",
+            "en": "Lisbon is the capital of Portugal."
+        },
+        "id": 6288
+    },
+    {
+        "sentence": "ギリシャは美しい国です。",
+        "translation": {
+            "fr": "La Grèce est un beau pays.",
+            "en": "Greece is a beautiful country."
+        },
+        "id": 6289
+    },
+    {
+        "sentence": "日本の人々もギリシャの文化に興味を持っています。",
+        "translation": {
+            "fr": "Les Japonais s'intéressent également à la culture grecque.",
+            "en": "Japanese people are also interested in Greek culture."
+        },
+        "id": 6290
+    },
+    {
+        "sentence": "ギリシャ料理はとてもおいしいです。",
+        "translation": {
+            "fr": "La cuisine grecque est très délicieuse.",
+            "en": "Greek food is very delicious."
+        },
+        "id": 6291
+    },
+    {
+        "sentence": "イギリスにはたくさんの観光名所があります。",
+        "translation": {
+            "fr": "Il y a beaucoup de sites touristiques au Royaume-Uni.",
+            "en": "There are many tourist attractions in the UK."
+        },
+        "id": 6292
+    },
+    {
+        "sentence": "彼らの礼儀正しさは素晴らしいです。",
+        "translation": {
+            "fr": "Leur politesse est remarquable.",
+            "en": "Their politeness is wonderful."
+        },
+        "id": 6293
+    },
+    {
+        "sentence": "チリには美しいビーチがたくさんあります。",
+        "translation": {
+            "fr": "Il y a beaucoup de belles plages au Chili.",
+            "en": "Chile has many beautiful beaches."
+        },
+        "id": 6294
+    },
+    {
+        "sentence": "チリの食べ物はスパイシーで有名です。",
+        "translation": {
+            "fr": "La nourriture chilienne est connue pour être épicée.",
+            "en": "Chilean food is famous for being spicy."
+        },
+        "id": 6295
+    },
+    {
+        "sentence": "多くの観光客がブラジルの美しいビーチを訪れます。",
+        "translation": {
+            "fr": "De nombreux touristes visitent les belles plages du Brésil.",
+            "en": "Many tourists visit the beautiful beaches of Brazil."
+        },
+        "id": 6296
+    },
+    {
+        "sentence": "私はブラジルのサッカーチームが好きです。",
+        "translation": {
+            "fr": "J'aime l'équipe de football du Brésil.",
+            "en": "I like the Brazilian soccer team."
+        },
+        "id": 6297
+    },
+    {
+        "sentence": "メキシコは美味しい食べ物がたくさんあります。",
+        "translation": {
+            "fr": "Le Mexique a beaucoup de délicieuse nourriture.",
+            "en": "Mexico has a lot of delicious food."
+        },
+        "id": 6298
+    },
+    {
+        "sentence": "私はメキシコへ旅行したいです。",
+        "translation": {
+            "fr": "Je veux voyager au Mexique.",
+            "en": "I want to travel to Mexico."
+        },
+        "id": 6299
+    },
+    {
+        "sentence": "メキシコの文化を学ぶのは楽しいです。",
+        "translation": {
+            "fr": "Apprendre la culture mexicaine est amusant.",
+            "en": "Studying Mexican culture is fun."
+        },
+        "id": 6300
+    },
+    {
+        "sentence": "ケベックはカナダにある都市です。",
+        "translation": {
+            "fr": "Québec est une ville située au Canada.",
+            "en": "Quebec is a city located in Canada."
+        },
+        "id": 6301
+    },
+    {
+        "sentence": "ケベックにはフランス語を話す人が多いです。",
+        "translation": {
+            "fr": "Au Québec, il y a beaucoup de personnes qui parlent français.",
+            "en": "There are many French speakers in Quebec."
+        },
+        "id": 6302
+    },
+    {
+        "sentence": "イギリスにはたくさんの歴史的な建物があります。",
+        "translation": {
+            "fr": "Il y a beaucoup de bâtiments historiques au Royaume-Uni.",
+            "en": "There are many historical buildings in the UK."
+        },
+        "id": 6303
+    },
+    {
+        "sentence": "日本からイギリスへの航空券を買った。",
+        "translation": {
+            "fr": "J'ai acheté un billet d'avion du Japon vers le Royaume-Uni.",
+            "en": "I bought a plane ticket from Japan to the UK."
+        },
+        "id": 6304
+    },
+    {
+        "sentence": "イギリスの文化を学ぶのは楽しいです。",
+        "translation": {
+            "fr": "Apprendre la culture britannique est amusant.",
+            "en": "Studying British culture is enjoyable."
+        },
+        "id": 6305
+    },
+    {
+        "sentence": "スプーンは食器です。",
+        "translation": {
+            "fr": "La cuillère est un ustensile.",
+            "en": "A spoon is tableware."
+        },
+        "id": 6306
+    },
+    {
+        "sentence": "お箸は日本の伝統的な食器です。",
+        "translation": {
+            "fr": "Les baguettes sont des ustensiles traditionnels japonais.",
+            "en": "Chopsticks are traditional Japanese utensils."
+        },
+        "id": 6307
+    },
+    {
+        "sentence": "彼女はフォークとナイフを使って、スプーンを使わなかった。",
+        "translation": {
+            "fr": "Elle n'a pas utilisé de cuillère, mais a utilisé une fourchette et un couteau.",
+            "en": "She used a fork and knife, but did not use a spoon."
+        },
+        "id": 6308
+    },
+    {
+        "sentence": "彼はスプーンでスープを飲みました。",
+        "translation": {
+            "fr": "Il a bu de la soupe avec une cuillère.",
+            "en": "He drank the soup with a spoon."
+        },
+        "id": 6309
+    },
+    {
+        "sentence": "スプーンを使ってケーキを食べるのが好きです。",
+        "translation": {
+            "fr": "J'aime manger du gâteau avec une cuillère.",
+            "en": "I like eating cake with a spoon."
+        },
+        "id": 6310
+    },
+    {
+        "sentence": "私はフォークでサラダを食べました。",
+        "translation": {
+            "fr": "J'ai mangé de la salade avec une fourchette.",
+            "en": "I ate the salad with a fork."
+        },
+        "id": 6311
+    },
+    {
+        "sentence": "彼女はナイフとフォークを使ってステーキを切った。",
+        "translation": {
+            "fr": "Elle a coupé le steak avec un couteau et une fourchette.",
+            "en": "She cut the steak using a knife and fork."
+        },
+        "id": 6312
+    },
+    {
+        "sentence": "レストランでフォークが不足していたので、スプーンを使った。",
+        "translation": {
+            "fr": "Au restaurant, il manquait de fourchettes alors j'ai utilisé une cuillère.",
+            "en": "I used a spoon because there was a shortage of forks at the restaurant."
+        },
+        "id": 6313
+    },
+    {
+        "sentence": "彼は部屋にランプを置いた。",
+        "translation": {
+            "fr": "Il a placé une lampe dans la pièce.",
+            "en": "He placed a lamp in the room."
+        },
+        "id": 6314
+    },
+    {
+        "sentence": "彼はランプの明かりを消した。",
+        "translation": {
+            "fr": "Il a éteint la lumière de la lampe.",
+            "en": "He turned off the light of the lamp."
+        },
+        "id": 6315
+    },
+    {
+        "sentence": "部屋にはテーブルとランプがある。",
+        "translation": {
+            "fr": "Il y a une table et une lampe dans la chambre.",
+            "en": "There is a table and a lamp in the room."
+        },
+        "id": 6316
+    },
+    {
+        "sentence": "ランプを買って部屋を明るくしよう。",
+        "translation": {
+            "fr": "Achetez une lampe pour éclairer la pièce.",
+            "en": "Let's buy a lamp and brighten up the room."
+        },
+        "id": 6317
+    },
+    {
+        "sentence": "彼は新しい扉を建てました。",
+        "translation": {
+            "fr": "Il a construit une nouvelle porte.",
+            "en": "He built a new door."
+        },
+        "id": 6318
+    },
+    {
+        "sentence": "彼女は扉を開けた時に驚いた。",
+        "translation": {
+            "fr": "Elle a été surprise quand elle a ouvert la porte.",
+            "en": "She was surprised when she opened the door."
+        },
+        "id": 6319
+    },
+    {
+        "sentence": "扉の向こうには誰もいなかった。",
+        "translation": {
+            "fr": "Derrière la porte, il n'y avait personne.",
+            "en": "There was no one behind the door."
+        },
+        "id": 6320
+    },
+    {
+        "sentence": "扉を閉めるのを忘れないでください。",
+        "translation": {
+            "fr": "N'oubliez pas de fermer la porte.",
+            "en": "Please remember to close the door."
+        },
+        "id": 6321
+    },
+    {
+        "sentence": "扉の前には看板があります。",
+        "translation": {
+            "fr": "Il y a une enseigne devant la porte.",
+            "en": "There is a sign in front of the door."
+        },
+        "id": 6322
+    },
+    {
+        "sentence": "リモコンを使ってテレビをつける。",
+        "translation": {
+            "fr": "Allumer la télévision avec la télécommande.",
+            "en": "Turn on the TV using the remote control."
+        },
+        "id": 6323
+    },
+    {
+        "sentence": "私はリモコンをなくしてしまった。",
+        "translation": {
+            "fr": "J'ai perdu la télécommande.",
+            "en": "I lost the remote control."
+        },
+        "id": 6324
+    },
+    {
+        "sentence": "リモコンを探すのに時間がかかった。",
+        "translation": {
+            "fr": "Il a fallu du temps pour trouver la télécommande.",
+            "en": "It took time to find the remote control."
+        },
+        "id": 6325
+    },
+    {
+        "sentence": "リモコンの電池が切れた。",
+        "translation": {
+            "fr": "Les piles de la télécommande sont épuisées.",
+            "en": "The remote control's batteries died."
+        },
+        "id": 6326
+    },
+    {
+        "sentence": "しかし、冬は暖房が必要です。",
+        "translation": {
+            "fr": "Cependant, l'hiver nécessite du chauffage.",
+            "en": "However, heating is necessary in winter."
+        },
+        "id": 6327
+    },
+    {
+        "sentence": "私はコンピュータを使って日本語の勉強をしています。",
+        "translation": {
+            "fr": "Je suis en train d'étudier le japonais en utilisant un ordinateur.",
+            "en": "I am studying Japanese using a computer."
+        },
+        "id": 6328
+    },
+    {
+        "sentence": "私の友達はコンピュータの修理をする仕事をしています。",
+        "translation": {
+            "fr": "Mon ami travaille dans la réparation d'ordinateurs.",
+            "en": "My friend has a job repairing computers."
+        },
+        "id": 6329
+    },
+    {
+        "sentence": "私はコンピュータを持っていませんが、欲しいと思っています。",
+        "translation": {
+            "fr": "Je n'ai pas d'ordinateur mais j'aimerais en avoir un.",
+            "en": "I do not have a computer, but I want one."
+        },
+        "id": 6330
+    },
+    {
+        "sentence": "ステレオを買いました。",
+        "translation": {
+            "fr": "J'ai acheté une stéréo.",
+            "en": "I bought a stereo."
+        },
+        "id": 6331
+    },
+    {
+        "sentence": "音楽を聞くのが楽しみです。",
+        "translation": {
+            "fr": "J'ai hâte d'écouter de la musique.",
+            "en": "I look forward to listening to music."
+        },
+        "id": 6332
+    },
+    {
+        "sentence": "私の部屋にはステレオがあります。",
+        "translation": {
+            "fr": "Il y a une stéréo dans ma chambre.",
+            "en": "I have a stereo in my room."
+        },
+        "id": 6333
+    },
+    {
+        "sentence": "彼はステレオを修理することができます。",
+        "translation": {
+            "fr": "Il peut réparer la stéréo.",
+            "en": "He can repair stereos."
+        },
+        "id": 6334
+    },
+    {
+        "sentence": "私の部屋にはラジオがあります。",
+        "translation": {
+            "fr": "Il y a une radio dans ma chambre.",
+            "en": "I have a radio in my room."
+        },
+        "id": 6335
+    },
+    {
+        "sentence": "毎朝ラジオを聞きながら朝ご飯を食べます。",
+        "translation": {
+            "fr": "Je mange mon petit-déjeuner en écoutant la radio tous les matins.",
+            "en": "I eat breakfast while listening to the radio every morning."
+        },
+        "id": 6336
+    },
+    {
+        "sentence": "ラジオの音楽が好きですが、時々ニュースも聞きます。",
+        "translation": {
+            "fr": "J'aime la musique à la radio, mais j'écoute parfois aussi les nouvelles.",
+            "en": "I like listening to radio music, but sometimes I also listen to the news."
+        },
+        "id": 6337
+    },
+    {
+        "sentence": "私は毎日カレンダーを見て、予定を確認します。",
+        "translation": {
+            "fr": "Je regarde mon calendrier tous les jours pour vérifier mon emploi du temps.",
+            "en": "I check my schedule every day by looking at the calendar."
+        },
+        "id": 6338
+    },
+    {
+        "sentence": "今月のカレンダーにはたくさんの予定が入っています。",
+        "translation": {
+            "fr": "Le calendrier de ce mois est rempli de nombreux rendez-vous.",
+            "en": "There are a lot of appointments on this month's calendar."
+        },
+        "id": 6339
+    },
+    {
+        "sentence": "彼はソファで読書をしている。",
+        "translation": {
+            "fr": "Il est en train de lire sur le canapé.",
+            "en": "He is reading a book on the sofa."
+        },
+        "id": 6340
+    },
+    {
+        "sentence": "ソファを買う予定です。",
+        "translation": {
+            "fr": "Je prévois d'acheter un canapé.",
+            "en": "I plan to buy a sofa."
+        },
+        "id": 6341
+    },
+    {
+        "sentence": "彼はベッドの上で本を読んでいる。",
+        "translation": {
+            "fr": "Il lit un livre sur le lit.",
+            "en": "He is reading a book on the bed."
+        },
+        "id": 6342
+    },
+    {
+        "sentence": "彼は昨日ベッドで寝ていた。",
+        "translation": {
+            "fr": "Il dormait dans son lit hier.",
+            "en": "He was sleeping in bed yesterday."
+        },
+        "id": 6343
+    },
+    {
+        "sentence": "ベッドを新しく買いたい。",
+        "translation": {
+            "fr": "Je veux acheter un nouveau lit.",
+            "en": "I want to buy a new bed."
+        },
+        "id": 6344
+    },
+    {
+        "sentence": "猫はソファのクッションを気に入ったようです。",
+        "translation": {
+            "fr": "Le chat semble avoir apprécié le coussin du canapé.",
+            "en": "The cat seems to have taken a liking to the sofa cushion."
+        },
+        "id": 6345
+    },
+    {
+        "sentence": "ソファの色は部屋の雰囲気に合っています。",
+        "translation": {
+            "fr": "La couleur du canapé convient à l'ambiance de la pièce.",
+            "en": "The color of the sofa matches the atmosphere of the room."
+        },
+        "id": 6346
+    },
+    {
+        "sentence": "ソファを新しく買い換えたいと思っています。",
+        "translation": {
+            "fr": "Je veux acheter un nouveau canapé.",
+            "en": "I am thinking of buying a new sofa."
+        },
+        "id": 6347
     }
 ]
