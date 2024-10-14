@@ -69492,8 +69492,8 @@
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
-                    "ateji": true,
-                    "irregular": false,
+                    "ateji": false,
+                    "irregular": true,
                     "chineseLegacy": false
                 }
             },
