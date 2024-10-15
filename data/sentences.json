@@ -53662,5 +53662,1173 @@
             "en": "I want to relax at home today."
         },
         "id": 6707
+    },
+    {
+        "sentence": "彼と知り合うために、友達の紹介を受けた。",
+        "translation": {
+            "fr": "J’ai été présenté à lui par un ami pour faire sa connaissance. ",
+            "en": "I was introduced to him by a friend in order to get to know him."
+        },
+        "id": 6708
+    },
+    {
+        "sentence": "彼はとても親切だと思った。",
+        "translation": {
+            "fr": "Il m'a semblé très gentil.",
+            "en": "He thought he was very kind."
+        },
+        "id": 6709
+    },
+    {
+        "sentence": "彼は昔からの知り合いです。",
+        "translation": {
+            "fr": "Il est un vieil ami.",
+            "en": "He is an old acquaintance."
+        },
+        "id": 6710
+    },
+    {
+        "sentence": "彼とはN3レベルの日本語を話すことができます。",
+        "translation": {
+            "fr": "Je peux parler japonais de niveau N3 avec lui.",
+            "en": "I can speak Japanese at the N3 level with him."
+        },
+        "id": 6711
+    },
+    {
+        "sentence": "私の甥は中学校に通っています。",
+        "translation": {
+            "fr": "Mon neveu va au collège.",
+            "en": "My nephew is attending junior high school."
+        },
+        "id": 6712
+    },
+    {
+        "sentence": "彼は毎日宿題をしています。",
+        "translation": {
+            "fr": "Il fait ses devoirs tous les jours.",
+            "en": "He does his homework every day."
+        },
+        "id": 6713
+    },
+    {
+        "sentence": "中学校の先生はとても優しいです。",
+        "translation": {
+            "fr": "Les enseignants du collège sont très gentils.",
+            "en": "The middle school teacher is very kind."
+        },
+        "id": 6714
+    },
+    {
+        "sentence": "夏休みに友達と遊ぶのが楽しみです。",
+        "translation": {
+            "fr": "J'ai hâte de jouer avec mes amis pendant les vacances d'été.",
+            "en": "I am looking forward to playing with my friends during the summer vacation."
+        },
+        "id": 6715
+    },
+    {
+        "sentence": "小学校は子供たちの第二の家と呼ばれることがあります。",
+        "translation": {
+            "fr": "L'école primaire est parfois appelée la deuxième maison des enfants.",
+            "en": "Elementary schools are sometimes called the second home for children."
+        },
+        "id": 6716
+    },
+    {
+        "sentence": "私は小学校で友達をたくさん作りました。",
+        "translation": {
+            "fr": "J'ai fait beaucoup d'amis à l'école primaire.",
+            "en": "I made a lot of friends in elementary school."
+        },
+        "id": 6717
+    },
+    {
+        "sentence": "彼は後ろに立っている。",
+        "translation": {
+            "fr": "Il est debout derrière.",
+            "en": "He is standing behind."
+        },
+        "id": 6718
+    },
+    {
+        "sentence": "私は彼の声を聞いた。",
+        "translation": {
+            "fr": "J'ai entendu sa voix.",
+            "en": "I heard his voice."
+        },
+        "id": 6719
+    },
+    {
+        "sentence": "その人は私の友達です。",
+        "translation": {
+            "fr": "Cette personne est mon ami.",
+            "en": "That person is my friend."
+        },
+        "id": 6720
+    },
+    {
+        "sentence": "それは私の車です。",
+        "translation": {
+            "fr": "C'est ma voiture.",
+            "en": "It is my car."
+        },
+        "id": 6721
+    },
+    {
+        "sentence": "またね。",
+        "translation": {
+            "fr": "À bientôt.",
+            "en": "See you later."
+        },
+        "id": 6722
+    },
+    {
+        "sentence": "明日の試験は大丈夫だと思う。",
+        "translation": {
+            "fr": "Je pense que l'examen de demain ira bien.",
+            "en": "I think the exam tomorrow will be fine."
+        },
+        "id": 6723
+    },
+    {
+        "sentence": "今日はとても楽しかったね。",
+        "translation": {
+            "fr": "Aujourd'hui était très amusant, n'est-ce pas?",
+            "en": "Today was very fun, wasn't it?"
+        },
+        "id": 6724
+    },
+    {
+        "sentence": "明日の会議は午後に閉会します。",
+        "translation": {
+            "fr": "La réunion de demain se terminera dans l'après-midi.",
+            "en": "The meeting tomorrow will adjourn in the afternoon."
+        },
+        "id": 6725
+    },
+    {
+        "sentence": "その後、懇親会があります。",
+        "translation": {
+            "fr": "Ensuite, il y aura un événement de réseautage.",
+            "en": "After that, there will be a social gathering."
+        },
+        "id": 6726
+    },
+    {
+        "sentence": "彼は窓を閉じました。",
+        "translation": {
+            "fr": "Il a fermé la fenêtre.",
+            "en": "He closed the window."
+        },
+        "id": 6727
+    },
+    {
+        "sentence": "外は寒かったからです。",
+        "translation": {
+            "fr": "C’est parce qu’il faisait froid dehors. ",
+            "en": "It's because it was cold outside."
+        },
+        "id": 6728
+    },
+    {
+        "sentence": "読み終わったら、閉じてしまいましょう。",
+        "translation": {
+            "fr": "Une fois que vous avez fini de lire, fermez-le.",
+            "en": "Once you finish reading, let's close it."
+        },
+        "id": 6729
+    },
+    {
+        "sentence": "外は雨が降っているからです。",
+        "translation": {
+            "fr": "Il pleut dehors, c'est pourquoi.",
+            "en": "It's because it's raining outside."
+        },
+        "id": 6730
+    },
+    {
+        "sentence": "私の友達は会社員です。",
+        "translation": {
+            "fr": "Mon ami est un employé de bureau.",
+            "en": "My friend is a company employee."
+        },
+        "id": 6731
+    },
+    {
+        "sentence": "彼は毎日忙しいです。",
+        "translation": {
+            "fr": "Il est occupé tous les jours.",
+            "en": "He is busy every day."
+        },
+        "id": 6732
+    },
+    {
+        "sentence": "私はもちろん日本語を勉強しています。",
+        "translation": {
+            "fr": "Je suis bien sûr en train d'apprendre le japonais.",
+            "en": "I am of course studying Japanese."
+        },
+        "id": 6733
+    },
+    {
+        "sentence": "日本語能力試験N3を受ける予定です。",
+        "translation": {
+            "fr": "Je prévois de passer l'examen de compétence en japonais N3.",
+            "en": "I plan to take the Japanese Language Proficiency Test N3."
+        },
+        "id": 6734
+    },
+    {
+        "sentence": "もちろん、頑張ります。",
+        "translation": {
+            "fr": "Bien sûr, je vais faire de mon mieux.",
+            "en": "Of course, I will do my best."
+        },
+        "id": 6735
+    },
+    {
+        "sentence": "彼の日本語はまあまあ上手です。",
+        "translation": {
+            "fr": "Son japonais est assez bon.",
+            "en": "His Japanese is good enough."
+        },
+        "id": 6736
+    },
+    {
+        "sentence": "でも、まだ勉強が必要です。",
+        "translation": {
+            "fr": "Mais j'ai encore besoin d'étudier.",
+            "en": "But, more studying is still necessary."
+        },
+        "id": 6737
+    },
+    {
+        "sentence": "私の料理はまあまあ美味しいと思います。",
+        "translation": {
+            "fr": "Je pense que ma cuisine est assez délicieuse.",
+            "en": "I think my cooking is okay delicious."
+        },
+        "id": 6738
+    },
+    {
+        "sentence": "ごめん、じゃあ、明日会いましょう。",
+        "translation": {
+            "fr": "Désolé, alors rencontrons-nous demain.",
+            "en": "Sorry, then let's meet tomorrow."
+        },
+        "id": 6739
+    },
+    {
+        "sentence": "パソコンを使って日本語の勉強をするのが楽しいです。",
+        "translation": {
+            "fr": "Il est amusant d'étudier le japonais en utilisant un ordinateur.",
+            "en": "Studying Japanese using a computer is fun."
+        },
+        "id": 6740
+    },
+    {
+        "sentence": "私はパソコンを買ったばかりです。",
+        "translation": {
+            "fr": "Je viens d'acheter un ordinateur.",
+            "en": "I just bought a computer."
+        },
+        "id": 6741
+    },
+    {
+        "sentence": "パソコンを修理するためにお金を貯めています。",
+        "translation": {
+            "fr": "Je suis en train d'économiser de l'argent pour réparer mon ordinateur.",
+            "en": "I am saving money to repair my computer."
+        },
+        "id": 6742
+    },
+    {
+        "sentence": "私の知り合いは日本語の能力試験N3を受けています。",
+        "translation": {
+            "fr": "Mon ami passe l'examen de compétence en japonais N3.",
+            "en": "My acquaintance is taking the Japanese Language Proficiency Test N3."
+        },
+        "id": 6743
+    },
+    {
+        "sentence": "彼女は頑張って勉強しています。",
+        "translation": {
+            "fr": "Elle étudie dur.",
+            "en": "She is studying hard."
+        },
+        "id": 6744
+    },
+    {
+        "sentence": "小学校の先生は子供たちに楽しい授業を提供します。",
+        "translation": {
+            "fr": "Les enseignants d'école primaire offrent des cours amusants aux enfants.",
+            "en": "Elementary school teachers provide fun lessons for the children."
+        },
+        "id": 6745
+    },
+    {
+        "sentence": "子供たちは小学校で基本的な知識を学びます。",
+        "translation": {
+            "fr": "Les enfants apprennent des connaissances de base à l'école primaire.",
+            "en": "Children learn basic knowledge at elementary school."
+        },
+        "id": 6746
+    },
+    {
+        "sentence": "私は小学校の時、友達と一緒に遊ぶのが好きでした。",
+        "translation": {
+            "fr": "Quand j'étais à l'école primaire, j'aimais jouer avec mes amis.",
+            "en": "When I was in elementary school, I liked playing with my friends."
+        },
+        "id": 6747
+    },
+    {
+        "sentence": "彼は後ろに立っています。",
+        "translation": {
+            "fr": "Il se tient derrière.",
+            "en": "He is standing behind."
+        },
+        "id": 6748
+    },
+    {
+        "sentence": "彼はとても静かな人です。",
+        "translation": {
+            "fr": "Il est une personne très calme.",
+            "en": "He is a very quiet person."
+        },
+        "id": 6749
+    },
+    {
+        "sentence": "私は後ろの席に座ります。",
+        "translation": {
+            "fr": "Je m'assiérai à l'arrière.",
+            "en": "I will sit in the back seat."
+        },
+        "id": 6750
+    },
+    {
+        "sentence": "彼女は後ろ髪を切りました。",
+        "translation": {
+            "fr": "Elle s'est coupé les cheveux à l'arrière.",
+            "en": "She cut her hair at the back."
+        },
+        "id": 6751
+    },
+    {
+        "sentence": "彼は日本へ行く予定だ。",
+        "translation": {
+            "fr": "Il prévoit de se rendre au Japon.",
+            "en": "He is planning to go to Japan."
+        },
+        "id": 6752
+    },
+    {
+        "sentence": "明日は試験があるから、早く寝ないと。",
+        "translation": {
+            "fr": "Demain, il y a un examen, donc je dois me coucher tôt.",
+            "en": "I have an exam tomorrow, so I need to go to bed early."
+        },
+        "id": 6753
+    },
+    {
+        "sentence": "日曜日に映画を見に行こうと思ってる。",
+        "translation": {
+            "fr": "Je pense aller voir un film dimanche.",
+            "en": "I'm thinking of going to see a movie on Sunday."
+        },
+        "id": 6754
+    },
+    {
+        "sentence": "昨日の会議は閉会した。",
+        "translation": {
+            "fr": "La réunion d'hier s'est terminée.",
+            "en": "The meeting yesterday adjourned."
+        },
+        "id": 6755
+    },
+    {
+        "sentence": "参加者は席を立った。",
+        "translation": {
+            "fr": "Les participants se sont levés.",
+            "en": "The participants stood up from their seats."
+        },
+        "id": 6756
+    },
+    {
+        "sentence": "彼は毎晩本を閉じる。",
+        "translation": {
+            "fr": "Il ferme son livre tous les soirs.",
+            "en": "He closes a book every night."
+        },
+        "id": 6757
+    },
+    {
+        "sentence": "彼は読書が好きです。",
+        "translation": {
+            "fr": "Il aime lire.",
+            "en": "He likes reading."
+        },
+        "id": 6758
+    },
+    {
+        "sentence": "雨が入ってきます。",
+        "translation": {
+            "fr": "Il va pleuvoir.",
+            "en": "Rain is coming in."
+        },
+        "id": 6759
+    },
+    {
+        "sentence": "ショッピングを楽しみます。",
+        "translation": {
+            "fr": "J'apprécie faire du shopping.",
+            "en": "I enjoy shopping."
+        },
+        "id": 6760
+    },
+    {
+        "sentence": "瞑想をしています。",
+        "translation": {
+            "fr": "Je médite.",
+            "en": "I am meditating."
+        },
+        "id": 6761
+    },
+    {
+        "sentence": "鍵をかける。",
+        "translation": {
+            "fr": "Verrouiller.",
+            "en": "Lock the door."
+        },
+        "id": 6762
+    },
+    {
+        "sentence": "彼は日本の会社員です。",
+        "translation": {
+            "fr": "Il est employé d'une entreprise japonaise.",
+            "en": "He is a Japanese company employee."
+        },
+        "id": 6763
+    },
+    {
+        "sentence": "彼は会社員として働いています。",
+        "translation": {
+            "fr": "Il travaille en tant que salarié.",
+            "en": "He works as a company employee."
+        },
+        "id": 6764
+    },
+    {
+        "sentence": "彼の会社は大きいです。",
+        "translation": {
+            "fr": "Son entreprise est grande.",
+            "en": "His company is big."
+        },
+        "id": 6765
+    },
+    {
+        "sentence": "もちろん、一生懸命です。",
+        "translation": {
+            "fr": "Bien sûr, je travaille dur.",
+            "en": "Of course, I am doing my best."
+        },
+        "id": 6766
+    },
+    {
+        "sentence": "もちろん、楽しみです。",
+        "translation": {
+            "fr": "Bien sûr, c'est amusant.",
+            "en": "Of course, I'm looking forward to it."
+        },
+        "id": 6767
+    },
+    {
+        "sentence": "もちろん、練習が大切です。",
+        "translation": {
+            "fr": "Bien sûr, la pratique est importante.",
+            "en": "Of course, practice is important."
+        },
+        "id": 6768
+    },
+    {
+        "sentence": "彼女の日本語能力はN3レベルです。",
+        "translation": {
+            "fr": "Son niveau de japonais est N3.",
+            "en": "Her Japanese language ability is at N3 level."
+        },
+        "id": 6769
+    },
+    {
+        "sentence": "まあまあ、でもまだ改善の余地があります。",
+        "translation": {
+            "fr": "Eh bien, il y a encore de la marge pour améliorer.",
+            "en": "Well, there is still room for improvement."
+        },
+        "id": 6770
+    },
+    {
+        "sentence": "昨日の試験の結果はまあまあだった。",
+        "translation": {
+            "fr": "Les résultats de l'examen d'hier étaient assez bons.",
+            "en": "The results of yesterday's exam were so-so."
+        },
+        "id": 6771
+    },
+    {
+        "sentence": "今日は日曜日です。",
+        "translation": {
+            "fr": "Aujourd'hui, c'est dimanche.",
+            "en": "Today is Sunday."
+        },
+        "id": 6772
+    },
+    {
+        "sentence": "じゃあ、何をしますか？。",
+        "translation": {
+            "fr": "Alors, que vas-tu faire ?",
+            "en": "What will you do then?"
+        },
+        "id": 6773
+    },
+    {
+        "sentence": "映画を見に行きましょう。",
+        "translation": {
+            "fr": "Allons voir un film.",
+            "en": "Let's go see a movie."
+        },
+        "id": 6774
+    },
+    {
+        "sentence": "明日、友達と遊びに行く予定です。",
+        "translation": {
+            "fr": "Demain, je prévois de sortir avec des amis.",
+            "en": "I plan to go out with my friends tomorrow."
+        },
+        "id": 6775
+    },
+    {
+        "sentence": "彼はいつもドアを閉じる。",
+        "translation": {
+            "fr": "Il ferme toujours la porte.",
+            "en": "He always closes the door."
+        },
+        "id": 6776
+    },
+    {
+        "sentence": "それから鍵をかける。",
+        "translation": {
+            "fr": "Ensuite, verrouillez la porte.",
+            "en": "Then lock the door."
+        },
+        "id": 6777
+    },
+    {
+        "sentence": "すみません、ちょっと待ってください。",
+        "translation": {
+            "fr": "Excusez-moi, attendez un instant.",
+            "en": "Excuse me, please wait a moment."
+        },
+        "id": 6778
+    },
+    {
+        "sentence": "じゃあ、すぐ戻ります。",
+        "translation": {
+            "fr": "Alors, je reviens tout de suite.",
+            "en": "I'll be right back."
+        },
+        "id": 6779
+    },
+    {
+        "sentence": "その映画はとても面白いです。",
+        "translation": {
+            "fr": "Ce film est très intéressant.",
+            "en": "That movie is very interesting."
+        },
+        "id": 6780
+    },
+    {
+        "sentence": "じゃあ、明日一緒に見ませんか。",
+        "translation": {
+            "fr": "Alors, tu veux regarder ensemble demain?",
+            "en": "So, shall we watch it together tomorrow?"
+        },
+        "id": 6781
+    },
+    {
+        "sentence": "じゃあ、一緒に勉強しましょう。",
+        "translation": {
+            "fr": "Alors, étudions ensemble.",
+            "en": "Let's study together."
+        },
+        "id": 6782
+    },
+    {
+        "sentence": "私は日本語の勉強をしているよ、またね。",
+        "translation": {
+            "fr": "J'étudie le japonais, à plus tard.",
+            "en": "I am studying Japanese, see you later."
+        },
+        "id": 6783
+    },
+    {
+        "sentence": "明日試験があるから、またね。",
+        "translation": {
+            "fr": "Demain, il y a un examen, alors à bientôt.",
+            "en": "I have an exam tomorrow, so see you later."
+        },
+        "id": 6784
+    },
+    {
+        "sentence": "お腹が空いたので、またね。",
+        "translation": {
+            "fr": "J'ai faim, donc à plus tard.",
+            "en": "I'm hungry, so see you later."
+        },
+        "id": 6785
+    },
+    {
+        "sentence": "どれが好きですか。",
+        "translation": {
+            "fr": "Lequel préférez-vous ?",
+            "en": "Which one do you like?"
+        },
+        "id": 6786
+    },
+    {
+        "sentence": "これは私のペンです。",
+        "translation": {
+            "fr": "C'est mon stylo.",
+            "en": "This is my pen."
+        },
+        "id": 6787
+    },
+    {
+        "sentence": "あれは何ですか。",
+        "translation": {
+            "fr": "Qu'est-ce que c'est ?",
+            "en": "What is that?"
+        },
+        "id": 6788
+    },
+    {
+        "sentence": "彼はあそこにいます。",
+        "translation": {
+            "fr": "Il est là-bas.",
+            "en": "He is over there."
+        },
+        "id": 6789
+    },
+    {
+        "sentence": "私はあそこへ行きます。",
+        "translation": {
+            "fr": "Je vais là-bas.",
+            "en": "I will go there."
+        },
+        "id": 6790
+    },
+    {
+        "sentence": "その本はあそこにあります。",
+        "translation": {
+            "fr": "Ce livre est là-bas.",
+            "en": "The book is over there."
+        },
+        "id": 6791
+    },
+    {
+        "sentence": "田中さんは昨日、ああ言った。",
+        "translation": {
+            "fr": "M. Tanaka a dit cela hier.",
+            "en": "Tanaka-san said that yesterday."
+        },
+        "id": 6792
+    },
+    {
+        "sentence": "私もああ思うよ。",
+        "translation": {
+            "fr": "Moi aussi, je pense ça.",
+            "en": "I think so too."
+        },
+        "id": 6793
+    },
+    {
+        "sentence": "ああ、この本はとても面白い。",
+        "translation": {
+            "fr": "Oh, ce livre est très intéressant.",
+            "en": "Oh, this book is very interesting."
+        },
+        "id": 6794
+    },
+    {
+        "sentence": "誰かが部屋に入ってきた。",
+        "translation": {
+            "fr": "Quelqu'un est entré dans la pièce.",
+            "en": "Someone entered the room."
+        },
+        "id": 6795
+    },
+    {
+        "sentence": "彼は誰かを待っている。",
+        "translation": {
+            "fr": "Il attend quelqu'un.",
+            "en": "He is waiting for someone."
+        },
+        "id": 6796
+    },
+    {
+        "sentence": "誰かが私の財布を拾ってくれた。",
+        "translation": {
+            "fr": "Quelqu'un a trouvé mon portefeuille.",
+            "en": "Someone picked up my wallet."
+        },
+        "id": 6797
+    },
+    {
+        "sentence": "彼は多分日本語が話せるだろう。",
+        "translation": {
+            "fr": "Il sait probablement parler japonais.",
+            "en": "He might be able to speak Japanese."
+        },
+        "id": 6798
+    },
+    {
+        "sentence": "でも、確信はない。",
+        "translation": {
+            "fr": "Mais je ne suis pas sûr.",
+            "en": "But, I'm not sure."
+        },
+        "id": 6799
+    },
+    {
+        "sentence": "この問題は多分簡単だと思う。",
+        "translation": {
+            "fr": "Ce problème est probablement facile.",
+            "en": "I think this problem is probably easy."
+        },
+        "id": 6800
+    },
+    {
+        "sentence": "彼はいくらお金を持っているか分からない。",
+        "translation": {
+            "fr": "On ne sait pas combien d'argent il a.",
+            "en": "He doesn't know how much money he has."
+        },
+        "id": 6801
+    },
+    {
+        "sentence": "彼はとても富裕です。",
+        "translation": {
+            "fr": "Il est très riche.",
+            "en": "He is very wealthy."
+        },
+        "id": 6802
+    },
+    {
+        "sentence": "いくら働いてもお金が足りないと感じることがあります。",
+        "translation": {
+            "fr": "Peu importe combien je travaille, il m'arrive de sentir que l'argent ne suffit pas.",
+            "en": "Sometimes I feel like no matter how much I work, I never have enough money."
+        },
+        "id": 6803
+    },
+    {
+        "sentence": "いくら食べてもお腹がいっぱいにならない。",
+        "translation": {
+            "fr": "Peu importe combien je mange, je ne me sens jamais rassasié.",
+            "en": "No matter how much I eat, I never feel full."
+        },
+        "id": 6804
+    },
+    {
+        "sentence": "彼女はいくら頼んでも断られることはありません。",
+        "translation": {
+            "fr": "Elle ne se voit jamais refuser quoi que ce soit, peu importe le nombre de fois qu'elle demande.",
+            "en": "She will never be refused no matter how much she asks."
+        },
+        "id": 6805
+    },
+    {
+        "sentence": "私の部屋には本がいくつありますか。",
+        "translation": {
+            "fr": "Combien de livres y a-t-il dans ma chambre?",
+            "en": "How many books are in my room?"
+        },
+        "id": 6806
+    },
+    {
+        "sentence": "それはN3の問題です。",
+        "translation": {
+            "fr": "C'est un problème de niveau N3.",
+            "en": "It is an N3 level question."
+        },
+        "id": 6807
+    },
+    {
+        "sentence": "N5の単語をいくつ知っていますか。",
+        "translation": {
+            "fr": "Combien de mots de niveau N5 connaissez-vous?",
+            "en": "How many N5 level words do you know?"
+        },
+        "id": 6808
+    },
+    {
+        "sentence": "彼は若年の頃に日本語を勉強し始めました。",
+        "translation": {
+            "fr": "Il a commencé à étudier le japonais quand il était jeune.",
+            "en": "He began studying Japanese at a young age."
+        },
+        "id": 6809
+    },
+    {
+        "sentence": "彼の日本語の能力は驚くほど上達しています。",
+        "translation": {
+            "fr": "Sa compétence en japonais s'améliore de manière surprenante.",
+            "en": "His Japanese language ability has improved remarkably."
+        },
+        "id": 6810
+    },
+    {
+        "sentence": "若年の時に外国で暮らす経験はとても貴重です。",
+        "translation": {
+            "fr": "Vivre à l'étranger lorsque l'on est jeune est une expérience très précieuse.",
+            "en": "Living abroad at a young age is a very valuable experience."
+        },
+        "id": 6811
+    },
+    {
+        "sentence": "彼女は若い時にフランスに住んでいた。",
+        "translation": {
+            "fr": "Elle a vécu en France quand elle était jeune.",
+            "en": "She lived in France when she was young."
+        },
+        "id": 6812
+    },
+    {
+        "sentence": "外国語が得意だと思います。",
+        "translation": {
+            "fr": "Je pense que je suis doué en langues étrangères.",
+            "en": "I think I am good at foreign languages."
+        },
+        "id": 6813
+    },
+    {
+        "sentence": "彼の若い頃の写真を見たことがありますか？。",
+        "translation": {
+            "fr": "Avez-vous déjà vu des photos de lui dans sa jeunesse?",
+            "en": "Have you ever seen a photo of him when he was young?"
+        },
+        "id": 6814
+    },
+    {
+        "sentence": "若い人たちは新しいテクノロジーに詳しいです。",
+        "translation": {
+            "fr": "Les jeunes sont compétents en matière de nouvelles technologies.",
+            "en": "Young people are knowledgeable about new technology."
+        },
+        "id": 6815
+    },
+    {
+        "sentence": "なるほど、それは素晴らしいことです。",
+        "translation": {
+            "fr": "C'est en effet une chose merveilleuse.",
+            "en": "I see, that is wonderful."
+        },
+        "id": 6816
+    },
+    {
+        "sentence": "なるほど、漢字の学習は大変ですね。",
+        "translation": {
+            "fr": "C'est vrai, l'apprentissage des kanji est difficile.",
+            "en": "I see, learning kanji is difficult, isn't it?"
+        },
+        "id": 6817
+    },
+    {
+        "sentence": "なるほど、料理は楽しいですね。",
+        "translation": {
+            "fr": "C'est vrai, la cuisine est amusante.",
+            "en": "I see, cooking is fun, isn't it?"
+        },
+        "id": 6818
+    },
+    {
+        "sentence": "山田さんは日本語の先生です。",
+        "translation": {
+            "fr": "Monsieur Yamada est professeur de japonais.",
+            "en": "Mr. Yamada is a Japanese teacher."
+        },
+        "id": 6819
+    },
+    {
+        "sentence": "彼は毎日日本語を勉強します。",
+        "translation": {
+            "fr": "Il étudie le japonais tous les jours.",
+            "en": "He studies Japanese every day."
+        },
+        "id": 6820
+    },
+    {
+        "sentence": "山本さんは日本語の勉強をしています。",
+        "translation": {
+            "fr": "M. Yamamoto étudie le japonais.",
+            "en": "Yamamoto is studying Japanese."
+        },
+        "id": 6821
+    },
+    {
+        "sentence": "彼は毎日新しい単語を覚えます。",
+        "translation": {
+            "fr": "Il apprend de nouveaux mots tous les jours.",
+            "en": "He learns new words every day."
+        },
+        "id": 6822
+    },
+    {
+        "sentence": "彼はギ神に祈りました。",
+        "translation": {
+            "fr": "Il a prié les dieux.",
+            "en": "He prayed to the god."
+        },
+        "id": 6823
+    },
+    {
+        "sentence": "神社に行ってお参りしました。",
+        "translation": {
+            "fr": "Je suis allé au sanctuaire pour prier.",
+            "en": "I went to the shrine and prayed."
+        },
+        "id": 6824
+    },
+    {
+        "sentence": "多分、来週の試験は難しいだろう。",
+        "translation": {
+            "fr": "Peut-être que l'examen de la semaine prochaine sera difficile.",
+            "en": "Maybe the exam next week will be difficult."
+        },
+        "id": 6825
+    },
+    {
+        "sentence": "私は毎日勉強しているから自信がある。",
+        "translation": {
+            "fr": "Je suis confiant parce que j'étudie tous les jours.",
+            "en": "I am confident because I study every day."
+        },
+        "id": 6826
+    },
+    {
+        "sentence": "電車が遅れているからだ。",
+        "translation": {
+            "fr": "Le train est en retard.",
+            "en": "The train is running late."
+        },
+        "id": 6827
+    },
+    {
+        "sentence": "明日会う約束をしていたけど。",
+        "translation": {
+            "fr": "Nous avions pris rendez-vous pour nous voir demain, mais...",
+            "en": "We had a promise to meet tomorrow, but..."
+        },
+        "id": 6828
+    },
+    {
+        "sentence": "若年の頃、よく友達と遊んでいました。",
+        "translation": {
+            "fr": "Quand j’étais jeune, je jouais souvent avec mes amis.",
+            "en": "When I was young, I used to play often with my friends."
+        },
+        "id": 6829
+    },
+    {
+        "sentence": "彼女は若年で有名な作家です。",
+        "translation": {
+            "fr": "Elle est une jeune auteure célèbre.",
+            "en": "She is a young and famous writer."
+        },
+        "id": 6830
+    },
+    {
+        "sentence": "彼女は頑張っている。",
+        "translation": {
+            "fr": "Elle fait de son mieux. ",
+            "en": "She is doing her best."
+        },
+        "id": 6831
+    },
+    {
+        "sentence": "漢字は難しいけれども楽しい。",
+        "translation": {
+            "fr": "Les kanji sont difficiles mais amusants.",
+            "en": "Kanji is difficult but fun."
+        },
+        "id": 6832
+    },
+    {
+        "sentence": "使い方が簡単だった。",
+        "translation": {
+            "fr": "C'était facile à utiliser.",
+            "en": "It was easy to use."
+        },
+        "id": 6833
+    },
+    {
+        "sentence": "山田さんは日本語の勉強をしています。",
+        "translation": {
+            "fr": "M. Yamada étudie le japonais.",
+            "en": "Yamada is studying Japanese."
+        },
+        "id": 6834
+    },
+    {
+        "sentence": "彼は毎日漢字を勉強しています。",
+        "translation": {
+            "fr": "Il étudie les kanji tous les jours.",
+            "en": "He studies kanji every day."
+        },
+        "id": 6835
+    },
+    {
+        "sentence": "山本さんは日本語を勉強しています。",
+        "translation": {
+            "fr": "M. Yamamoto étudie le japonais.",
+            "en": "Mr. Yamamoto is studying Japanese."
+        },
+        "id": 6836
+    },
+    {
+        "sentence": "彼は毎日漢字を勉強します。",
+        "translation": {
+            "fr": "Il étudie les kanji tous les jours.",
+            "en": "He studies kanji every day."
+        },
+        "id": 6837
+    },
+    {
+        "sentence": "山本さんは日本の文化に興味があります。",
+        "translation": {
+            "fr": "M. Yamamoto s'intéresse à la culture japonaise.",
+            "en": "Mr. Yamamoto is interested in Japanese culture."
+        },
+        "id": 6838
+    },
+    {
+        "sentence": "彼は日本語能力試験を受けました。",
+        "translation": {
+            "fr": "Il a passé l'examen de compétence en japonais.",
+            "en": "He took the Japanese Language Proficiency Test."
+        },
+        "id": 6839
+    },
+    {
+        "sentence": "彼はギ神のように速く走ることができる。",
+        "translation": {
+            "fr": "Il peut courir aussi vite qu'un dieu.",
+            "en": "He can run as fast as a god."
+        },
+        "id": 6840
+    },
+    {
+        "sentence": "彼はN3レベルの日本語能力試験に合格した。",
+        "translation": {
+            "fr": "Il a réussi l'examen de compétence en japonais de niveau N3.",
+            "en": "He passed the Japanese Language Proficiency Test at N3 level."
+        },
+        "id": 6841
+    },
+    {
+        "sentence": "山田さんは日本語の教師です。",
+        "translation": {
+            "fr": "M. Yamada est professeur de japonais.",
+            "en": "Mr. Yamada is a Japanese teacher."
+        },
+        "id": 6842
+    },
+    {
+        "sentence": "彼は優しいです。",
+        "translation": {
+            "fr": "Il est gentil.",
+            "en": "He is kind."
+        },
+        "id": 6843
+    },
+    {
+        "sentence": "山田さんは毎日忙しいですが、いつも笑顔で仕事をします。",
+        "translation": {
+            "fr": "M. Yamada est occupé tous les jours mais il travaille toujours avec le sourire.",
+            "en": "Mr. Yamada is busy every day, but he always works with a smile."
+        },
+        "id": 6844
+    },
+    {
+        "sentence": "山本さんは日本語の先生です。",
+        "translation": {
+            "fr": "M. Yamamoto est professeur de japonais.",
+            "en": "Yamamoto is a Japanese teacher."
+        },
+        "id": 6845
+    },
+    {
+        "sentence": "山本さんの授業はとても分かりやすいです。",
+        "translation": {
+            "fr": "Le cours de M. Yamamoto est très clair.",
+            "en": "Mr. Yamamoto's class is very easy to understand."
+        },
+        "id": 6846
+    },
+    {
+        "sentence": "彼はギ神のような力を持っている。",
+        "translation": {
+            "fr": "Il possède un pouvoir semblable à celui d'un dieu.",
+            "en": "He possesses a godlike power."
+        },
+        "id": 6847
+    },
+    {
+        "sentence": "彼の能力は本当に驚くべきだ。",
+        "translation": {
+            "fr": "Ses capacités sont vraiment étonnantes.",
+            "en": "His ability is truly amazing."
+        },
+        "id": 6848
+    },
+    {
+        "sentence": "彼はギ神のような強さを持っています。",
+        "translation": {
+            "fr": "Il a une force semblable à un dieu.",
+            "en": "He has the strength of a god."
+        },
+        "id": 6849
+    },
+    {
+        "sentence": "彼はサッカーが大好きです。",
+        "translation": {
+            "fr": "Il aime beaucoup le football.",
+            "en": "He loves soccer."
+        },
+        "id": 6850
+    },
+    {
+        "sentence": "彼は日本語を勉強しているが、まだ上手ではない。",
+        "translation": {
+            "fr": "Il étudie le japonais mais n'est pas encore doué.",
+            "en": "He is studying Japanese, but he is not yet proficient."
+        },
+        "id": 6851
+    },
+    {
+        "sentence": "彼は、日本語の勉強を始めてから上達が早いですね。",
+        "translation": {
+            "fr": "Il progresse rapidement depuis qu'il a commencé à étudier le japonais.",
+            "en": "He has improved quickly since starting to study Japanese, hasn't he?"
+        },
+        "id": 6852
+    },
+    {
+        "sentence": "なるほど、それは面白いです。",
+        "translation": {
+            "fr": "Je vois, c’est intéressant. ",
+            "en": "I see, it's interesting."
+        },
+        "id": 6853
     }
 ]
