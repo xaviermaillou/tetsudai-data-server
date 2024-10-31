@@ -42249,6 +42249,27 @@
             "kunyomi": [
                 {
                     "kana": "こ"
+                },
+                {
+                    "kana": "そこ"
+                },
+                {
+                    "kana": "お"
+                },
+                {
+                    "kana": "か"
+                },
+                {
+                    "kana": "く"
+                },
+                {
+                    "kana": "と"
+                },
+                {
+                    "kana": "とこ"
+                },
+                {
+                    "kana": "ところ"
                 }
             ],
             "onyomi": [
@@ -42265,34 +42286,50 @@
         ],
         "translation": {
             "fr": [
-                "traiter, se débarasser, sentance, condamnation"
+                "traiter, régler, condamner, conduite",
+                "lieu, endroit"
             ],
             "en": [
-                "treat, get rid of, sentence, condemnation"
+                "treat, deal with, condemn, behave",
+                "place, location"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "ko",
+            "soko",
+            "o",
+            "ka",
+            "ku",
+            "to",
+            "toko",
+            "tokoro",
             "sho"
         ],
+        "alternatives": {
+            "fr": [
+                "agir"
+            ],
+            "en": [
+                "manage, act"
+            ]
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
             "sameMeaning": false,
-            "sinogram": "",
+            "sinogram": "處",
             "otherMeaning": {
-                "fr": [],
-                "en": []
+                "fr": [
+                    "lieu, endroit"
+                ],
+                "en": [
+                    "place location"
+                ]
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "tsyho"
+        }
     },
     {
         "id": 288,
@@ -48726,6 +48763,9 @@
             "onyomi": [
                 {
                     "kana": "エイ"
+                },
+                {
+                    "kana": "ヨウ"
                 }
             ]
         },
@@ -48740,31 +48780,31 @@
                 "nage"
             ],
             "en": [
-                "swimming"
+                "swim"
             ]
         },
+        "romaji": [
+            "oyo",
+            "ei",
+            "you"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "oyo",
-            "ei"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "hjwaeng"
+        }
     },
     {
         "id": 180,
@@ -49834,7 +49874,11 @@
                     "kana": "ざき"
                 }
             ],
-            "onyomi": []
+            "onyomi": [
+                {
+                    "kana": "キ"
+                }
+            ]
         },
         "collections": [],
         "kanjiVariations": [],
@@ -49844,34 +49888,34 @@
         ],
         "translation": {
             "fr": [
-                "prémontoire"
+                "prémontoire, péninsule, cap"
             ],
             "en": [
-                "premontory"
+                "promontory, peninsula, cape"
             ]
         },
+        "romaji": [
+            "saki",
+            "zaki",
+            "ki"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "saki",
-            "zaki"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "khje"
+        }
     },
     {
         "id": 162,
@@ -49894,9 +49938,6 @@
                 },
                 {
                     "kana": "ク"
-                },
-                {
-                    "kana": "クウ"
                 }
             ]
         },
@@ -49908,37 +49949,39 @@
         ],
         "translation": {
             "fr": [
-                "sanctuaire shintoïste, palais"
+                "sanctuaire",
+                "palais",
+                "prince"
             ],
             "en": [
-                "Shinto shrine, palace"
+                "shrine",
+                "palace",
+                "prince"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "miya",
             "kyuu",
             "guu",
-            "ku",
-            "kuu"
+            "ku"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "kjuwng"
+        }
     },
     {
         "id": 161,
@@ -50857,34 +50900,43 @@
         ],
         "translation": {
             "fr": [
-                "forêt"
+                "forêt, bois"
             ],
             "en": [
-                "forest"
+                "forest, woods"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "mori",
             "shin"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
             "sameMeaning": false,
-            "sinogram": "",
+            "sinogram": null,
             "otherMeaning": {
-                "fr": [],
-                "en": []
+                "fr": [
+                    "densément boisé",
+                    "dense, en profusion",
+                    "obscur, sombre, froid",
+                    "strict, rigide"
+                ],
+                "en": [
+                    "densely forested",
+                    "dense, in profusion",
+                    "dark, gloomy, cold",
+                    "strict, rigid"
+                ]
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "srim"
+        }
     },
     {
         "id": 145,
@@ -50954,10 +51006,17 @@
         "level": "N3",
         "frequency": 1424,
         "readings": {
-            "kunyomi": [],
+            "kunyomi": [
+                {
+                    "kana": "おそ"
+                }
+            ],
             "onyomi": [
                 {
                     "kana": "バン"
+                },
+                {
+                    "kana": "モン"
                 }
             ]
         },
@@ -50971,33 +51030,34 @@
         ],
         "translation": {
             "fr": [
-                "soir"
+                "soir, nuit"
             ],
             "en": [
-                "evening"
+                "evening, night"
             ]
         },
+        "romaji": [
+            "oso",
+            "ban",
+            "mon"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "ban"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": "晚",
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "mjon"
+        }
     },
     {
         "id": 143,
@@ -51619,12 +51679,13 @@
                 },
                 {
                     "kana": "あれ"
-                },
-                {
-                    "kana": "あそ"
                 }
             ],
-            "onyomi": []
+            "onyomi": [
+                {
+                    "kana": "ヒ"
+                }
+            ]
         },
         "collections": [
             "lplk1"
@@ -51636,34 +51697,37 @@
         ],
         "translation": {
             "fr": [
-                "il"
+                "il, lui, elle"
             ],
             "en": [
-                "he"
+                "he, she"
             ]
         },
+        "romaji": [
+            "kare",
+            "kano",
+            "ka",
+            "a",
+            "are",
+            "hi"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "kare",
-            "kano"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "pje"
+        }
     },
     {
         "id": 133,
@@ -52526,14 +52590,23 @@
                 },
                 {
                     "kana": "まな"
+                },
+                {
+                    "kana": "う"
+                },
+                {
+                    "kana": "いつく"
+                },
+                {
+                    "kana": "うつく"
+                },
+                {
+                    "kana": "お"
                 }
             ],
             "onyomi": [
                 {
                     "kana": "アイ"
-                },
-                {
-                    "kana": "ワイ"
                 }
             ]
         },
@@ -52547,38 +52620,40 @@
         ],
         "translation": {
             "fr": [
-                "amour, affection"
+                "amour, affection, tendresse"
             ],
             "en": [
-                "love, affection"
+                "love, affection, tenderness"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "ito",
             "kana",
             "me",
             "mana",
-            "ai",
-            "wai"
+            "u",
+            "itsuku",
+            "utsuku",
+            "o",
+            "ai"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "'oj"
+        }
     },
     {
         "id": 119,
@@ -52665,6 +52740,9 @@
             "onyomi": [
                 {
                     "kana": "シュ"
+                },
+                {
+                    "kana": "シュウ"
                 }
             ]
         },
@@ -52676,35 +52754,41 @@
         ],
         "translation": {
             "fr": [
-                "alcool, vin"
+                "sake, vin de riz",
+                "alcool"
             ],
             "en": [
-                "alcohol, wine"
+                "sake, rice wine",
+                "alcohol"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "sake",
             "saka",
-            "shu"
+            "shu",
+            "shuu"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
             "sameMeaning": false,
-            "sinogram": "",
+            "sinogram": null,
             "otherMeaning": {
-                "fr": [],
-                "en": []
+                "fr": [
+                    "alcool, boissons alcooliques en général"
+                ],
+                "en": [
+                    "alcohol, alcoholic beverages in general"
+                ]
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "tsjuw"
+        }
     },
     {
         "id": 117,

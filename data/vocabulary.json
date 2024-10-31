@@ -1,5 +1,72 @@
 [
     {
+        "id": 1382,
+        "elements": [
+            {
+                "kanji": "一",
+                "kana": "イチ",
+                "options": {
+                    "rareKanji": false,
+                    "politeElement": false,
+                    "ateji": false,
+                    "irregular": false,
+                    "chineseLegacy": false
+                }
+            },
+            {
+                "kanji": "度",
+                "kana": "ド",
+                "options": {
+                    "rareKanji": false,
+                    "politeElement": false,
+                    "ateji": false,
+                    "irregular": false,
+                    "chineseLegacy": false
+                }
+            }
+        ],
+        "common": true,
+        "jukujikun": null,
+        "jukujikunAsMain": false,
+        "forceHiragana": false,
+        "includesParticle": false,
+        "gender": null,
+        "formality": null,
+        "collections": [],
+        "level": "N4",
+        "originLanguage": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
+        "frequency": 10000,
+        "romaji": [
+            "ichido"
+        ],
+        "translation": {
+            "fr": [
+                "une fois, à une occasion",
+                "temporairement, pour un moment"
+            ],
+            "en": [
+                "once, one time, on one occasion",
+                "temporarily, for a moment"
+            ]
+        },
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
+        "grammar": [
+            "nc",
+            "adv"
+        ],
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
+        "kosoado": false
+    },
+    {
         "id": 1381,
         "elements": [
             {
@@ -29835,8 +29902,15 @@
         "collections": [],
         "level": "N5",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 6073,
+        "romaji": [
+            "mouichido"
+        ],
         "translation": {
             "fr": [
                 "encore une fois"
@@ -29848,21 +29922,15 @@
         "alternatives": {
             "fr": [
                 "encore",
-                "nouveau"
+                "de nouveau"
             ],
             "en": [
-                "Again",
-                "new"
+                "again",
+                "once more"
             ]
         },
-        "romaji": [
-            "mouichido"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
+            "adv",
             "exp"
         ],
         "verbPrecisions": null,
@@ -41257,7 +41325,7 @@
                     "rareKanji": true,
                     "politeElement": false,
                     "ateji": false,
-                    "irregular": false,
+                    "irregular": true,
                     "chineseLegacy": false
                 }
             },
@@ -41283,8 +41351,15 @@
         "collections": [],
         "level": "N5",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "kawaii"
+        ],
         "translation": {
             "fr": [
                 "mignon"
@@ -41304,13 +41379,6 @@
                 "cute",
                 "cute"
             ]
-        },
-        "romaji": [
-            "kawaii"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "adj"
@@ -84393,7 +84461,7 @@
         "elements": [
             {
                 "kanji": "彼",
-                "kana": "あそ",
+                "kana": "あ",
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
@@ -84404,7 +84472,7 @@
             },
             {
                 "kanji": "処",
-                "kana": "こ",
+                "kana": "そこ",
                 "options": {
                     "rareKanji": true,
                     "politeElement": false,
@@ -84424,8 +84492,15 @@
         "collections": [],
         "level": "N5",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "asoko"
+        ],
         "translation": {
             "fr": [
                 "là-bas"
@@ -84441,13 +84516,6 @@
             "en": [
                 ""
             ]
-        },
-        "romaji": [
-            "asoko"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "pn"
