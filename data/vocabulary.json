@@ -19272,8 +19272,15 @@
         ],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "dochiramo"
+        ],
         "translation": {
             "fr": [
                 "tous les deux",
@@ -19293,13 +19300,6 @@
                 "both",
                 "none"
             ]
-        },
-        "romaji": [
-            "dochira"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "exp"
@@ -45037,14 +45037,21 @@
         "collections": [],
         "level": "N5",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "soredeha"
+        ],
         "translation": {
             "fr": [
                 "eh bien, du coup, dans ce cas"
             ],
             "en": [
-                "well, suddenly, in this case"
+                "well, then, in this case"
             ]
         },
         "alternatives": {
@@ -45054,17 +45061,8 @@
                 "alors"
             ],
             "en": [
-                "GOOD",
-                "SO",
-                "SO"
+                "so, therefore"
             ]
-        },
-        "romaji": [
-            "soredeha"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
         },
         "grammar": [
             "cj",
@@ -45266,8 +45264,15 @@
         "collections": [],
         "level": "N5",
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "sorekara"
+        ],
         "translation": {
             "fr": [
                 "et ensuite, après cela"
@@ -45290,14 +45295,8 @@
                 "SO"
             ]
         },
-        "romaji": [
-            "sorekara"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
+            "cj",
             "exp"
         ],
         "verbPrecisions": null,
@@ -99898,8 +99897,15 @@
         "collections": [],
         "level": null,
         "originLanguage": null,
-        "originLanguageWord": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
         "frequency": 10000,
+        "romaji": [
+            "hahanohi"
+        ],
         "translation": {
             "fr": [
                 "fête des mères"
@@ -99916,14 +99922,8 @@
                 ""
             ]
         },
-        "romaji": [
-            "hahanohi"
-        ],
-        "precisions": {
-            "fr": "",
-            "en": ""
-        },
         "grammar": [
+            "nc",
             "exp"
         ],
         "verbPrecisions": null,
