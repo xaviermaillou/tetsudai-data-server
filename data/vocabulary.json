@@ -1,5 +1,73 @@
 [
     {
+        "id": 1383,
+        "elements": [
+            {
+                "kanji": "",
+                "kana": "の",
+                "options": {
+                    "rareKanji": false,
+                    "politeElement": false,
+                    "ateji": false,
+                    "irregular": false,
+                    "chineseLegacy": false
+                }
+            },
+            {
+                "kanji": "",
+                "kana": "で",
+                "options": {
+                    "rareKanji": false,
+                    "politeElement": false,
+                    "ateji": false,
+                    "irregular": false,
+                    "chineseLegacy": false
+                }
+            }
+        ],
+        "common": true,
+        "jukujikun": null,
+        "jukujikunAsMain": false,
+        "forceHiragana": false,
+        "includesParticle": false,
+        "gender": null,
+        "formality": null,
+        "collections": [],
+        "level": null,
+        "originLanguage": null,
+        "originLanguageWord": "",
+        "precisions": {
+            "fr": "",
+            "en": ""
+        },
+        "frequency": 10000,
+        "romaji": [
+            "node"
+        ],
+        "translation": {
+            "fr": [
+                "à cause de, étant donné"
+            ],
+            "en": [
+                "because of, given that"
+            ]
+        },
+        "alternatives": {
+            "fr": [
+                "parce que, puisque, raison"
+            ],
+            "en": [
+                "because, reason"
+            ]
+        },
+        "grammar": [
+            "ptc"
+        ],
+        "verbPrecisions": null,
+        "adjectivePrecisions": null,
+        "kosoado": false
+    },
+    {
         "id": 1382,
         "elements": [
             {

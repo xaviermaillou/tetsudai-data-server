@@ -47576,12 +47576,12 @@
         "id": 5946
     },
     {
+        "id": 5947,
         "sentence": "それでは、よろしくお願いします。",
         "translation": {
-            "fr": "Alors, je vous prie de bien vouloir.",
-            "en": "Well then, thank you in advance."
-        },
-        "id": 5947
+            "fr": "Alors, je vous prie de bien vouloir m'aider.",
+            "en": "In that case, please take care of this."
+        }
     },
     {
         "sentence": "彼は仕事を真面目にいたす。",
