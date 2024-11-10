@@ -45830,35 +45830,34 @@
         ],
         "translation": {
             "fr": [
-                "calme"
+                "calme, silencieux"
             ],
             "en": [
-                "calm"
+                "calm, silent, quiet"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "shizu",
             "sei",
             "jou"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": "靜",
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "dzjeng"
+        }
     },
     {
         "id": 229,
@@ -46953,11 +46952,23 @@
             "kunyomi": [
                 {
                     "kana": "さむ"
+                },
+                {
+                    "kana": "いや"
+                },
+                {
+                    "kana": "さび"
+                },
+                {
+                    "kana": "まず"
                 }
             ],
             "onyomi": [
                 {
                     "kana": "カン"
+                },
+                {
+                    "kana": "ガン"
                 }
             ]
         },
@@ -46976,28 +46987,31 @@
                 "cold"
             ]
         },
+        "romaji": [
+            "samu",
+            "iya",
+            "sabi",
+            "mazu",
+            "kan",
+            "gan"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "samu",
-            "kan"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "han"
+        }
     },
     {
         "id": 210,
@@ -48286,6 +48300,9 @@
             "onyomi": [
                 {
                     "kana": "ショ"
+                },
+                {
+                    "kana": "ソ"
                 }
             ]
         },
@@ -48297,34 +48314,34 @@
         ],
         "translation": {
             "fr": [
-                "première fois, début"
+                "premier, début, initial"
             ],
             "en": [
-                "first time, beginning"
+                "first, beginning, initial"
             ]
         },
+        "romaji": [
+            "haji",
+            "sho",
+            "so"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "haji",
-            "sho"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "tsrhjo"
+        }
     },
     {
         "id": 188,
@@ -50274,35 +50291,38 @@
         ],
         "translation": {
             "fr": [
-                "accomplissement, récompense, succès"
+                "fruit, résultat, accomplissement"
             ],
             "en": [
-                "achievement, reward, success"
+                "fruit, result, achievement"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "ha",
             "ka",
             "kuda"
         ],
+        "alternatives": {
+            "fr": [
+                "achèvement, fin, limite"
+            ],
+            "en": [
+                "accomplishment, end, limit"
+            ]
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "kwa"
+        }
     },
     {
         "id": 155,
@@ -50491,7 +50511,14 @@
         "level": "N2",
         "frequency": 1134,
         "readings": {
-            "kunyomi": [],
+            "kunyomi": [
+                {
+                    "kana": "おし"
+                },
+                {
+                    "kana": "よ"
+                }
+            ],
             "onyomi": [
                 {
                     "kana": "クン"
@@ -50506,33 +50533,36 @@
         ],
         "translation": {
             "fr": [
-                "instruction, lecture japonaise"
+                "instruire, enseigner",
+                "expliquer"
             ],
             "en": [
-                "instruction, Japanese reading"
+                "instruct, teach",
+                "explain"
             ]
         },
+        "romaji": [
+            "oshi",
+            "yo",
+            "kun"
+        ],
         "alternatives": {
             "fr": [],
             "en": []
         },
-        "romaji": [
-            "kun"
-        ],
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "xjun"
+        }
     },
     {
         "id": 151,
@@ -50616,6 +50646,9 @@
             "onyomi": [
                 {
                     "kana": "アン"
+                },
+                {
+                    "kana": "オン"
                 }
             ]
         },
@@ -50635,29 +50668,33 @@
                 "darkness"
             ]
         },
-        "alternatives": {
-            "fr": [],
-            "en": []
-        },
         "romaji": [
             "kura",
             "gura",
-            "an"
+            "an",
+            "on"
         ],
+        "alternatives": {
+            "fr": [
+                "foncé, noirceur"
+            ],
+            "en": [
+                "blackish, obscurity"
+            ]
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "'om"
+        }
     },
     {
         "id": 149,
@@ -50956,6 +50993,9 @@
             "onyomi": [
                 {
                     "kana": "セイ"
+                },
+                {
+                    "kana": "ショウ"
                 }
             ]
         },
@@ -50969,35 +51009,35 @@
         ],
         "translation": {
             "fr": [
-                "s'éclaircir"
+                "clair"
             ],
             "en": [
-                "lighten up"
+                "clear, bright"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "ha",
             "ba",
-            "sei"
+            "sei",
+            "shou"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": "晴",
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "dzjeng"
+        }
     },
     {
         "id": 144,
@@ -51090,35 +51130,36 @@
         ],
         "translation": {
             "fr": [
-                "fermeture"
+                "fermer",
+                "bloquer, obstruer"
             ],
             "en": [
-                "closing"
+                "close, shut",
+                "block, obstruct"
             ]
-        },
-        "alternatives": {
-            "fr": [],
-            "en": []
         },
         "romaji": [
             "shi",
             "to",
             "hei"
         ],
+        "alternatives": {
+            "fr": [],
+            "en": []
+        },
         "precisions": {
             "fr": "",
             "en": ""
         },
         "origin": {
-            "sameMeaning": false,
-            "sinogram": "",
+            "sameMeaning": true,
+            "sinogram": null,
             "otherMeaning": {
                 "fr": [],
                 "en": []
             },
-            "pinyin": ""
-        },
-        "obsolete": false
+            "pinyin": "pej"
+        }
     },
     {
         "id": 142,
